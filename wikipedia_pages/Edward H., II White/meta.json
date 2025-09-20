@@ -1,0 +1,14 @@
+{
+  "raw_name": "White, Edward H., II",
+  "normalized_name": "Edward H., II White",
+  "attempted_titles": [
+    "Edward H., II White",
+    "Ed White (astronaut)"
+  ],
+  "requested_url": "https://en.wikipedia.org/wiki/Edward_H.%2C_II_White",
+  "final_url": "https://en.wikipedia.org/wiki/Ed_White_(astronaut)",
+  "status": "ok",
+  "notes": [
+    "Direct page 404; using search fallback."
+  ]
+}

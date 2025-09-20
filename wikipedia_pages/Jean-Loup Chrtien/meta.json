@@ -1,0 +1,14 @@
+{
+  "raw_name": "Chrtien, Jean-Loup",
+  "normalized_name": "Jean-Loup Chrtien",
+  "attempted_titles": [
+    "Jean-Loup Chrtien"
+  ],
+  "requested_url": "https://en.wikipedia.org/wiki/Jean-Loup_Chrtien",
+  "final_url": null,
+  "status": "search_failed",
+  "notes": [
+    "Direct page 404; using search fallback.",
+    "Wikipedia search returned no results."
+  ]
+}

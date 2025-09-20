@@ -1,0 +1,14 @@
+{
+  "raw_name": "Hopkins, Michael Scott",
+  "normalized_name": "Michael Scott Hopkins",
+  "attempted_titles": [
+    "Michael Scott Hopkins",
+    "Michael S. Hopkins"
+  ],
+  "requested_url": "https://en.wikipedia.org/wiki/Michael_Scott_Hopkins",
+  "final_url": "https://en.wikipedia.org/wiki/Michael_S._Hopkins",
+  "status": "ok",
+  "notes": [
+    "Direct page 404; using search fallback."
+  ]
+}

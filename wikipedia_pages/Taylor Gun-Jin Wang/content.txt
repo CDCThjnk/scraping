@@ -1,0 +1,171 @@
+ - Main page
+ - Contents
+ - Current events
+ - Random article
+ - About Wikipedia
+ - Contact us
+ - Help
+ - Learn to edit
+ - Community portal
+ - Recent changes
+ - Upload file
+ - Special pages
+ - Donate
+ - Create account
+ - Log in
+ - Donate
+ - Create account
+ - Log in
+ - Contributions
+ - Talk
+
+Contents
+ - (Top)
+ - 1Early life and education
+ - 2Career and researchToggle Career and research subsection2.1Spaceflight2.2Post-spaceflight research2.3Professorship
+ - 2.1Spaceflight
+ - 2.2Post-spaceflight research
+ - 2.3Professorship
+ - 3Recognition
+ - 4See also
+ - 5References
+ - 6External links
+
+Taylor Wang
+ - العربية
+ - Български
+ - Čeština
+ - Deutsch
+ - فارسی
+ - Français
+ - Galego
+ - Bahasa Indonesia
+ - Italiano
+ - Magyar
+ - Malagasy
+ - Nederlands
+ - Polski
+ - Português
+ - Русский
+ - Slovenčina
+ - Türkçe
+ - Українська
+ - 中文
+ - Article
+ - Talk
+ - Read
+ - Edit
+ - View history
+ - Read
+ - Edit
+ - View history
+ - What links here
+ - Related changes
+ - Upload file
+ - Permanent link
+ - Page information
+ - Cite this page
+ - Get shortened URL
+ - Download QR code
+ - Download as PDF
+ - Printable version
+ - Wikimedia Commons
+ - Wikidata item
+ - 
+Taylor Gun-Jin Wang(simplified Chinese:王赣骏;traditional Chinese:王贛駿;pinyin:Wáng Gànjùn; born June 16, 1940) is a Chinese-bornTaiwanese-Americanscientist and in 1985, became the first person of Chinese origin to go into space. While an employee of theJet Propulsion Laboratory, Wang was apayload specialiston theSpace ShuttleChallengermissionSTS-51-B.
+
+Early life and education
+With ancestry inYancheng,Jiangsu,Republic of China, Wang was born inShanghai[1]to Wáng Zhāng (王章) and Yú Jiéhóng (俞洁虹/俞潔虹). He moved toTaiwanin 1952 with his family. He studied his later part ofelementary schoolinKaohsiung, and graduated from theAffiliated Senior High School of National Taiwan Normal UniversityinTaipei,Taiwan. He later moved toHong Kong.
+Wang started studying physics at theUniversity of California, Los Angeles, in 1963. He received hisBachelor of Sciencein 1967, hisMaster of Sciencein 1968, and hisPh.D.in low temperature physics (superfluid andsolid state physics) in 1972.
+
+Career and research
+After completing his doctorate, Wang joined theCalifornia Institute of Technology'sJet Propulsion Laboratory(JPL) in 1972, as a senior scientist. At JPL he was responsible for the inception and development of containerless processing science and technology research. He was the Principal Investigator (PI) on the Spacelab 3 mission NASA Drop Dynamics (DDM) experiments, PI on the NASA SPAR Flight Experiment #77-18 "Dynamics of Liquid Bubble," PI on the NASA SPAR Flight Experiment #76-20 "Containerless Processing Technology," and PI on the Department of Energy Experiment "Spherical Shell Technology."
+He gained UScitizenshipin 1975, and published a paper on the dynamic behavior of rotating spheroids inzero gravitythe next year. The paper received attention inNASA, and Wang was selected as a payload specialist on June 1, 1983, for theSpacelab-3mission.
+Wang conducted precursor drop dynamics experiments for the DDM in ground-based laboratories employingacoustic levitationsystems, neutral buoyancy systems and drop towers, and in the near-weightless environment provided by JSC's KC-135 airplane flights and SPAR rockets. These flights have helped to define the experimental parameters and procedures in the DDM experiments performed on Spacelab 3. He is the inventor of the acoustic levitation and manipulation chamber for the DDM. (Wang, T.G., M. Saffren, D. Elleman and J.C. Fletcher (1975) Material Suspension Within an Acoustically Excited Resonant Chamber. U.S. Patent No. 3,882,732)
+
+Spaceflight
+Wang flew onSTS-51-BChallenger(April 29 – May 6, 1985). STS-51B/Spacelab-3 was launched from Kennedy Space Center, Florida, and returned to land at Edwards Air Force Base, California. It was the first operational Spacelab mission. The seven-man crew aboardChallengerconducted investigations in crystal growth, drop dynamics leading to containerless material processing, atmospheric trace gas spectroscopy, solar and planetary atmospheric simulation, cosmic rays, laboratory animals and human medical monitoring.
+Wang was the principal designer of an experiment called the Drop Dynamics Module, which aimed to uncover the fundamental physical behavior of liquid drops in microgravity. Despite his extensive preparation, the experiment malfunctioned upon activation. Wang, feeling immense pressure and aware of the high expectations from the Chinese community, became deeply despondent.  When Wang's experiment failed, he desperately negotiated with NASA flight controllers for a chance to repair it, even threatening not to return if not allowed to fix the instrument, telling NASA flight controllers "Hey, if you guys don't give me a chance to repair my instrument, I'm not going back." Wang received permission to attempt a fix and was successful in repairing the experiment, though his remark caused concern for the safety of the crew and the mission.[2]
+The incident was covered in anArs Technicaarticle on 22 January 2024. There,John Fabian, mission specialist onSTS-51-G, the very next shuttle flight after 51-B, was cited to explain why a lock was recently installed on the door of the side hatch: "It was installed when we got into orbit so that the door could not be opened from the inside and commithara-kiri, kill the whole crew. That was not because of anybody we had on our flight but because of a concern about someone who had flown before 51-G."[2]
+At mission conclusion, Wang traveled over 2.9 million miles in 110 Earth orbits, and logged over 168 hours in space. While it was a successful mission, STS-51B mission commander Overmyer discovered while serving on theChallengerdisaster investigation team that 51-B had had a similar problem with its O-rings during the launch. Morton Thiokol engineers told Wang's crewmate Don Lind that "you came within three-tenths of one second of dying".[3]
+
+Post-spaceflight research
+Using insights from compound droplet experiments performed in the microgravity of NASA Shuttle Mission STS-51-B,  Dr. Taylor Wang, has developed animmunoisolationencapsulation system that protects cellular transplants, and sustains cell function — without immunosuppression drugs and their resulting negative side effects. This novel immunoisolation system is a multi-component, multi-membrane capsule that allows independent optimization of all capsule design parameters ensuring reproducible functions in large animals and humans. Results of Encapsulife's successful large animal trials, have recently been published in peer-reviewed research in Transplantation Journal. In this landmark research, encapsulated canine pancreatic islets were transplanted into dogs rendered diabetic by total pancreatectomy. No immunosuppression or anti-inflammatory therapy was used. The allotransplantations of encapsulated islets were well tolerated and biocompatible, and normalized fasting blood glucose levels in all of 9 dogs, were achieved for over two hundred days, with a single transplantation. Re-transplantation of encapsulated islets — a "booster" — was effective in providing glycemic control beyond the initial 200 days.[4]
+
+Professorship
+Wang later became a Centennial Professor atVanderbilt UniversityinNashville,Tennessee. He has written about 200 journal articles and holds 28 U.S. patents on acoustics, drops and bubble dynamics, collision andcoalescenceof drops, charged drop dynamics, containerless science, and encapsulation of living cells. His experiments were carried out in 1985 aboard United States Spacelab 3, and in 1992 aboard United States Microgravity Laboratory 1 (USML-1), and in 1995 aboard USML-2.
+
+Recognition
+Wang has received various honors and awards, including Space Flight Medal NASA 1985, Exceptional Scientific Achievement Medal NASA 1987, Asian Pacific American Achievement Award 1989. Llewellyn J. Evans Distinguished Scientific, Engineering and Management Award 1994. Educational Award Vanderbilt University Alumni League 1996. He was awarded Asian American Engineer of the Year Distinguished Science and Technology Award, CIE-USA, National Engineers Foundation 2007. He addressed the United Nations' General Assembly in 1990 as part of the "Only One Earth Day".
+Wang is married to Beverly Feng (馮雪平) with two sons, Kenneth Wang and Eric Wang.[5]
+
+See also
+ - List of Asian American astronauts
+ - Ed Lu
+ - Leroy Chiao
+ - Yang Liwei
+
+References
+ - ^"Varied flight assignments made"(PDF).Space News Roundup. NASA. 1984-06-29. Retrieved2020-11-15.
+ - ^abBerger, Eric (2024-01-22)."What happens when an astronaut in orbit says he's not coming back?".Ars Technica. Retrieved2024-01-23.
+ - ^Hitt, David, and Heather R. Smith.Bold They Rise: The Space Shuttle Early Years, 1972-1986, U of Nebraska Press, 2021, page 312.
+ - ^Wang, Taylor; Adcock, Jamie; Kühtreiber, Willem; Qiang, Deng; Salleng, Kenneth J; Trenary, Irina; Williams, Phil (2008). "Successful Allotransplantation of Encapsulated Islets for diabetic management in Pancreatectomized Canines without the use of Immunosuppression".Transplantation.85(3):331–337.doi:10.1097/TP.0b013e3181629c25.
+ - ^Taylor Wang: family, spacefacts.de, retrieved 2019-06-12
+ - Taylor Wang, Igor Lacík, Marcela Brissová, Amrutur V. Anilkumar, Ales Prokop, David Hunkeler, Ray Green, Keivan Shahrokhi,   Alvin C. Powers 1997. A New Generation Capsule and Encapsulation System for Immunoisolation of Pancreatic Islets. Nature technology, 15, 358 – 36
+ - Encapsulation System for the Immunoisolation of Living Cells. US Patent 5,997,900 (1999)
+ - A Novel Reactor for Making Uniform Capsules. US Patent 6,001,312 (1999)
+ - Capsule Patches (CP) for Cellular Transplantation without Immunosuppression. US Patent 8,673,294 B2 (2008)
+ - SEMI-PERMEABLE CAPSULAR MEMBRANE WITH TAPERED CONDUIT FOR DIABETES REVERSAL. US Patent 9,408,807 (2016)
+ - Taylor Wang, Successful diabetes management without immunosuppressive drugs in NHP model has been demonstrated. Encapsulation system with tapered nanopore conduits achieved normal glycaemia with regulated insulin release. <Artificial Cells, Nanomedicine, and Biotechnology, An International Journal, Vol 46, Suppl.3 (2018)
+
+External links
+ - "TAYLOR G. WANG, PAYLOAD SPECIALIST"(PDF). NASA. May 1985. RetrievedJune 20,2021.
+ - Spacefacts biography of Taylor Wang
+ - Taiwan in Time: Around the world 110 times
+ - ISNI
+ - VIAF
+ - WorldCat
+ - United States
+ - France
+ - BnF data
+ - Israel
+ - Belgium
+ - ORCID
+ - IdRef
+ - SNAC
+ - Yale LUX
+ - 1940 births
+ - Living people
+ - Affiliated Senior High School of National Taiwan Normal University alumni
+ - American astronauts
+ - Chinese astronauts
+ - Chinese emigrants to the United States
+ - American people of Taiwanese descent
+ - University of California, Los Angeles alumni
+ - Vanderbilt University faculty
+ - Scientists from Jiangxi
+ - American academics of Chinese descent
+ - American aviators of Chinese descent
+ - Space Shuttle program astronauts
+ - Taiwanese astronauts
+ - Taiwanese emigrants to the United States
+ - Articles with short description
+ - Short description is different from Wikidata
+ - Articles with hCards
+ - Articles containing simplified Chinese-language text
+ - Articles containing traditional Chinese-language text
+ - Articles containing Chinese-language text
+ - This page was last edited on 26 August 2025, at 11:33(UTC).
+ - Text is available under theCreative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to theTerms of UseandPrivacy Policy. Wikipedia® is a registered trademark of theWikimedia Foundation, Inc., a non-profit organization.
+ - Privacy policy
+ - About Wikipedia
+ - Disclaimers
+ - Contact Wikipedia
+ - Code of Conduct
+ - Developers
+ - Statistics
+ - Cookie statement
+ - Mobile view
+ - 
+ - 

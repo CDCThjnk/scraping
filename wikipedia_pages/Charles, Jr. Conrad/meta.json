@@ -1,0 +1,14 @@
+{
+  "raw_name": "Conrad, Charles, Jr.",
+  "normalized_name": "Charles, Jr. Conrad",
+  "attempted_titles": [
+    "Charles, Jr. Conrad",
+    "Pete Conrad"
+  ],
+  "requested_url": "https://en.wikipedia.org/wiki/Charles%2C_Jr._Conrad",
+  "final_url": "https://en.wikipedia.org/wiki/Pete_Conrad",
+  "status": "ok",
+  "notes": [
+    "Direct page 404; using search fallback."
+  ]
+}

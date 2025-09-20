@@ -1,0 +1,137 @@
+ - Main page
+ - Contents
+ - Current events
+ - Random article
+ - About Wikipedia
+ - Contact us
+ - Help
+ - Learn to edit
+ - Community portal
+ - Recent changes
+ - Upload file
+ - Special pages
+ - Donate
+ - Create account
+ - Log in
+ - Donate
+ - Create account
+ - Log in
+ - Contributions
+ - Talk
+
+Contents
+ - (Top)
+ - 1Career
+ - 2Spaceflight experience
+ - 3Organizations
+ - 4Awards and honors
+ - 5References
+
+Ronald Parise
+ - Български
+ - Čeština
+ - Deutsch
+ - فارسی
+ - Français
+ - Galego
+ - Italiano
+ - Magyar
+ - Nederlands
+ - 日本語
+ - Português
+ - Русский
+ - Article
+ - Talk
+ - Read
+ - Edit
+ - View history
+ - Read
+ - Edit
+ - View history
+ - What links here
+ - Related changes
+ - Upload file
+ - Permanent link
+ - Page information
+ - Cite this page
+ - Get shortened URL
+ - Download QR code
+ - Download as PDF
+ - Printable version
+ - Wikimedia Commons
+ - Wikidata item
+Ronald Anthony Parise(May 24, 1951 – May 9, 2008) was anItalian Americanscientist who flew aboard two NASASpace Shuttlemissions as apayload specialist.
+Parise was born inWarren, Ohio, to Henry and Catherine Parise (nee Pasha). His father was born inCarovilli.[1]By age 11, he became a licensedamateur radiooperator. In his teens, he developed an interest in astronomy and aviation and became a pilot.[2]He attendedWestern Reserve High School, graduating in 1969 before attendingYoungstown State University. In 1973, he obtained a bachelor of science degree inphysics, with minors inmathematics,astronomy, andgeology. He went on to receive a master's degree in 1977 and a doctorate in 1979 from theUniversity of Florida, both in astronomy. He and his wife Cecelia Sokol Parise had two children.
+Parise died from abrain tumoron May 9, 2008, at the age of 56.[3][4]
+
+Career
+Upon graduation in 1979, Parise accepted a position at Operations Research Inc. (ORI) where he was involved in developingavionicsrequirements definitions and performing failure mode analyses for several NASA missions. In 1980 he began work atComputer Sciences Corporationin theInternational Ultraviolet Explorer(IUE) operations center as a data management scientist and in 1981 became the section manager of the IUE hardcopy facility.
+In 1981 he began work on the development of a newSpacelabexperiment called theUltraviolet Imaging Telescope(UIT). His responsibilities involved flight hardware and software development, electronic system design, and mission planning activities for the UIT project. In 1984 he was selected by NASA as a payload specialist in support of the newly formedAstromission series. During his twelve years as a payload specialist he was involved in mission planning, simulator development, integration and test activities, flight procedure development, and scientific data analysis, in addition to his flight crew responsibilities for the Astro program. At the completion of the Astro program, Parise assumed an advanced planning and communications engineering support role for a variety of human space flight projects includingMir,International Space Station(ISS), and theX-38.
+Parise engaged in a number of astronomical research projects utilizing data from ground-based observatories, theCopernicus satellite(OAO-3), IUE, and the Astro observatory. His research topics, includingcircumstellar matterinbinary starsystems and the evolutionary status of stars inglobular clusters, resulted in several professional publications. A veteran of two space flights, Parise logged more than 614 hours and 10.6 million miles in space. He served as a payload specialist aboard STS-35 in 1990 and STS-67 in 1995. At the end of his career, Parise supported theGoddard Space Flight Center, Networks and Mission Services Project, in the area of advanced communications planning for human spaceflight missions. He was also involved with projects in the Advanced Architectures and Automation Branch that developed the use of standard Internet Protocols (IP) in space data transmission applications.
+
+Spaceflight experience
+STS-35/Astro-1Columbia(December 2–December 10, 1990). The Astro observatory is a unique complement of three telescopes designed to simultaneously recordspectraldata,polarimetricdata and imagery of faint astronomical objects in the farultraviolet. The mission duration was 215 hours and 5 minutes. The Shuttle landed atEdwards Air Force BaseinCalifornia.[5]
+STS-67/Astro-2Endeavour(March 2–18, 1995). This was the second flight of the Astro observatory. During this record-setting 16-day mission, the crew conducted observations around the clock to study the far ultraviolet spectra of faint astronomical objects and the polarization of ultraviolet light coming from hot stars and distantgalaxies. The mission duration was 399 hours and 9 minutes. The landing was atEdwards Air Force BaseinCalifornia.[5]
+Coincidentally, Parise's fellow payload specialist on both his missions wasSam Durrance.
+Parise was instrumental in bringing amateur radio equipment to the Shuttle and operated on the air during his own missions. His amateur radio call sign was WA4SIR.
+
+Organizations
+ - American Astronomical Society
+ - Astronomical Society of the Pacific
+ - Association of Space Explorers
+ - International Astronomical Union
+ - Sigma Xi
+ - Phi Kappa Phi
+ - Warren Amateur Radio Association, Inc.
+ - AMSAT
+ - ARISS
+ - Space Hams International
+ - Abruzzo Molise Heritage Society of Washington D.C.
+
+Awards and honors
+ - NASA Space Flight Medal(1991, 1995)
+ - Distinguished member of Phi Kappa Phi (1996)
+ - Honorary Doctor of Science degree, Youngstown State University (1996)
+ - NASA/GSFC Special Act Award (1995)
+ - Computer Sciences Corp., Space and Earth Technology Systems, Award for Technical Innovation (1999)
+ - NASA Group Achievement Award(1988, 1991, 1992, 1996, 1998, 2000)
+ - NASA/GSFC Community Service Award (1990)
+ - Allied Signal, Quest for Excellence Award (1997)
+ - Ohio Historical Marker: Ronald A. Parise, Ph.D., Astronaut / Scientist[6]
+
+References
+ - ^"Un astronauta a Carovilli: intervista del 1988"(in Italian). RAI - Radio Televisione Italiana. RetrievedMarch 16,2023.
+ - ^"Ronald A. Parise". Youngstown State University. Archived fromthe originalon 2008-04-22. Retrieved2008-05-13.
+ - ^Stewart, Richard (2008-05-07)."Former astronaut, UV imaging telescope specialist dies".Houston Chronicle. Houston, Texas. Retrieved2008-05-07.
+ - ^Gorman, Joe (2008-05-07)."Astronaut, Warren native dies at 56".Tribune Chronicle. Warren, Ohio. Retrieved2008-05-07.
+ - ^ab"RONALD A. PARISE (PH.D.), PAYLOAD SPECIALIST (DECEASED)"(PDF).National Aeronautics and Space Administration. May 2008. RetrievedMay 14,2021.
+ - ^Wintermantel, Mike (2018-08-11)."Ronald A. Parise, Ph.D., Astronaut / Scientist".Historical Marker Database. Warren, Ohio. Retrieved2024-04-16.
+ - 1951 births
+ - 2008 deaths
+ - People from Warren, Ohio
+ - Youngstown State University alumni
+ - University of Florida College of Liberal Arts and Sciences alumni
+ - NASA sponsored astronauts
+ - Deaths from brain cancer in Maryland
+ - Amateur radio people
+ - Space Shuttle program astronauts
+ - Warren G. Harding High School alumni
+ - Members of Phi Kappa Phi
+ - CS1 Italian-language sources (it)
+ - Articles with short description
+ - Short description is different from Wikidata
+ - Articles with hCards
+ - This page was last edited on 7 February 2025, at 05:55(UTC).
+ - Text is available under theCreative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to theTerms of UseandPrivacy Policy. Wikipedia® is a registered trademark of theWikimedia Foundation, Inc., a non-profit organization.
+ - Privacy policy
+ - About Wikipedia
+ - Disclaimers
+ - Contact Wikipedia
+ - Code of Conduct
+ - Developers
+ - Statistics
+ - Cookie statement
+ - Mobile view
+ - 
+ - 

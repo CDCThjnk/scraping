@@ -1,0 +1,14 @@
+{
+  "raw_name": "McCandless, Bruce, II",
+  "normalized_name": "Bruce, II McCandless",
+  "attempted_titles": [
+    "Bruce, II McCandless",
+    "Bruce McCandless"
+  ],
+  "requested_url": "https://en.wikipedia.org/wiki/Bruce%2C_II_McCandless",
+  "final_url": "https://en.wikipedia.org/wiki/Bruce_McCandless",
+  "status": "ok",
+  "notes": [
+    "Direct page 404; using search fallback."
+  ]
+}

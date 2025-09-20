@@ -1,0 +1,1316 @@
+2025-09-20 12:57:07,160 - WARNING - Failed to retrieve page for Yuri Gagarin. Status code: 403
+2025-09-20 12:57:08,252 - WARNING - Failed to retrieve page for Gherman Titov. Status code: 403
+2025-09-20 12:57:10,106 - WARNING - Failed to retrieve page for Glenn, John H., Jr.. Status code: 403
+2025-09-20 12:57:11,945 - WARNING - Failed to retrieve page for Glenn, John H., Jr.. Status code: 403
+2025-09-20 12:59:17,902 - INFO - Saved Yuri Gagarin -> wikipedia_pages/Yuri Gagarin
+2025-09-20 12:59:20,104 - INFO - Saved Gherman Titov -> wikipedia_pages/Gherman Titov
+2025-09-20 12:59:22,724 - INFO - Saved John H., Jr. Glenn -> wikipedia_pages/John H., Jr. Glenn
+2025-09-20 12:59:26,981 - INFO - Saved John H., Jr. Glenn -> wikipedia_pages/John H., Jr. Glenn
+2025-09-20 12:59:30,688 - INFO - Saved M. Scott Carpenter -> wikipedia_pages/M. Scott Carpenter
+2025-09-20 12:59:32,728 - INFO - Saved Andriyan Nikolayev -> wikipedia_pages/Andriyan Nikolayev
+2025-09-20 12:59:35,383 - INFO - Saved Andriyan Nikolayev -> wikipedia_pages/Andriyan Nikolayev
+2025-09-20 12:59:37,978 - INFO - Saved Pavel Popovich -> wikipedia_pages/Pavel Popovich
+2025-09-20 12:59:39,638 - INFO - Saved Pavel Popovich -> wikipedia_pages/Pavel Popovich
+2025-09-20 12:59:42,257 - INFO - Saved Walter M., Jr. Schirra -> wikipedia_pages/Walter M., Jr. Schirra
+2025-09-20 12:59:44,870 - INFO - Saved Walter M., Jr. Schirra -> wikipedia_pages/Walter M., Jr. Schirra
+2025-09-20 12:59:47,213 - INFO - Saved Walter M., Jr. Schirra -> wikipedia_pages/Walter M., Jr. Schirra
+2025-09-20 12:59:49,241 - INFO - Saved L. Gordon, Jr. Cooper -> wikipedia_pages/L. Gordon, Jr. Cooper
+2025-09-20 12:59:51,167 - INFO - Saved L. Gordon, Jr. Cooper -> wikipedia_pages/L. Gordon, Jr. Cooper
+2025-09-20 12:59:52,588 - INFO - Saved Valery Bykovsky -> wikipedia_pages/Valery Bykovsky
+2025-09-20 12:59:54,958 - INFO - Saved Valery Bykovsky -> wikipedia_pages/Valery Bykovsky
+2025-09-20 12:59:56,299 - INFO - Saved Valery Bykovsky -> wikipedia_pages/Valery Bykovsky
+2025-09-20 12:59:58,694 - INFO - Saved Valentina Tereshkova -> wikipedia_pages/Valentina Tereshkova
+2025-09-20 13:00:01,334 - INFO - Saved Vladimir Komarov -> wikipedia_pages/Vladimir Komarov
+2025-09-20 13:00:03,799 - INFO - Saved Vladimir Komarov -> wikipedia_pages/Vladimir Komarov
+2025-09-20 13:00:05,542 - INFO - Saved Konstantin Feoktistov -> wikipedia_pages/Konstantin Feoktistov
+2025-09-20 13:00:06,992 - INFO - Saved Boris Yegorov -> wikipedia_pages/Boris Yegorov
+2025-09-20 13:00:09,629 - INFO - Saved Pavel Belyayev -> wikipedia_pages/Pavel Belyayev
+2025-09-20 13:00:12,839 - INFO - Saved Aleksei Leonov -> wikipedia_pages/Aleksei Leonov
+2025-09-20 13:00:14,484 - INFO - Saved Aleksei Leonov -> wikipedia_pages/Aleksei Leonov
+2025-09-20 13:00:17,237 - INFO - Saved Virgil I. Grissom -> wikipedia_pages/Virgil I. Grissom
+2025-09-20 13:00:19,983 - INFO - Saved John W. Young -> wikipedia_pages/John W. Young
+2025-09-20 13:00:23,068 - INFO - Saved John W. Young -> wikipedia_pages/John W. Young
+2025-09-20 13:00:26,366 - INFO - Saved John W. Young -> wikipedia_pages/John W. Young
+2025-09-20 13:00:29,208 - INFO - Saved John W. Young -> wikipedia_pages/John W. Young
+2025-09-20 13:00:32,533 - INFO - Saved John W. Young -> wikipedia_pages/John W. Young
+2025-09-20 13:00:34,995 - INFO - Saved John W. Young -> wikipedia_pages/John W. Young
+2025-09-20 13:00:36,978 - INFO - Saved James A. McDivitt -> wikipedia_pages/James A. McDivitt
+2025-09-20 13:00:38,488 - INFO - Saved James A. McDivitt -> wikipedia_pages/James A. McDivitt
+2025-09-20 13:00:41,066 - INFO - Saved Edward H., II White -> wikipedia_pages/Edward H., II White
+2025-09-20 13:00:44,452 - INFO - Saved Charles, Jr. Conrad -> wikipedia_pages/Charles, Jr. Conrad
+2025-09-20 13:00:46,077 - INFO - Saved Charles, Jr. Conrad -> wikipedia_pages/Charles, Jr. Conrad
+2025-09-20 13:00:48,403 - INFO - Saved Charles, Jr. Conrad -> wikipedia_pages/Charles, Jr. Conrad
+2025-09-20 13:00:51,124 - INFO - Saved Charles, Jr. Conrad -> wikipedia_pages/Charles, Jr. Conrad
+2025-09-20 13:00:53,958 - INFO - Saved Frank Borman -> wikipedia_pages/Frank Borman
+2025-09-20 13:00:55,719 - INFO - Saved Frank Borman -> wikipedia_pages/Frank Borman
+2025-09-20 13:00:59,007 - INFO - Saved James A., Jr. Lovell -> wikipedia_pages/James A., Jr. Lovell
+2025-09-20 13:01:33,184 - INFO - Saved Andriyan Nikolayev -> wikipedia_pages/Andriyan Nikolayev
+2025-09-20 13:01:33,526 - INFO - Saved Gherman Titov -> wikipedia_pages/Gherman Titov
+2025-09-20 13:01:33,670 - INFO - Saved Pavel Popovich -> wikipedia_pages/Pavel Popovich
+2025-09-20 13:01:33,755 - INFO - Saved Andriyan Nikolayev -> wikipedia_pages/Andriyan Nikolayev
+2025-09-20 13:01:34,060 - INFO - Saved Yuri Gagarin -> wikipedia_pages/Yuri Gagarin
+2025-09-20 13:01:34,201 - INFO - Saved Pavel Popovich -> wikipedia_pages/Pavel Popovich
+2025-09-20 13:01:34,686 - INFO - Saved John H., Jr. Glenn -> wikipedia_pages/John H., Jr. Glenn
+2025-09-20 13:01:35,432 - INFO - Saved John H., Jr. Glenn -> wikipedia_pages/John H., Jr. Glenn
+2025-09-20 13:01:35,574 - INFO - Saved Valery Bykovsky -> wikipedia_pages/Valery Bykovsky
+2025-09-20 13:01:35,957 - INFO - Saved M. Scott Carpenter -> wikipedia_pages/M. Scott Carpenter
+2025-09-20 13:01:36,116 - INFO - Saved Walter M., Jr. Schirra -> wikipedia_pages/Walter M., Jr. Schirra
+2025-09-20 13:01:36,243 - INFO - Saved Valery Bykovsky -> wikipedia_pages/Valery Bykovsky
+2025-09-20 13:01:36,407 - INFO - Saved Walter M., Jr. Schirra -> wikipedia_pages/Walter M., Jr. Schirra
+2025-09-20 13:01:36,633 - INFO - Saved Walter M., Jr. Schirra -> wikipedia_pages/Walter M., Jr. Schirra
+2025-09-20 13:01:36,802 - INFO - Saved L. Gordon, Jr. Cooper -> wikipedia_pages/L. Gordon, Jr. Cooper
+2025-09-20 13:01:36,971 - INFO - Saved L. Gordon, Jr. Cooper -> wikipedia_pages/L. Gordon, Jr. Cooper
+2025-09-20 13:01:37,076 - INFO - Saved Valery Bykovsky -> wikipedia_pages/Valery Bykovsky
+2025-09-20 13:01:37,480 - INFO - Saved Boris Yegorov -> wikipedia_pages/Boris Yegorov
+2025-09-20 13:01:37,568 - INFO - Saved Pavel Belyayev -> wikipedia_pages/Pavel Belyayev
+2025-09-20 13:01:37,772 - INFO - Saved Vladimir Komarov -> wikipedia_pages/Vladimir Komarov
+2025-09-20 13:01:37,996 - INFO - Saved Vladimir Komarov -> wikipedia_pages/Vladimir Komarov
+2025-09-20 13:01:38,385 - INFO - Saved Virgil I. Grissom -> wikipedia_pages/Virgil I. Grissom
+2025-09-20 13:01:38,620 - INFO - Saved Valentina Tereshkova -> wikipedia_pages/Valentina Tereshkova
+2025-09-20 13:01:38,755 - INFO - Saved Aleksei Leonov -> wikipedia_pages/Aleksei Leonov
+2025-09-20 13:01:39,100 - INFO - Saved Aleksei Leonov -> wikipedia_pages/Aleksei Leonov
+2025-09-20 13:01:39,146 - INFO - Saved Konstantin Feoktistov -> wikipedia_pages/Konstantin Feoktistov
+2025-09-20 13:01:39,353 - INFO - Saved John W. Young -> wikipedia_pages/John W. Young
+2025-09-20 13:01:39,568 - INFO - Saved James A. McDivitt -> wikipedia_pages/James A. McDivitt
+2025-09-20 13:01:39,614 - INFO - Saved John W. Young -> wikipedia_pages/John W. Young
+2025-09-20 13:01:39,679 - INFO - Saved John W. Young -> wikipedia_pages/John W. Young
+2025-09-20 13:01:39,912 - INFO - Saved John W. Young -> wikipedia_pages/John W. Young
+2025-09-20 13:01:40,125 - INFO - Saved James A. McDivitt -> wikipedia_pages/James A. McDivitt
+2025-09-20 13:01:40,174 - INFO - Saved John W. Young -> wikipedia_pages/John W. Young
+2025-09-20 13:01:40,226 - INFO - Saved John W. Young -> wikipedia_pages/John W. Young
+2025-09-20 13:01:40,784 - INFO - Saved Frank Borman -> wikipedia_pages/Frank Borman
+2025-09-20 13:01:41,028 - INFO - Saved Edward H., II White -> wikipedia_pages/Edward H., II White
+2025-09-20 13:01:41,169 - INFO - Saved Charles, Jr. Conrad -> wikipedia_pages/Charles, Jr. Conrad
+2025-09-20 13:01:41,310 - INFO - Saved Charles, Jr. Conrad -> wikipedia_pages/Charles, Jr. Conrad
+2025-09-20 13:01:41,493 - INFO - Saved Charles, Jr. Conrad -> wikipedia_pages/Charles, Jr. Conrad
+2025-09-20 13:01:41,634 - INFO - Saved Charles, Jr. Conrad -> wikipedia_pages/Charles, Jr. Conrad
+2025-09-20 13:01:42,066 - INFO - Saved Frank Borman -> wikipedia_pages/Frank Borman
+2025-09-20 13:01:42,384 - INFO - Saved James A., Jr. Lovell -> wikipedia_pages/James A., Jr. Lovell
+2025-09-20 13:01:42,657 - INFO - Saved James A., Jr. Lovell -> wikipedia_pages/James A., Jr. Lovell
+2025-09-20 13:01:42,954 - INFO - Saved James A., Jr. Lovell -> wikipedia_pages/James A., Jr. Lovell
+2025-09-20 13:01:43,194 - INFO - Saved Thomas P. Stafford -> wikipedia_pages/Thomas P. Stafford
+2025-09-20 13:01:43,432 - INFO - Saved Thomas P. Stafford -> wikipedia_pages/Thomas P. Stafford
+2025-09-20 13:01:43,674 - INFO - Saved Thomas P. Stafford -> wikipedia_pages/Thomas P. Stafford
+2025-09-20 13:01:43,956 - INFO - Saved Thomas P. Stafford -> wikipedia_pages/Thomas P. Stafford
+2025-09-20 13:01:44,214 - INFO - Saved James A., Jr. Lovell -> wikipedia_pages/James A., Jr. Lovell
+2025-09-20 13:01:44,956 - INFO - Saved Eugene A. Cernan -> wikipedia_pages/Eugene A. Cernan
+2025-09-20 13:01:45,213 - INFO - Saved Eugene A. Cernan -> wikipedia_pages/Eugene A. Cernan
+2025-09-20 13:01:45,828 - INFO - Saved Eugene A. Cernan -> wikipedia_pages/Eugene A. Cernan
+2025-09-20 13:01:46,168 - INFO - Saved Neil A. Armstrong -> wikipedia_pages/Neil A. Armstrong
+2025-09-20 13:01:46,582 - INFO - Saved Neil A. Armstrong -> wikipedia_pages/Neil A. Armstrong
+2025-09-20 13:01:46,760 - INFO - Saved David R. Scott -> wikipedia_pages/David R. Scott
+2025-09-20 13:01:47,100 - INFO - Saved David R. Scott -> wikipedia_pages/David R. Scott
+2025-09-20 13:01:47,270 - INFO - Saved David R. Scott -> wikipedia_pages/David R. Scott
+2025-09-20 13:01:47,552 - INFO - Saved Michael Collins -> wikipedia_pages/Michael Collins
+2025-09-20 13:01:47,917 - INFO - Saved Michael Collins -> wikipedia_pages/Michael Collins
+2025-09-20 13:01:48,028 - INFO - Saved Richard F., Jr. Gordon -> wikipedia_pages/Richard F., Jr. Gordon
+2025-09-20 13:01:48,164 - INFO - Saved Donn F. Eisele -> wikipedia_pages/Donn F. Eisele
+2025-09-20 13:01:48,308 - INFO - Saved Ronnie Walter Cunningham -> wikipedia_pages/Ronnie Walter Cunningham
+2025-09-20 13:01:48,435 - INFO - Saved Richard F., Jr. Gordon -> wikipedia_pages/Richard F., Jr. Gordon
+2025-09-20 13:01:48,785 - INFO - Saved Edwin Eugene, Jr. Aldrin -> wikipedia_pages/Edwin Eugene, Jr. Aldrin
+2025-09-20 13:01:49,125 - INFO - Saved Edwin Eugene, Jr. Aldrin -> wikipedia_pages/Edwin Eugene, Jr. Aldrin
+2025-09-20 13:01:49,180 - INFO - Saved Viktor Savinykh -> wikipedia_pages/Viktor Savinykh
+2025-09-20 13:01:49,234 - INFO - Saved Viktor Savinykh -> wikipedia_pages/Viktor Savinykh
+2025-09-20 13:01:49,328 - INFO - Saved Jugderdemidiin Gurragchaa -> wikipedia_pages/Jugderdemidiin Gurragchaa
+2025-09-20 13:01:49,504 - INFO - Saved Robert L. Crippen -> wikipedia_pages/Robert L. Crippen
+2025-09-20 13:01:49,682 - INFO - Saved Robert L. Crippen -> wikipedia_pages/Robert L. Crippen
+2025-09-20 13:01:49,855 - INFO - Saved Robert L. Crippen -> wikipedia_pages/Robert L. Crippen
+2025-09-20 13:01:50,074 - INFO - Saved Robert L. Crippen -> wikipedia_pages/Robert L. Crippen
+2025-09-20 13:01:50,146 - INFO - Saved Dumitru Prunariu -> wikipedia_pages/Dumitru Prunariu
+2025-09-20 13:01:50,320 - INFO - Saved Joe H. Engle -> wikipedia_pages/Joe H. Engle
+2025-09-20 13:01:50,490 - INFO - Saved Joe H. Engle -> wikipedia_pages/Joe H. Engle
+2025-09-20 13:01:50,640 - INFO - Saved Richard H. Truly -> wikipedia_pages/Richard H. Truly
+2025-09-20 13:01:50,788 - INFO - Saved Richard H. Truly -> wikipedia_pages/Richard H. Truly
+2025-09-20 13:01:50,913 - INFO - Saved Charles G. Fullerton -> wikipedia_pages/Charles G. Fullerton
+2025-09-20 13:01:51,069 - INFO - Saved Charles G. Fullerton -> wikipedia_pages/Charles G. Fullerton
+2025-09-20 13:01:51,130 - INFO - Saved Anatoly Berezovoy -> wikipedia_pages/Anatoly Berezovoy
+2025-09-20 13:01:51,347 - INFO - Saved Aleksandr Serebrov -> wikipedia_pages/Aleksandr Serebrov
+2025-09-20 13:01:51,536 - INFO - Saved Georgi Beregovoi -> wikipedia_pages/Georgi Beregovoi
+2025-09-20 13:01:51,544 - WARNING - No search result for: Jean-Loup Chrtien
+2025-09-20 13:01:51,644 - WARNING - No search result for: Jean-Loup Chrtien
+2025-09-20 13:01:51,650 - WARNING - No search result for: Jean-Loup Chrtien
+2025-09-20 13:01:52,045 - INFO - Saved William Alison Anders -> wikipedia_pages/William Alison Anders
+2025-09-20 13:01:52,148 - INFO - Saved Henry W., Jr. Hartsfield -> wikipedia_pages/Henry W., Jr. Hartsfield
+2025-09-20 13:01:52,221 - INFO - Saved Henry W., Jr. Hartsfield -> wikipedia_pages/Henry W., Jr. Hartsfield
+2025-09-20 13:01:52,296 - INFO - Saved Henry W., Jr. Hartsfield -> wikipedia_pages/Henry W., Jr. Hartsfield
+2025-09-20 13:01:52,407 - INFO - Saved Boris Volynov -> wikipedia_pages/Boris Volynov
+2025-09-20 13:01:52,508 - INFO - Saved Vladimir Shatalov -> wikipedia_pages/Vladimir Shatalov
+2025-09-20 13:01:52,608 - INFO - Saved Vladimir Shatalov -> wikipedia_pages/Vladimir Shatalov
+2025-09-20 13:01:52,711 - INFO - Saved Vladimir Shatalov -> wikipedia_pages/Vladimir Shatalov
+2025-09-20 13:01:52,801 - INFO - Saved Boris Volynov -> wikipedia_pages/Boris Volynov
+2025-09-20 13:01:52,866 - INFO - Saved Aleksei Yeliseyev -> wikipedia_pages/Aleksei Yeliseyev
+2025-09-20 13:01:52,930 - INFO - Saved Aleksei Yeliseyev -> wikipedia_pages/Aleksei Yeliseyev
+2025-09-20 13:01:52,995 - INFO - Saved Aleksei Yeliseyev -> wikipedia_pages/Aleksei Yeliseyev
+2025-09-20 13:01:53,078 - INFO - Saved Yevgeny Khrunov -> wikipedia_pages/Yevgeny Khrunov
+2025-09-20 13:01:53,159 - INFO - Saved Valeri Kubasov -> wikipedia_pages/Valeri Kubasov
+2025-09-20 13:01:53,239 - INFO - Saved Valeri Kubasov -> wikipedia_pages/Valeri Kubasov
+2025-09-20 13:01:53,436 - INFO - Saved Russell L. Schweickart -> wikipedia_pages/Russell L. Schweickart
+2025-09-20 13:01:53,539 - INFO - Saved Georgi Shonin -> wikipedia_pages/Georgi Shonin
+2025-09-20 13:01:53,608 - INFO - Saved Anatoly Filipchenko -> wikipedia_pages/Anatoly Filipchenko
+2025-09-20 13:01:53,691 - INFO - Saved Valeri Kubasov -> wikipedia_pages/Valeri Kubasov
+2025-09-20 13:01:53,753 - INFO - Saved Anatoly Filipchenko -> wikipedia_pages/Anatoly Filipchenko
+2025-09-20 13:01:53,885 - INFO - Saved Viktor Gorbatko -> wikipedia_pages/Viktor Gorbatko
+2025-09-20 13:01:53,957 - INFO - Saved Viktor Gorbatko -> wikipedia_pages/Viktor Gorbatko
+2025-09-20 13:01:54,028 - INFO - Saved Viktor Gorbatko -> wikipedia_pages/Viktor Gorbatko
+2025-09-20 13:01:54,091 - INFO - Saved Vladislav Volkov -> wikipedia_pages/Vladislav Volkov
+2025-09-20 13:01:54,161 - INFO - Saved Vladislav Volkov -> wikipedia_pages/Vladislav Volkov
+2025-09-20 13:01:54,307 - INFO - Saved Vitali Sevastyanov -> wikipedia_pages/Vitali Sevastyanov
+2025-09-20 13:01:54,401 - INFO - Saved Vitali Sevastyanov -> wikipedia_pages/Vitali Sevastyanov
+2025-09-20 13:01:54,567 - INFO - Saved Alan Lavern Bean -> wikipedia_pages/Alan Lavern Bean
+2025-09-20 13:01:54,712 - INFO - Saved Stuart A. Roosa -> wikipedia_pages/Stuart A. Roosa
+2025-09-20 13:01:54,846 - INFO - Saved Alan Lavern Bean -> wikipedia_pages/Alan Lavern Bean
+2025-09-20 13:01:54,899 - INFO - Saved Nikolai Rukavishnikov -> wikipedia_pages/Nikolai Rukavishnikov
+2025-09-20 13:01:55,110 - INFO - Saved Edgar D. Mitchell -> wikipedia_pages/Edgar D. Mitchell
+2025-09-20 13:01:55,257 - INFO - Saved John L., Jr. Swigert -> wikipedia_pages/John L., Jr. Swigert
+2025-09-20 13:01:55,352 - INFO - Saved Nikolai Rukavishnikov -> wikipedia_pages/Nikolai Rukavishnikov
+2025-09-20 13:01:55,467 - INFO - Saved Fred W., Jr. Haise -> wikipedia_pages/Fred W., Jr. Haise
+2025-09-20 13:01:55,688 - INFO - Saved Alan B., Jr. Shepard -> wikipedia_pages/Alan B., Jr. Shepard
+2025-09-20 13:01:55,743 - INFO - Saved Nikolai Rukavishnikov -> wikipedia_pages/Nikolai Rukavishnikov
+2025-09-20 13:01:55,866 - INFO - Saved Viktor Patsayev -> wikipedia_pages/Viktor Patsayev
+2025-09-20 13:01:55,926 - INFO - Saved Georgi Dobrovolski -> wikipedia_pages/Georgi Dobrovolski
+2025-09-20 13:01:56,344 - INFO - Saved Alfred M. Worden -> wikipedia_pages/Alfred M. Worden
+2025-09-20 13:01:56,638 - INFO - Saved Harrison H. Schmitt -> wikipedia_pages/Harrison H. Schmitt
+2025-09-20 13:01:56,793 - INFO - Saved Thomas K., II Mattingly -> wikipedia_pages/Thomas K., II Mattingly
+2025-09-20 13:01:56,927 - INFO - Saved Ronald E. Evans -> wikipedia_pages/Ronald E. Evans
+2025-09-20 13:01:57,032 - INFO - Saved Thomas K., II Mattingly -> wikipedia_pages/Thomas K., II Mattingly
+2025-09-20 13:01:57,147 - INFO - Saved James B. Irwin -> wikipedia_pages/James B. Irwin
+2025-09-20 13:01:57,308 - INFO - Saved Paul J. Weitz -> wikipedia_pages/Paul J. Weitz
+2025-09-20 13:01:57,466 - INFO - Saved Paul J. Weitz -> wikipedia_pages/Paul J. Weitz
+2025-09-20 13:01:57,691 - INFO - Saved Jr. Charles Moss Duke -> wikipedia_pages/Jr. Charles Moss Duke
+2025-09-20 13:01:57,801 - INFO - Saved Thomas K., II Mattingly -> wikipedia_pages/Thomas K., II Mattingly
+2025-09-20 13:01:57,931 - INFO - Saved Joseph P. Kerwin -> wikipedia_pages/Joseph P. Kerwin
+2025-09-20 13:01:58,102 - INFO - Saved Jack R. Lousma -> wikipedia_pages/Jack R. Lousma
+2025-09-20 13:01:58,253 - INFO - Saved Jack R. Lousma -> wikipedia_pages/Jack R. Lousma
+2025-09-20 13:01:58,365 - INFO - Saved Vasili Lazarev -> wikipedia_pages/Vasili Lazarev
+2025-09-20 13:01:58,512 - INFO - Saved Owen K. Garriott -> wikipedia_pages/Owen K. Garriott
+2025-09-20 13:01:58,657 - INFO - Saved Owen K. Garriott -> wikipedia_pages/Owen K. Garriott
+2025-09-20 13:01:58,746 - INFO - Saved Oleg Makarov -> wikipedia_pages/Oleg Makarov
+2025-09-20 13:01:58,994 - INFO - Saved Gerald P. Carr -> wikipedia_pages/Gerald P. Carr
+2025-09-20 13:01:59,056 - INFO - Saved Pyotr Klimuk -> wikipedia_pages/Pyotr Klimuk
+2025-09-20 13:01:59,114 - INFO - Saved Pyotr Klimuk -> wikipedia_pages/Pyotr Klimuk
+2025-09-20 13:01:59,171 - INFO - Saved Pyotr Klimuk -> wikipedia_pages/Pyotr Klimuk
+2025-09-20 13:01:59,405 - INFO - Saved William R. Pogue -> wikipedia_pages/William R. Pogue
+2025-09-20 13:01:59,429 - INFO - Saved Oleg Makarov -> wikipedia_pages/Oleg Makarov
+2025-09-20 13:01:59,452 - INFO - Saved Oleg Makarov -> wikipedia_pages/Oleg Makarov
+2025-09-20 13:01:59,681 - INFO - Saved Aleksei Gubarev -> wikipedia_pages/Aleksei Gubarev
+2025-09-20 13:01:59,732 - INFO - Saved Gennadi Sarafanov -> wikipedia_pages/Gennadi Sarafanov
+2025-09-20 13:01:59,803 - INFO - Saved Valentin Lebedev -> wikipedia_pages/Valentin Lebedev
+2025-09-20 13:01:59,871 - INFO - Saved Valentin Lebedev -> wikipedia_pages/Valentin Lebedev
+2025-09-20 13:01:59,925 - INFO - Saved Lev Dyomin -> wikipedia_pages/Lev Dyomin
+2025-09-20 13:01:59,986 - INFO - Saved Aleksei Gubarev -> wikipedia_pages/Aleksei Gubarev
+2025-09-20 13:02:00,034 - INFO - Saved Yuri Artyukhin -> wikipedia_pages/Yuri Artyukhin
+2025-09-20 13:02:00,197 - INFO - Saved Vance D. Brand -> wikipedia_pages/Vance D. Brand
+2025-09-20 13:02:00,326 - INFO - Saved Edward G. Gibson -> wikipedia_pages/Edward G. Gibson
+2025-09-20 13:02:00,400 - INFO - Saved Georgi Grechko -> wikipedia_pages/Georgi Grechko
+2025-09-20 13:02:00,469 - INFO - Saved Georgi Grechko -> wikipedia_pages/Georgi Grechko
+2025-09-20 13:02:00,606 - INFO - Saved Vance D. Brand -> wikipedia_pages/Vance D. Brand
+2025-09-20 13:02:00,676 - INFO - Saved Georgi Grechko -> wikipedia_pages/Georgi Grechko
+2025-09-20 13:02:00,812 - INFO - Saved Vance D. Brand -> wikipedia_pages/Vance D. Brand
+2025-09-20 13:02:00,951 - INFO - Saved Vance D. Brand -> wikipedia_pages/Vance D. Brand
+2025-09-20 13:02:01,044 - INFO - Saved Vitali Zholobov -> wikipedia_pages/Vitali Zholobov
+2025-09-20 13:02:01,319 - INFO - Saved Donald K. Slayton -> wikipedia_pages/Donald K. Slayton
+2025-09-20 13:02:01,374 - INFO - Saved Yuri Glazkov -> wikipedia_pages/Yuri Glazkov
+2025-09-20 13:02:01,427 - INFO - Saved Valery Rozhdestvensky -> wikipedia_pages/Valery Rozhdestvensky
+2025-09-20 13:02:01,497 - INFO - Saved Vladimir Aksyonov -> wikipedia_pages/Vladimir Aksyonov
+2025-09-20 13:02:01,566 - INFO - Saved Vladimir Aksyonov -> wikipedia_pages/Vladimir Aksyonov
+2025-09-20 13:02:01,618 - INFO - Saved Vyacheslav Zudov -> wikipedia_pages/Vyacheslav Zudov
+2025-09-20 13:02:01,759 - INFO - Saved Valery Ryumin -> wikipedia_pages/Valery Ryumin
+2025-09-20 13:02:01,817 - INFO - Saved Valery Ryumin -> wikipedia_pages/Valery Ryumin
+2025-09-20 13:02:01,876 - INFO - Saved Vladimir Kovalyonok -> wikipedia_pages/Vladimir Kovalyonok
+2025-09-20 13:02:01,933 - INFO - Saved Vladimir Kovalyonok -> wikipedia_pages/Vladimir Kovalyonok
+2025-09-20 13:02:02,026 - INFO - Saved Vladimir Kovalyonok -> wikipedia_pages/Vladimir Kovalyonok
+2025-09-20 13:02:02,097 - INFO - Saved Yuri Romanenko -> wikipedia_pages/Yuri Romanenko
+2025-09-20 13:02:02,159 - INFO - Saved Valery Ryumin -> wikipedia_pages/Valery Ryumin
+2025-09-20 13:02:02,218 - INFO - Saved Valery Ryumin -> wikipedia_pages/Valery Ryumin
+2025-09-20 13:02:02,288 - INFO - Saved Yuri Romanenko -> wikipedia_pages/Yuri Romanenko
+2025-09-20 13:02:02,391 - INFO - Saved Yuri Romanenko -> wikipedia_pages/Yuri Romanenko
+2025-09-20 13:02:02,470 - INFO - Saved Vladimir Dzhanibekov -> wikipedia_pages/Vladimir Dzhanibekov
+2025-09-20 13:02:02,548 - INFO - Saved Vladimir Dzhanibekov -> wikipedia_pages/Vladimir Dzhanibekov
+2025-09-20 13:02:02,625 - INFO - Saved Vladimir Dzhanibekov -> wikipedia_pages/Vladimir Dzhanibekov
+2025-09-20 13:02:02,710 - INFO - Saved Vladimir Dzhanibekov -> wikipedia_pages/Vladimir Dzhanibekov
+2025-09-20 13:02:02,785 - INFO - Saved Vladimir Dzhanibekov -> wikipedia_pages/Vladimir Dzhanibekov
+2025-09-20 13:02:02,879 - INFO - Saved Aleksandr Ivanchenkov -> wikipedia_pages/Aleksandr Ivanchenkov
+2025-09-20 13:02:02,937 - INFO - Saved Aleksandr Ivanchenkov -> wikipedia_pages/Aleksandr Ivanchenkov
+2025-09-20 13:02:03,053 - INFO - Saved Vladimir Remek -> wikipedia_pages/Vladimir Remek
+2025-09-20 13:02:03,107 - INFO - Saved Vladimir Lyakhov -> wikipedia_pages/Vladimir Lyakhov
+2025-09-20 13:02:03,234 - INFO - Saved Sigmund Jahn -> wikipedia_pages/Sigmund Jahn
+2025-09-20 13:02:03,326 - INFO - Saved Vladimir Lyakhov -> wikipedia_pages/Vladimir Lyakhov
+2025-09-20 13:02:03,379 - INFO - Saved Vladimir Lyakhov -> wikipedia_pages/Vladimir Lyakhov
+2025-09-20 13:02:03,380 - WARNING - No search result for: Miroslaw Hermaszewske
+2025-09-20 13:02:03,466 - INFO - Saved Leonid Popov -> wikipedia_pages/Leonid Popov
+2025-09-20 13:02:03,524 - INFO - Saved Leonid Popov -> wikipedia_pages/Leonid Popov
+2025-09-20 13:02:03,582 - INFO - Saved Leonid Popov -> wikipedia_pages/Leonid Popov
+2025-09-20 13:02:03,709 - INFO - Saved Pham Tuan -> wikipedia_pages/Pham Tuan
+2025-09-20 13:02:03,753 - INFO - Saved Georgi Ivanov -> wikipedia_pages/Georgi Ivanov
+2025-09-20 13:02:03,844 - INFO - Saved Arnaldo Tamayo Mendez -> wikipedia_pages/Arnaldo Tamayo Mendez
+2025-09-20 13:02:03,942 - INFO - Saved Leonid Kizim -> wikipedia_pages/Leonid Kizim
+2025-09-20 13:02:04,004 - INFO - Saved Leonid Kizim -> wikipedia_pages/Leonid Kizim
+2025-09-20 13:02:04,066 - INFO - Saved Leonid Kizim -> wikipedia_pages/Leonid Kizim
+2025-09-20 13:02:04,115 - INFO - Saved Yuri Malyshev -> wikipedia_pages/Yuri Malyshev
+2025-09-20 13:02:04,209 - INFO - Saved Gennadi Strekalov -> wikipedia_pages/Gennadi Strekalov
+2025-09-20 13:02:04,331 - INFO - Saved Gennadi Strekalov -> wikipedia_pages/Gennadi Strekalov
+2025-09-20 13:02:04,381 - INFO - Saved Yuri Malyshev -> wikipedia_pages/Yuri Malyshev
+2025-09-20 13:02:04,480 - INFO - Saved Gennadi Strekalov -> wikipedia_pages/Gennadi Strekalov
+2025-09-20 13:02:04,581 - INFO - Saved Gennadi Strekalov -> wikipedia_pages/Gennadi Strekalov
+2025-09-20 13:02:04,679 - INFO - Saved Gennadi Strekalov -> wikipedia_pages/Gennadi Strekalov
+2025-09-20 13:02:04,736 - INFO - Saved Viktor Savinykh -> wikipedia_pages/Viktor Savinykh
+2025-09-20 13:02:04,798 - INFO - Saved Aleksandr Serebrov -> wikipedia_pages/Aleksandr Serebrov
+2025-09-20 13:02:04,863 - INFO - Saved Aleksandr Serebrov -> wikipedia_pages/Aleksandr Serebrov
+2025-09-20 13:02:04,923 - INFO - Saved Aleksandr Serebrov -> wikipedia_pages/Aleksandr Serebrov
+2025-09-20 13:02:05,113 - INFO - Saved Svetlana Savitskaya -> wikipedia_pages/Svetlana Savitskaya
+2025-09-20 13:02:05,335 - INFO - Saved Svetlana Savitskaya -> wikipedia_pages/Svetlana Savitskaya
+2025-09-20 13:02:05,438 - INFO - Saved Robert F. Overmyer -> wikipedia_pages/Robert F. Overmyer
+2025-09-20 13:02:05,541 - INFO - Saved Robert F. Overmyer -> wikipedia_pages/Robert F. Overmyer
+2025-09-20 13:02:05,655 - INFO - Saved Joseph P. Allen -> wikipedia_pages/Joseph P. Allen
+2025-09-20 13:02:05,768 - INFO - Saved Joseph P. Allen -> wikipedia_pages/Joseph P. Allen
+2025-09-20 13:02:05,897 - INFO - Saved Karol J. Bobko -> wikipedia_pages/Karol J. Bobko
+2025-09-20 13:02:06,024 - INFO - Saved Karol J. Bobko -> wikipedia_pages/Karol J. Bobko
+2025-09-20 13:02:06,117 - INFO - Saved William B. Lenoir -> wikipedia_pages/William B. Lenoir
+2025-09-20 13:02:06,357 - INFO - Saved Karol J. Bobko -> wikipedia_pages/Karol J. Bobko
+2025-09-20 13:02:06,515 - INFO - Saved Franklin Story Musgrave -> wikipedia_pages/Franklin Story Musgrave
+2025-09-20 13:02:06,669 - INFO - Saved Franklin Story Musgrave -> wikipedia_pages/Franklin Story Musgrave
+2025-09-20 13:02:06,988 - INFO - Saved Franklin Story Musgrave -> wikipedia_pages/Franklin Story Musgrave
+2025-09-20 13:02:07,087 - INFO - Saved Donald H. Peterson -> wikipedia_pages/Donald H. Peterson
+2025-09-20 13:02:07,262 - INFO - Saved Franklin Story Musgrave -> wikipedia_pages/Franklin Story Musgrave
+2025-09-20 13:02:07,423 - INFO - Saved Franklin Story Musgrave -> wikipedia_pages/Franklin Story Musgrave
+2025-09-20 13:02:07,625 - INFO - Saved Franklin Story Musgrave -> wikipedia_pages/Franklin Story Musgrave
+2025-09-20 13:02:07,925 - INFO - Saved John M. Fabian -> wikipedia_pages/John M. Fabian
+2025-09-20 13:02:08,073 - INFO - Saved Frederick H. Hauck -> wikipedia_pages/Frederick H. Hauck
+2025-09-20 13:02:08,189 - INFO - Saved Frederick H. Hauck -> wikipedia_pages/Frederick H. Hauck
+2025-09-20 13:02:08,304 - INFO - Saved Frederick H. Hauck -> wikipedia_pages/Frederick H. Hauck
+2025-09-20 13:02:08,352 - INFO - Saved Vladimir Titov -> wikipedia_pages/Vladimir Titov
+2025-09-20 13:02:08,438 - INFO - Saved John M. Fabian -> wikipedia_pages/John M. Fabian
+2025-09-20 13:02:08,479 - INFO - Saved Vladimir Titov -> wikipedia_pages/Vladimir Titov
+2025-09-20 13:02:08,555 - INFO - Saved Vladimir Titov -> wikipedia_pages/Vladimir Titov
+2025-09-20 13:02:08,598 - INFO - Saved Vladimir Titov -> wikipedia_pages/Vladimir Titov
+2025-09-20 13:02:09,168 - INFO - Saved Norman E. Thagard -> wikipedia_pages/Norman E. Thagard
+2025-09-20 13:02:09,315 - INFO - Saved Norman E. Thagard -> wikipedia_pages/Norman E. Thagard
+2025-09-20 13:02:09,458 - INFO - Saved Norman E. Thagard -> wikipedia_pages/Norman E. Thagard
+2025-09-20 13:02:09,601 - INFO - Saved Norman E. Thagard -> wikipedia_pages/Norman E. Thagard
+2025-09-20 13:02:09,750 - INFO - Saved Norman E. Thagard -> wikipedia_pages/Norman E. Thagard
+2025-09-20 13:02:10,064 - INFO - Saved Sally K. Ride -> wikipedia_pages/Sally K. Ride
+2025-09-20 13:02:10,179 - INFO - Saved Aleksandr Aleksandrov -> wikipedia_pages/Aleksandr Aleksandrov
+2025-09-20 13:02:10,449 - INFO - Saved Sally K. Ride -> wikipedia_pages/Sally K. Ride
+2025-09-20 13:02:10,556 - INFO - Saved Daniel C. Brandenstein -> wikipedia_pages/Daniel C. Brandenstein
+2025-09-20 13:02:10,721 - INFO - Saved Daniel C. Brandenstein -> wikipedia_pages/Daniel C. Brandenstein
+2025-09-20 13:02:10,840 - INFO - Saved Aleksandr Aleksandrov -> wikipedia_pages/Aleksandr Aleksandrov
+2025-09-20 13:02:10,944 - INFO - Saved Daniel C. Brandenstein -> wikipedia_pages/Daniel C. Brandenstein
+2025-09-20 13:02:11,047 - INFO - Saved Daniel C. Brandenstein -> wikipedia_pages/Daniel C. Brandenstein
+2025-09-20 13:02:11,317 - INFO - Saved Dale A. Gardner -> wikipedia_pages/Dale A. Gardner
+2025-09-20 13:02:11,406 - INFO - Saved Dale A. Gardner -> wikipedia_pages/Dale A. Gardner
+2025-09-20 13:02:11,589 - INFO - Saved Guion S., Jr. Bluford -> wikipedia_pages/Guion S., Jr. Bluford
+2025-09-20 13:02:11,744 - INFO - Saved Guion S., Jr. Bluford -> wikipedia_pages/Guion S., Jr. Bluford
+2025-09-20 13:02:11,845 - INFO - Saved Guion S., Jr. Bluford -> wikipedia_pages/Guion S., Jr. Bluford
+2025-09-20 13:02:11,945 - INFO - Saved Guion S., Jr. Bluford -> wikipedia_pages/Guion S., Jr. Bluford
+2025-09-20 13:02:12,025 - INFO - Saved William E. Thornton -> wikipedia_pages/William E. Thornton
+2025-09-20 13:02:12,105 - INFO - Saved William E. Thornton -> wikipedia_pages/William E. Thornton
+2025-09-20 13:02:12,406 - INFO - Saved Brewster H., Jr. Shaw -> wikipedia_pages/Brewster H., Jr. Shaw
+2025-09-20 13:02:12,466 - INFO - Saved Byron Kurt Lichtenberg -> wikipedia_pages/Byron Kurt Lichtenberg
+2025-09-20 13:02:12,522 - INFO - Saved Byron Kurt Lichtenberg -> wikipedia_pages/Byron Kurt Lichtenberg
+2025-09-20 13:02:12,724 - INFO - Saved Ulf Merbold -> wikipedia_pages/Ulf Merbold
+2025-09-20 13:02:12,802 - INFO - Saved Brewster H., Jr. Shaw -> wikipedia_pages/Brewster H., Jr. Shaw
+2025-09-20 13:02:12,876 - INFO - Saved Brewster H., Jr. Shaw -> wikipedia_pages/Brewster H., Jr. Shaw
+2025-09-20 13:02:13,232 - INFO - Saved Ulf Merbold -> wikipedia_pages/Ulf Merbold
+2025-09-20 13:02:13,432 - INFO - Saved Ulf Merbold -> wikipedia_pages/Ulf Merbold
+2025-09-20 13:02:13,484 - INFO - Saved Robert A. R. Parker -> wikipedia_pages/Robert A. R. Parker
+2025-09-20 13:02:13,534 - INFO - Saved Robert A. R. Parker -> wikipedia_pages/Robert A. R. Parker
+2025-09-20 13:02:13,788 - INFO - Saved Robert L. Gibson -> wikipedia_pages/Robert L. Gibson
+2025-09-20 13:02:14,002 - INFO - Saved Robert L. Gibson -> wikipedia_pages/Robert L. Gibson
+2025-09-20 13:02:14,079 - INFO - Saved Robert L. Gibson -> wikipedia_pages/Robert L. Gibson
+2025-09-20 13:02:14,236 - INFO - Saved Ronald E. McNair -> wikipedia_pages/Ronald E. McNair
+2025-09-20 13:02:14,324 - INFO - Saved Robert L. Stewart -> wikipedia_pages/Robert L. Stewart
+2025-09-20 13:02:14,475 - INFO - Saved Ronald E. McNair -> wikipedia_pages/Ronald E. McNair
+2025-09-20 13:02:14,561 - INFO - Saved Robert L. Stewart -> wikipedia_pages/Robert L. Stewart
+2025-09-20 13:02:14,637 - INFO - Saved Robert L. Gibson -> wikipedia_pages/Robert L. Gibson
+2025-09-20 13:02:14,834 - INFO - Saved Robert L. Gibson -> wikipedia_pages/Robert L. Gibson
+2025-09-20 13:02:15,014 - INFO - Saved Vladimir Solovyov -> wikipedia_pages/Vladimir Solovyov
+2025-09-20 13:02:15,173 - INFO - Saved Oleg Atkov -> wikipedia_pages/Oleg Atkov
+2025-09-20 13:02:15,297 - INFO - Saved Francis R. Scobee -> wikipedia_pages/Francis R. Scobee
+2025-09-20 13:02:15,425 - INFO - Saved Francis R. Scobee -> wikipedia_pages/Francis R. Scobee
+2025-09-20 13:02:15,515 - INFO - Saved Bruce, II McCandless -> wikipedia_pages/Bruce, II McCandless
+2025-09-20 13:02:15,541 - INFO - Saved Vladimir Solovyov -> wikipedia_pages/Vladimir Solovyov
+2025-09-20 13:02:16,571 - INFO - Saved Rakesh Sharma -> wikipedia_pages/Rakesh Sharma
+2025-09-20 13:02:16,622 - INFO - Saved Bruce, II McCandless -> wikipedia_pages/Bruce, II McCandless
+2025-09-20 13:02:16,888 - INFO - Saved Terry J. Hart -> wikipedia_pages/Terry J. Hart
+2025-09-20 13:02:17,034 - INFO - Saved George D. Nelson -> wikipedia_pages/George D. Nelson
+2025-09-20 13:02:17,201 - INFO - Saved George D. Nelson -> wikipedia_pages/George D. Nelson
+2025-09-20 13:02:17,367 - INFO - Saved George D. Nelson -> wikipedia_pages/George D. Nelson
+2025-09-20 13:02:17,477 - INFO - Saved Igor Volk -> wikipedia_pages/Igor Volk
+2025-09-20 13:02:17,585 - INFO - Saved Michael L. Coats -> wikipedia_pages/Michael L. Coats
+2025-09-20 13:02:17,778 - INFO - Saved Michael L. Coats -> wikipedia_pages/Michael L. Coats
+2025-09-20 13:02:17,956 - INFO - Saved James D. A. Van Hoften -> wikipedia_pages/James D. A. Van Hoften
+2025-09-20 13:02:18,063 - INFO - Saved Michael L. Coats -> wikipedia_pages/Michael L. Coats
+2025-09-20 13:02:18,120 - INFO - Saved James D. A. Van Hoften -> wikipedia_pages/James D. A. Van Hoften
+2025-09-20 13:02:18,206 - INFO - Saved Richard M. Mullane -> wikipedia_pages/Richard M. Mullane
+2025-09-20 13:02:18,293 - INFO - Saved Richard M. Mullane -> wikipedia_pages/Richard M. Mullane
+2025-09-20 13:02:18,433 - INFO - Saved Steven A. Hawley -> wikipedia_pages/Steven A. Hawley
+2025-09-20 13:02:18,545 - INFO - Saved Steven A. Hawley -> wikipedia_pages/Steven A. Hawley
+2025-09-20 13:02:18,632 - INFO - Saved Richard M. Mullane -> wikipedia_pages/Richard M. Mullane
+2025-09-20 13:02:18,768 - INFO - Saved Steven A. Hawley -> wikipedia_pages/Steven A. Hawley
+2025-09-20 13:02:18,930 - INFO - Saved Steven A. Hawley -> wikipedia_pages/Steven A. Hawley
+2025-09-20 13:02:19,085 - INFO - Saved Steven A. Hawley -> wikipedia_pages/Steven A. Hawley
+2025-09-20 13:02:19,489 - INFO - Saved Judith A. Resnik -> wikipedia_pages/Judith A. Resnik
+2025-09-20 13:02:19,859 - INFO - Saved Judith A. Resnik -> wikipedia_pages/Judith A. Resnik
+2025-09-20 13:02:20,089 - INFO - Saved Jon A. McBride -> wikipedia_pages/Jon A. McBride
+2025-09-20 13:02:20,597 - INFO - Saved Charles David Walker -> wikipedia_pages/Charles David Walker
+2025-09-20 13:02:20,645 - INFO - Saved Charles David Walker -> wikipedia_pages/Charles David Walker
+2025-09-20 13:02:20,692 - INFO - Saved Charles David Walker -> wikipedia_pages/Charles David Walker
+2025-09-20 13:02:20,810 - INFO - Saved David C. Leestma -> wikipedia_pages/David C. Leestma
+2025-09-20 13:02:20,923 - INFO - Saved David C. Leestma -> wikipedia_pages/David C. Leestma
+2025-09-20 13:02:21,184 - INFO - Saved Kathryn D. Sullivan -> wikipedia_pages/Kathryn D. Sullivan
+2025-09-20 13:02:21,320 - INFO - Saved David C. Leestma -> wikipedia_pages/David C. Leestma
+2025-09-20 13:02:21,534 - INFO - Saved Kathryn D. Sullivan -> wikipedia_pages/Kathryn D. Sullivan
+2025-09-20 13:02:21,820 - INFO - Saved Kathryn D. Sullivan -> wikipedia_pages/Kathryn D. Sullivan
+2025-09-20 13:02:21,899 - INFO - Saved Paul Desmond Scully-Power -> wikipedia_pages/Paul Desmond Scully-Power
+2025-09-20 13:02:21,994 - INFO - Saved David Mathieson Walker -> wikipedia_pages/David Mathieson Walker
+2025-09-20 13:02:22,085 - INFO - Saved David Mathieson Walker -> wikipedia_pages/David Mathieson Walker
+2025-09-20 13:02:22,176 - INFO - Saved David Mathieson Walker -> wikipedia_pages/David Mathieson Walker
+2025-09-20 13:02:22,234 - INFO - Saved Anna L. Fisher -> wikipedia_pages/Anna L. Fisher
+2025-09-20 13:02:22,351 - INFO - Saved David Mathieson Walker -> wikipedia_pages/David Mathieson Walker
+2025-09-20 13:02:22,572 - INFO - Saved Marc Joseph Jean-Pierre Garneau -> wikipedia_pages/Marc Joseph Jean-Pierre Garneau
+2025-09-20 13:02:22,739 - INFO - Saved Loren J. Shriver -> wikipedia_pages/Loren J. Shriver
+2025-09-20 13:02:22,844 - INFO - Saved Loren J. Shriver -> wikipedia_pages/Loren J. Shriver
+2025-09-20 13:02:23,071 - INFO - Saved Marc Joseph Jean-Pierre Garneau -> wikipedia_pages/Marc Joseph Jean-Pierre Garneau
+2025-09-20 13:02:23,290 - INFO - Saved Marc Joseph Jean-Pierre Garneau -> wikipedia_pages/Marc Joseph Jean-Pierre Garneau
+2025-09-20 13:02:23,426 - INFO - Saved Loren J. Shriver -> wikipedia_pages/Loren J. Shriver
+2025-09-20 13:02:23,552 - INFO - Saved Ellison S. Onizuka -> wikipedia_pages/Ellison S. Onizuka
+2025-09-20 13:02:23,677 - INFO - Saved Ellison S. Onizuka -> wikipedia_pages/Ellison S. Onizuka
+2025-09-20 13:02:23,790 - INFO - Saved James F. Buchli -> wikipedia_pages/James F. Buchli
+2025-09-20 13:02:23,887 - INFO - Saved James F. Buchli -> wikipedia_pages/James F. Buchli
+2025-09-20 13:02:23,985 - INFO - Saved James F. Buchli -> wikipedia_pages/James F. Buchli
+2025-09-20 13:02:24,079 - INFO - Saved James F. Buchli -> wikipedia_pages/James F. Buchli
+2025-09-20 13:02:24,204 - INFO - Saved Gary Eugene Payton -> wikipedia_pages/Gary Eugene Payton
+2025-09-20 13:02:24,422 - INFO - Saved Margaret Rhea Seddon -> wikipedia_pages/Margaret Rhea Seddon
+2025-09-20 13:02:24,651 - INFO - Saved Margaret Rhea Seddon -> wikipedia_pages/Margaret Rhea Seddon
+2025-09-20 13:02:24,836 - INFO - Saved Margaret Rhea Seddon -> wikipedia_pages/Margaret Rhea Seddon
+2025-09-20 13:02:24,919 - INFO - Saved S. David Griggs -> wikipedia_pages/S. David Griggs
+2025-09-20 13:02:24,977 - INFO - Saved Donald E. Williams -> wikipedia_pages/Donald E. Williams
+2025-09-20 13:02:25,086 - INFO - Saved Jeffrey A. Hoffman -> wikipedia_pages/Jeffrey A. Hoffman
+2025-09-20 13:02:25,224 - INFO - Saved Jeffrey A. Hoffman -> wikipedia_pages/Jeffrey A. Hoffman
+2025-09-20 13:02:25,320 - INFO - Saved Donald E. Williams -> wikipedia_pages/Donald E. Williams
+2025-09-20 13:02:25,429 - INFO - Saved Jeffrey A. Hoffman -> wikipedia_pages/Jeffrey A. Hoffman
+2025-09-20 13:02:25,542 - INFO - Saved Jeffrey A. Hoffman -> wikipedia_pages/Jeffrey A. Hoffman
+2025-09-20 13:02:25,656 - INFO - Saved Jeffrey A. Hoffman -> wikipedia_pages/Jeffrey A. Hoffman
+2025-09-20 13:02:25,945 - INFO - Saved Edwin Jacob Garn -> wikipedia_pages/Edwin Jacob Garn
+2025-09-20 13:02:26,288 - INFO - Saved Don L. Lind -> wikipedia_pages/Don L. Lind
+2025-09-20 13:02:26,357 - INFO - Saved Taylor Gun-Jin Wang -> wikipedia_pages/Taylor Gun-Jin Wang
+2025-09-20 13:02:26,434 - INFO - Saved John O. Creighton -> wikipedia_pages/John O. Creighton
+2025-09-20 13:02:26,506 - INFO - Saved John O. Creighton -> wikipedia_pages/John O. Creighton
+2025-09-20 13:02:26,588 - INFO - Saved Frederick D. Gregory -> wikipedia_pages/Frederick D. Gregory
+2025-09-20 13:02:26,672 - INFO - Saved Frederick D. Gregory -> wikipedia_pages/Frederick D. Gregory
+2025-09-20 13:02:26,747 - INFO - Saved John O. Creighton -> wikipedia_pages/John O. Creighton
+2025-09-20 13:02:26,827 - INFO - Saved Frederick D. Gregory -> wikipedia_pages/Frederick D. Gregory
+2025-09-20 13:02:26,947 - INFO - Saved Steven R. Nagel -> wikipedia_pages/Steven R. Nagel
+2025-09-20 13:02:27,092 - INFO - Saved Steven R. Nagel -> wikipedia_pages/Steven R. Nagel
+2025-09-20 13:02:27,129 - INFO - Saved van der Berg Lodewijk -> wikipedia_pages/van der Berg Lodewijk
+2025-09-20 13:02:27,227 - INFO - Saved Steven R. Nagel -> wikipedia_pages/Steven R. Nagel
+2025-09-20 13:02:27,324 - INFO - Saved Steven R. Nagel -> wikipedia_pages/Steven R. Nagel
+2025-09-20 13:02:27,699 - INFO - Saved Shannon W. Lucid -> wikipedia_pages/Shannon W. Lucid
+2025-09-20 13:02:28,612 - INFO - Saved Shannon W. Lucid -> wikipedia_pages/Shannon W. Lucid
+2025-09-20 13:02:29,637 - INFO - Saved Shannon W. Lucid -> wikipedia_pages/Shannon W. Lucid
+2025-09-20 13:02:30,033 - INFO - Saved Shannon W. Lucid -> wikipedia_pages/Shannon W. Lucid
+2025-09-20 13:02:30,475 - INFO - Saved Shannon W. Lucid -> wikipedia_pages/Shannon W. Lucid
+2025-09-20 13:02:30,533 - INFO - Saved Patrick Baudry -> wikipedia_pages/Patrick Baudry
+2025-09-20 13:02:30,808 - INFO - Saved Richard O. Covey -> wikipedia_pages/Richard O. Covey
+2025-09-20 13:02:30,913 - INFO - Saved Karl G. Henize -> wikipedia_pages/Karl G. Henize
+2025-09-20 13:02:31,000 - INFO - Saved Anthony W. England -> wikipedia_pages/Anthony W. England
+2025-09-20 13:02:31,053 - INFO - Saved John-David Francis Bartoe -> wikipedia_pages/John-David Francis Bartoe
+2025-09-20 13:02:31,136 - INFO - Saved Sultan bin Salman Al-saud -> wikipedia_pages/Sultan bin Salman Al-saud
+2025-09-20 13:02:31,243 - INFO - Saved Richard O. Covey -> wikipedia_pages/Richard O. Covey
+2025-09-20 13:02:31,346 - INFO - Saved Richard O. Covey -> wikipedia_pages/Richard O. Covey
+2025-09-20 13:02:31,465 - INFO - Saved Roy D., Jr. Bridges -> wikipedia_pages/Roy D., Jr. Bridges
+2025-09-20 13:02:31,548 - INFO - Saved John M. Lounge -> wikipedia_pages/John M. Lounge
+2025-09-20 13:02:32,093 - INFO - Saved Loren Wilbur Acton -> wikipedia_pages/Loren Wilbur Acton
+2025-09-20 13:02:32,166 - INFO - Saved John M. Lounge -> wikipedia_pages/John M. Lounge
+2025-09-20 13:02:32,267 - INFO - Saved Richard O. Covey -> wikipedia_pages/Richard O. Covey
+2025-09-20 13:02:32,342 - INFO - Saved John M. Lounge -> wikipedia_pages/John M. Lounge
+2025-09-20 13:02:32,436 - INFO - Saved William F. Fisher -> wikipedia_pages/William F. Fisher
+2025-09-20 13:02:32,525 - INFO - Saved Vladimir Vasyutin -> wikipedia_pages/Vladimir Vasyutin
+2025-09-20 13:02:32,724 - INFO - Saved Ronald J. Grabe -> wikipedia_pages/Ronald J. Grabe
+2025-09-20 13:02:32,791 - INFO - Saved Ronald J. Grabe -> wikipedia_pages/Ronald J. Grabe
+2025-09-20 13:02:32,857 - INFO - Saved Ronald J. Grabe -> wikipedia_pages/Ronald J. Grabe
+2025-09-20 13:02:32,942 - INFO - Saved Ronald J. Grabe -> wikipedia_pages/Ronald J. Grabe
+2025-09-20 13:02:33,128 - INFO - Saved Alexander Volkov -> wikipedia_pages/Alexander Volkov
+2025-09-20 13:02:33,219 - INFO - Saved David C. Hilmers -> wikipedia_pages/David C. Hilmers
+2025-09-20 13:02:33,368 - INFO - Saved David C. Hilmers -> wikipedia_pages/David C. Hilmers
+2025-09-20 13:02:33,460 - INFO - Saved David C. Hilmers -> wikipedia_pages/David C. Hilmers
+2025-09-20 13:02:33,596 - INFO - Saved Alexander Volkov -> wikipedia_pages/Alexander Volkov
+2025-09-20 13:02:33,691 - INFO - Saved David C. Hilmers -> wikipedia_pages/David C. Hilmers
+2025-09-20 13:02:33,879 - INFO - Saved Alexander Volkov -> wikipedia_pages/Alexander Volkov
+2025-09-20 13:02:33,930 - INFO - Saved William Arthur Pailes -> wikipedia_pages/William Arthur Pailes
+2025-09-20 13:02:34,180 - INFO - Saved Bonnie J. Dunbar -> wikipedia_pages/Bonnie J. Dunbar
+2025-09-20 13:02:34,432 - INFO - Saved Bonnie J. Dunbar -> wikipedia_pages/Bonnie J. Dunbar
+2025-09-20 13:02:34,681 - INFO - Saved Bonnie J. Dunbar -> wikipedia_pages/Bonnie J. Dunbar
+2025-09-20 13:02:34,971 - INFO - Saved Bonnie J. Dunbar -> wikipedia_pages/Bonnie J. Dunbar
+2025-09-20 13:02:35,217 - INFO - Saved Bonnie J. Dunbar -> wikipedia_pages/Bonnie J. Dunbar
+2025-09-20 13:02:35,323 - INFO - Saved Wubbo Johannes Ockels -> wikipedia_pages/Wubbo Johannes Ockels
+2025-09-20 13:02:35,560 - INFO - Saved Jerry L. Ross -> wikipedia_pages/Jerry L. Ross
+2025-09-20 13:02:35,876 - INFO - Saved Jerry L. Ross -> wikipedia_pages/Jerry L. Ross
+2025-09-20 13:02:35,993 - INFO - Saved Jerry L. Ross -> wikipedia_pages/Jerry L. Ross
+2025-09-20 13:02:36,113 - INFO - Saved Jerry L. Ross -> wikipedia_pages/Jerry L. Ross
+2025-09-20 13:02:36,183 - INFO - Saved Bryan D. O'Connor -> wikipedia_pages/Bryan D. O'Connor
+2025-09-20 13:02:36,251 - INFO - Saved Bryan D. O'Connor -> wikipedia_pages/Bryan D. O'Connor
+2025-09-20 13:02:36,285 - INFO - Saved Reinhard Alfred Furrer -> wikipedia_pages/Reinhard Alfred Furrer
+2025-09-20 13:02:36,323 - INFO - Saved Ernst Willi Messerschmid -> wikipedia_pages/Ernst Willi Messerschmid
+2025-09-20 13:02:36,441 - INFO - Saved Jerry L. Ross -> wikipedia_pages/Jerry L. Ross
+2025-09-20 13:02:36,551 - INFO - Saved Jerry L. Ross -> wikipedia_pages/Jerry L. Ross
+2025-09-20 13:02:36,661 - INFO - Saved Jerry L. Ross -> wikipedia_pages/Jerry L. Ross
+2025-09-20 13:02:37,701 - INFO - Saved Mary L. Cleave -> wikipedia_pages/Mary L. Cleave
+2025-09-20 13:02:38,837 - INFO - Saved Sherwood C. Spring -> wikipedia_pages/Sherwood C. Spring
+2025-09-20 13:02:39,017 - INFO - Saved Mary L. Cleave -> wikipedia_pages/Mary L. Cleave
+2025-09-20 13:02:39,139 - WARNING - No search result for: Rodolfl Neri Vela
+2025-09-20 13:02:39,379 - INFO - Saved Franklin R. Chang-Diaz -> wikipedia_pages/Franklin R. Chang-Diaz
+2025-09-20 13:02:39,546 - INFO - Saved Franklin R. Chang-Diaz -> wikipedia_pages/Franklin R. Chang-Diaz
+2025-09-20 13:02:39,685 - INFO - Saved Franklin R. Chang-Diaz -> wikipedia_pages/Franklin R. Chang-Diaz
+2025-09-20 13:02:40,359 - INFO - Saved Franklin R. Chang-Diaz -> wikipedia_pages/Franklin R. Chang-Diaz
+2025-09-20 13:02:40,714 - INFO - Saved Franklin R. Chang-Diaz -> wikipedia_pages/Franklin R. Chang-Diaz
+2025-09-20 13:02:40,970 - INFO - Saved Charles F., Jr. Bolden -> wikipedia_pages/Charles F., Jr. Bolden
+2025-09-20 13:02:41,090 - INFO - Saved Charles F., Jr. Bolden -> wikipedia_pages/Charles F., Jr. Bolden
+2025-09-20 13:02:41,210 - INFO - Saved Charles F., Jr. Bolden -> wikipedia_pages/Charles F., Jr. Bolden
+2025-09-20 13:02:41,336 - INFO - Saved Charles F., Jr. Bolden -> wikipedia_pages/Charles F., Jr. Bolden
+2025-09-20 13:02:41,488 - INFO - Saved Franklin R. Chang-Diaz -> wikipedia_pages/Franklin R. Chang-Diaz
+2025-09-20 13:02:42,017 - INFO - Saved Franklin R. Chang-Diaz -> wikipedia_pages/Franklin R. Chang-Diaz
+2025-09-20 13:02:42,184 - INFO - Saved Robert Joseph Cenker -> wikipedia_pages/Robert Joseph Cenker
+2025-09-20 13:02:42,305 - INFO - Saved Gregory Bruce Jarvis -> wikipedia_pages/Gregory Bruce Jarvis
+2025-09-20 13:02:42,469 - INFO - Saved Sharon Christa Corrigan McAuliffe -> wikipedia_pages/Sharon Christa Corrigan McAuliffe
+2025-09-20 13:02:42,529 - INFO - Saved Aleksandr Laveykin -> wikipedia_pages/Aleksandr Laveykin
+2025-09-20 13:02:42,586 - INFO - Saved Aleksandr Viktorenko -> wikipedia_pages/Aleksandr Viktorenko
+2025-09-20 13:02:42,643 - INFO - Saved Aleksandr Viktorenko -> wikipedia_pages/Aleksandr Viktorenko
+2025-09-20 13:02:42,792 - INFO - Saved Aleksandr Viktorenko -> wikipedia_pages/Aleksandr Viktorenko
+2025-09-20 13:02:42,825 - INFO - Saved Michael John Smith -> wikipedia_pages/Michael John Smith
+2025-09-20 13:02:42,884 - INFO - Saved Aleksandr Viktorenko -> wikipedia_pages/Aleksandr Viktorenko
+2025-09-20 13:02:43,030 - INFO - Saved Anatoly Solovyev -> wikipedia_pages/Anatoly Solovyev
+2025-09-20 13:02:43,166 - INFO - Saved Anatoly Solovyev -> wikipedia_pages/Anatoly Solovyev
+2025-09-20 13:02:43,243 - INFO - Saved Anatoly Solovyev -> wikipedia_pages/Anatoly Solovyev
+2025-09-20 13:02:43,525 - INFO - Saved William Clarence Nelson -> wikipedia_pages/William Clarence Nelson
+2025-09-20 13:02:43,586 - INFO - Saved Anatoli Levchenko -> wikipedia_pages/Anatoli Levchenko
+2025-09-20 13:02:43,647 - INFO - Saved Musa Manarov -> wikipedia_pages/Musa Manarov
+2025-09-20 13:02:43,750 - INFO - Saved Musa Manarov -> wikipedia_pages/Musa Manarov
+2025-09-20 13:02:43,927 - INFO - Saved Aleksandr Aleksandrov -> wikipedia_pages/Aleksandr Aleksandrov
+2025-09-20 13:02:44,003 - INFO - Saved Anatoly Solovyev -> wikipedia_pages/Anatoly Solovyev
+2025-09-20 13:02:44,180 - INFO - Saved M. Achmed Faris -> wikipedia_pages/M. Achmed Faris
+2025-09-20 13:02:44,255 - INFO - Saved Anatoly Solovyev -> wikipedia_pages/Anatoly Solovyev
+2025-09-20 13:02:44,383 - INFO - Saved Valeri Polyakov -> wikipedia_pages/Valeri Polyakov
+2025-09-20 13:02:44,495 - INFO - Saved Valeri Polyakov -> wikipedia_pages/Valeri Polyakov
+2025-09-20 13:02:44,598 - INFO - Saved Sergei Krikalev -> wikipedia_pages/Sergei Krikalev
+2025-09-20 13:02:44,701 - INFO - Saved Sergei Krikalev -> wikipedia_pages/Sergei Krikalev
+2025-09-20 13:02:44,846 - INFO - Saved Sergei Krikalev -> wikipedia_pages/Sergei Krikalev
+2025-09-20 13:02:44,955 - INFO - Saved Abdul Ahad Mohmand -> wikipedia_pages/Abdul Ahad Mohmand
+2025-09-20 13:02:45,079 - INFO - Saved Sergei Krikalev -> wikipedia_pages/Sergei Krikalev
+2025-09-20 13:02:45,183 - INFO - Saved Sergei Krikalev -> wikipedia_pages/Sergei Krikalev
+2025-09-20 13:02:45,308 - INFO - Saved Sergei Krikalev -> wikipedia_pages/Sergei Krikalev
+2025-09-20 13:02:45,488 - INFO - Saved John E. Blaha -> wikipedia_pages/John E. Blaha
+2025-09-20 13:02:45,660 - INFO - Saved John E. Blaha -> wikipedia_pages/John E. Blaha
+2025-09-20 13:02:45,740 - INFO - Saved Guy S. Gardner -> wikipedia_pages/Guy S. Gardner
+2025-09-20 13:02:45,854 - INFO - Saved Guy S. Gardner -> wikipedia_pages/Guy S. Gardner
+2025-09-20 13:02:46,312 - INFO - Saved John E. Blaha -> wikipedia_pages/John E. Blaha
+2025-09-20 13:02:46,510 - INFO - Saved John E. Blaha -> wikipedia_pages/John E. Blaha
+2025-09-20 13:02:46,619 - INFO - Saved William M. Shepherd -> wikipedia_pages/William M. Shepherd
+2025-09-20 13:02:46,753 - INFO - Saved William M. Shepherd -> wikipedia_pages/William M. Shepherd
+2025-09-20 13:02:46,862 - INFO - Saved William M. Shepherd -> wikipedia_pages/William M. Shepherd
+2025-09-20 13:02:46,973 - INFO - Saved William M. Shepherd -> wikipedia_pages/William M. Shepherd
+2025-09-20 13:02:47,193 - INFO - Saved John E. Blaha -> wikipedia_pages/John E. Blaha
+2025-09-20 13:02:47,267 - INFO - Saved Robert C. Springer -> wikipedia_pages/Robert C. Springer
+2025-09-20 13:02:47,336 - INFO - Saved Robert C. Springer -> wikipedia_pages/Robert C. Springer
+2025-09-20 13:02:47,425 - INFO - Saved James P. Bagian -> wikipedia_pages/James P. Bagian
+2025-09-20 13:02:47,510 - INFO - Saved James P. Bagian -> wikipedia_pages/James P. Bagian
+2025-09-20 13:02:47,592 - INFO - Saved Mark C. Lee -> wikipedia_pages/Mark C. Lee
+2025-09-20 13:02:47,669 - INFO - Saved Mark C. Lee -> wikipedia_pages/Mark C. Lee
+2025-09-20 13:02:47,750 - INFO - Saved Mark C. Lee -> wikipedia_pages/Mark C. Lee
+2025-09-20 13:02:47,826 - INFO - Saved Mark C. Lee -> wikipedia_pages/Mark C. Lee
+2025-09-20 13:02:47,987 - INFO - Saved Mark N. Brown -> wikipedia_pages/Mark N. Brown
+2025-09-20 13:02:48,064 - INFO - Saved Richard N. Richards -> wikipedia_pages/Richard N. Richards
+2025-09-20 13:02:48,144 - INFO - Saved Richard N. Richards -> wikipedia_pages/Richard N. Richards
+2025-09-20 13:02:48,260 - INFO - Saved Richard N. Richards -> wikipedia_pages/Richard N. Richards
+2025-09-20 13:02:48,336 - INFO - Saved Richard N. Richards -> wikipedia_pages/Richard N. Richards
+2025-09-20 13:02:48,412 - INFO - Saved James C. Adamson -> wikipedia_pages/James C. Adamson
+2025-09-20 13:02:48,488 - INFO - Saved James C. Adamson -> wikipedia_pages/James C. Adamson
+2025-09-20 13:02:48,585 - INFO - Saved Mark N. Brown -> wikipedia_pages/Mark N. Brown
+2025-09-20 13:02:48,707 - INFO - Saved Michael J. McCulley -> wikipedia_pages/Michael J. McCulley
+2025-09-20 13:02:48,791 - INFO - Saved Ellen S. Baker -> wikipedia_pages/Ellen S. Baker
+2025-09-20 13:02:48,874 - INFO - Saved Ellen S. Baker -> wikipedia_pages/Ellen S. Baker
+2025-09-20 13:02:48,978 - INFO - Saved Ellen S. Baker -> wikipedia_pages/Ellen S. Baker
+2025-09-20 13:02:49,092 - INFO - Saved Kathryn C. Thornton -> wikipedia_pages/Kathryn C. Thornton
+2025-09-20 13:02:49,241 - INFO - Saved Kathryn C. Thornton -> wikipedia_pages/Kathryn C. Thornton
+2025-09-20 13:02:49,353 - INFO - Saved Kathryn C. Thornton -> wikipedia_pages/Kathryn C. Thornton
+2025-09-20 13:02:49,465 - INFO - Saved Kathryn C. Thornton -> wikipedia_pages/Kathryn C. Thornton
+2025-09-20 13:02:49,700 - INFO - Saved Marsha S. Ivins -> wikipedia_pages/Marsha S. Ivins
+2025-09-20 13:02:49,874 - INFO - Saved James D. Wetherbee -> wikipedia_pages/James D. Wetherbee
+2025-09-20 13:02:50,037 - INFO - Saved James D. Wetherbee -> wikipedia_pages/James D. Wetherbee
+2025-09-20 13:02:50,198 - INFO - Saved James D. Wetherbee -> wikipedia_pages/James D. Wetherbee
+2025-09-20 13:02:50,393 - INFO - Saved James D. Wetherbee -> wikipedia_pages/James D. Wetherbee
+2025-09-20 13:02:50,579 - INFO - Saved James D. Wetherbee -> wikipedia_pages/James D. Wetherbee
+2025-09-20 13:02:50,740 - INFO - Saved James D. Wetherbee -> wikipedia_pages/James D. Wetherbee
+2025-09-20 13:02:50,835 - INFO - Saved Marsha S. Ivins -> wikipedia_pages/Marsha S. Ivins
+2025-09-20 13:02:50,894 - INFO - Saved Manley Lanier, Jr. Carter -> wikipedia_pages/Manley Lanier, Jr. Carter
+2025-09-20 13:02:51,009 - INFO - Saved Marsha S. Ivins -> wikipedia_pages/Marsha S. Ivins
+2025-09-20 13:02:51,103 - INFO - Saved Marsha S. Ivins -> wikipedia_pages/Marsha S. Ivins
+2025-09-20 13:02:51,198 - INFO - Saved Marsha S. Ivins -> wikipedia_pages/Marsha S. Ivins
+2025-09-20 13:02:51,275 - INFO - Saved G. David Low -> wikipedia_pages/G. David Low
+2025-09-20 13:02:51,390 - INFO - Saved G. David Low -> wikipedia_pages/G. David Low
+2025-09-20 13:02:51,466 - INFO - Saved G. David Low -> wikipedia_pages/G. David Low
+2025-09-20 13:02:51,571 - INFO - Saved John H. Casper -> wikipedia_pages/John H. Casper
+2025-09-20 13:02:51,684 - INFO - Saved John H. Casper -> wikipedia_pages/John H. Casper
+2025-09-20 13:02:51,769 - INFO - Saved John H. Casper -> wikipedia_pages/John H. Casper
+2025-09-20 13:02:51,850 - INFO - Saved John H. Casper -> wikipedia_pages/John H. Casper
+2025-09-20 13:02:51,929 - INFO - Saved Pierre J. Thuot -> wikipedia_pages/Pierre J. Thuot
+2025-09-20 13:02:52,003 - INFO - Saved Pierre J. Thuot -> wikipedia_pages/Pierre J. Thuot
+2025-09-20 13:02:52,029 - INFO - Saved Aleksandr Balandin -> wikipedia_pages/Aleksandr Balandin
+2025-09-20 13:02:52,103 - INFO - Saved Pierre J. Thuot -> wikipedia_pages/Pierre J. Thuot
+2025-09-20 13:02:52,160 - INFO - Saved Gennadi Manakov -> wikipedia_pages/Gennadi Manakov
+2025-09-20 13:02:52,213 - INFO - Saved Gennadi Manakov -> wikipedia_pages/Gennadi Manakov
+2025-09-20 13:02:52,365 - INFO - Saved Robert D. Cabana -> wikipedia_pages/Robert D. Cabana
+2025-09-20 13:02:52,472 - INFO - Saved Robert D. Cabana -> wikipedia_pages/Robert D. Cabana
+2025-09-20 13:02:52,580 - INFO - Saved Robert D. Cabana -> wikipedia_pages/Robert D. Cabana
+2025-09-20 13:02:52,687 - INFO - Saved Robert D. Cabana -> wikipedia_pages/Robert D. Cabana
+2025-09-20 13:02:52,784 - INFO - Saved Bruce E. Melnick -> wikipedia_pages/Bruce E. Melnick
+2025-09-20 13:02:52,880 - INFO - Saved Bruce E. Melnick -> wikipedia_pages/Bruce E. Melnick
+2025-09-20 13:02:52,985 - INFO - Saved Thomas D. Akers -> wikipedia_pages/Thomas D. Akers
+2025-09-20 13:02:53,086 - INFO - Saved Thomas D. Akers -> wikipedia_pages/Thomas D. Akers
+2025-09-20 13:02:53,186 - INFO - Saved Thomas D. Akers -> wikipedia_pages/Thomas D. Akers
+2025-09-20 13:02:53,323 - INFO - Saved Thomas D. Akers -> wikipedia_pages/Thomas D. Akers
+2025-09-20 13:02:53,479 - INFO - Saved Carl J. Meade -> wikipedia_pages/Carl J. Meade
+2025-09-20 13:02:53,562 - INFO - Saved Carl J. Meade -> wikipedia_pages/Carl J. Meade
+2025-09-20 13:02:53,671 - INFO - Saved Carl J. Meade -> wikipedia_pages/Carl J. Meade
+2025-09-20 13:02:53,741 - INFO - Saved Charles D. Gemar -> wikipedia_pages/Charles D. Gemar
+2025-09-20 13:02:53,832 - INFO - Saved Charles D. Gemar -> wikipedia_pages/Charles D. Gemar
+2025-09-20 13:02:53,929 - INFO - Saved Frank L., Jr. Culbertson -> wikipedia_pages/Frank L., Jr. Culbertson
+2025-09-20 13:02:54,024 - INFO - Saved Frank L., Jr. Culbertson -> wikipedia_pages/Frank L., Jr. Culbertson
+2025-09-20 13:02:54,094 - INFO - Saved Charles D. Gemar -> wikipedia_pages/Charles D. Gemar
+2025-09-20 13:02:54,220 - INFO - Saved Frank L., Jr. Culbertson -> wikipedia_pages/Frank L., Jr. Culbertson
+2025-09-20 13:02:54,286 - INFO - Saved Samuel Thornton Durrance -> wikipedia_pages/Samuel Thornton Durrance
+2025-09-20 13:02:54,371 - INFO - Saved Samuel Thornton Durrance -> wikipedia_pages/Samuel Thornton Durrance
+2025-09-20 13:02:54,597 - INFO - Saved Toyohiro Akiyama -> wikipedia_pages/Toyohiro Akiyama
+2025-09-20 13:02:54,652 - INFO - Saved Ronald Anthony Parise -> wikipedia_pages/Ronald Anthony Parise
+2025-09-20 13:02:54,703 - INFO - Saved Ronald Anthony Parise -> wikipedia_pages/Ronald Anthony Parise
+2025-09-20 13:02:54,931 - INFO - Saved Kenneth D. Cameron -> wikipedia_pages/Kenneth D. Cameron
+2025-09-20 13:02:55,088 - INFO - Saved Kenneth D. Cameron -> wikipedia_pages/Kenneth D. Cameron
+2025-09-20 13:02:55,193 - INFO - Saved Linda M. Godwin -> wikipedia_pages/Linda M. Godwin
+2025-09-20 13:02:55,244 - INFO - Saved Viktor Mikhaylovich Afanasyev -> wikipedia_pages/Viktor Mikhaylovich Afanasyev
+2025-09-20 13:02:55,289 - INFO - Saved Viktor Mikhaylovich Afanasyev -> wikipedia_pages/Viktor Mikhaylovich Afanasyev
+2025-09-20 13:02:55,332 - INFO - Saved Viktor Mikhaylovich Afanasyev -> wikipedia_pages/Viktor Mikhaylovich Afanasyev
+2025-09-20 13:02:55,375 - INFO - Saved Viktor Mikhaylovich Afanasyev -> wikipedia_pages/Viktor Mikhaylovich Afanasyev
+2025-09-20 13:02:55,484 - INFO - Saved Kenneth D. Cameron -> wikipedia_pages/Kenneth D. Cameron
+2025-09-20 13:02:55,590 - INFO - Saved Linda M. Godwin -> wikipedia_pages/Linda M. Godwin
+2025-09-20 13:02:55,686 - INFO - Saved Jerome Apt -> wikipedia_pages/Jerome Apt
+2025-09-20 13:02:55,799 - INFO - Saved Linda M. Godwin -> wikipedia_pages/Linda M. Godwin
+2025-09-20 13:02:55,905 - INFO - Saved Linda M. Godwin -> wikipedia_pages/Linda M. Godwin
+2025-09-20 13:02:56,046 - INFO - Saved Jerome Apt -> wikipedia_pages/Jerome Apt
+2025-09-20 13:02:56,122 - INFO - Saved Jerome Apt -> wikipedia_pages/Jerome Apt
+2025-09-20 13:02:56,197 - INFO - Saved Jerome Apt -> wikipedia_pages/Jerome Apt
+2025-09-20 13:02:56,280 - INFO - Saved Gregory J. Harbaugh -> wikipedia_pages/Gregory J. Harbaugh
+2025-09-20 13:02:56,368 - INFO - Saved Gregory J. Harbaugh -> wikipedia_pages/Gregory J. Harbaugh
+2025-09-20 13:02:56,459 - INFO - Saved Gregory J. Harbaugh -> wikipedia_pages/Gregory J. Harbaugh
+2025-09-20 13:02:56,539 - INFO - Saved Gregory J. Harbaugh -> wikipedia_pages/Gregory J. Harbaugh
+2025-09-20 13:02:56,644 - INFO - Saved Donald R. McMonagle -> wikipedia_pages/Donald R. McMonagle
+2025-09-20 13:02:56,719 - INFO - Saved Donald R. McMonagle -> wikipedia_pages/Donald R. McMonagle
+2025-09-20 13:02:56,795 - INFO - Saved Donald R. McMonagle -> wikipedia_pages/Donald R. McMonagle
+2025-09-20 13:02:56,870 - INFO - Saved Charles Lacy Veach -> wikipedia_pages/Charles Lacy Veach
+2025-09-20 13:02:56,997 - INFO - Saved Charles Lacy Veach -> wikipedia_pages/Charles Lacy Veach
+2025-09-20 13:02:57,045 - INFO - Saved L. Blaine, Jr. Hammond -> wikipedia_pages/L. Blaine, Jr. Hammond
+2025-09-20 13:02:57,096 - INFO - Saved L. Blaine, Jr. Hammond -> wikipedia_pages/L. Blaine, Jr. Hammond
+2025-09-20 13:02:57,196 - INFO - Saved Richard J. Hieb -> wikipedia_pages/Richard J. Hieb
+2025-09-20 13:02:57,258 - INFO - Saved Richard J. Hieb -> wikipedia_pages/Richard J. Hieb
+2025-09-20 13:02:57,319 - INFO - Saved Richard J. Hieb -> wikipedia_pages/Richard J. Hieb
+2025-09-20 13:02:57,451 - INFO - Saved Helen Sharman -> wikipedia_pages/Helen Sharman
+2025-09-20 13:02:57,510 - INFO - Saved Anatoly Artsebarsky -> wikipedia_pages/Anatoly Artsebarsky
+2025-09-20 13:02:57,657 - INFO - Saved Sidney M. Gutierrez -> wikipedia_pages/Sidney M. Gutierrez
+2025-09-20 13:02:57,734 - INFO - Saved Sidney M. Gutierrez -> wikipedia_pages/Sidney M. Gutierrez
+2025-09-20 13:02:57,946 - INFO - Saved Tamara E. Jernigan -> wikipedia_pages/Tamara E. Jernigan
+2025-09-20 13:02:58,026 - INFO - Saved Tamara E. Jernigan -> wikipedia_pages/Tamara E. Jernigan
+2025-09-20 13:02:58,143 - INFO - Saved Tamara E. Jernigan -> wikipedia_pages/Tamara E. Jernigan
+2025-09-20 13:02:58,223 - INFO - Saved Tamara E. Jernigan -> wikipedia_pages/Tamara E. Jernigan
+2025-09-20 13:02:58,303 - INFO - Saved Tamara E. Jernigan -> wikipedia_pages/Tamara E. Jernigan
+2025-09-20 13:02:58,428 - INFO - Saved Millie Elizabeth Hughes-Fulford -> wikipedia_pages/Millie Elizabeth Hughes-Fulford
+2025-09-20 13:02:58,705 - INFO - Saved Andrew Gaffney -> wikipedia_pages/Andrew Gaffney
+2025-09-20 13:02:58,762 - INFO - Saved Michael A. Baker -> wikipedia_pages/Michael A. Baker
+2025-09-20 13:02:58,822 - INFO - Saved Toktar Aubakirov -> wikipedia_pages/Toktar Aubakirov
+2025-09-20 13:02:59,037 - INFO - Saved Terence T. Henricks -> wikipedia_pages/Terence T. Henricks
+2025-09-20 13:02:59,110 - INFO - Saved Terence T. Henricks -> wikipedia_pages/Terence T. Henricks
+2025-09-20 13:02:59,166 - INFO - Saved Franz Viehbock -> wikipedia_pages/Franz Viehbock
+2025-09-20 13:02:59,225 - INFO - Saved Michael A. Baker -> wikipedia_pages/Michael A. Baker
+2025-09-20 13:02:59,281 - INFO - Saved Michael A. Baker -> wikipedia_pages/Michael A. Baker
+2025-09-20 13:02:59,337 - INFO - Saved Michael A. Baker -> wikipedia_pages/Michael A. Baker
+2025-09-20 13:02:59,388 - INFO - Saved Kenneth S., Jr. Reightler -> wikipedia_pages/Kenneth S., Jr. Reightler
+2025-09-20 13:02:59,480 - INFO - Saved Terence T. Henricks -> wikipedia_pages/Terence T. Henricks
+2025-09-20 13:02:59,533 - INFO - Saved Kenneth S., Jr. Reightler -> wikipedia_pages/Kenneth S., Jr. Reightler
+2025-09-20 13:02:59,607 - INFO - Saved Terence T. Henricks -> wikipedia_pages/Terence T. Henricks
+2025-09-20 13:02:59,709 - INFO - Saved James S. Voss -> wikipedia_pages/James S. Voss
+2025-09-20 13:02:59,852 - INFO - Saved James S. Voss -> wikipedia_pages/James S. Voss
+2025-09-20 13:02:59,973 - INFO - Saved James S. Voss -> wikipedia_pages/James S. Voss
+2025-09-20 13:03:00,076 - INFO - Saved James S. Voss -> wikipedia_pages/James S. Voss
+2025-09-20 13:03:00,177 - INFO - Saved James S. Voss -> wikipedia_pages/James S. Voss
+2025-09-20 13:03:00,314 - INFO - Saved Stephen S. Oswald -> wikipedia_pages/Stephen S. Oswald
+2025-09-20 13:03:00,385 - INFO - Saved Stephen S. Oswald -> wikipedia_pages/Stephen S. Oswald
+2025-09-20 13:03:00,483 - INFO - Saved Stephen S. Oswald -> wikipedia_pages/Stephen S. Oswald
+2025-09-20 13:03:00,555 - INFO - Saved William F. Readdy -> wikipedia_pages/William F. Readdy
+2025-09-20 13:03:00,617 - INFO - Saved Mario, Jr. Runco -> wikipedia_pages/Mario, Jr. Runco
+2025-09-20 13:03:00,705 - INFO - Saved William F. Readdy -> wikipedia_pages/William F. Readdy
+2025-09-20 13:03:00,802 - INFO - Saved Mario, Jr. Runco -> wikipedia_pages/Mario, Jr. Runco
+2025-09-20 13:03:00,864 - INFO - Saved Mario, Jr. Runco -> wikipedia_pages/Mario, Jr. Runco
+2025-09-20 13:03:00,935 - INFO - Saved William F. Readdy -> wikipedia_pages/William F. Readdy
+2025-09-20 13:03:00,969 - INFO - Saved Thomas John Hennen -> wikipedia_pages/Thomas John Hennen
+2025-09-20 13:03:01,239 - INFO - Saved Aleksandr Kaleri -> wikipedia_pages/Aleksandr Kaleri
+2025-09-20 13:03:01,313 - INFO - Saved Aleksandr Kaleri -> wikipedia_pages/Aleksandr Kaleri
+2025-09-20 13:03:01,392 - INFO - Saved Aleksandr Kaleri -> wikipedia_pages/Aleksandr Kaleri
+2025-09-20 13:03:01,467 - INFO - Saved Aleksandr Kaleri -> wikipedia_pages/Aleksandr Kaleri
+2025-09-20 13:03:01,541 - INFO - Saved Aleksandr Kaleri -> wikipedia_pages/Aleksandr Kaleri
+2025-09-20 13:03:01,677 - INFO - Saved Roberta Lynn Bondar -> wikipedia_pages/Roberta Lynn Bondar
+2025-09-20 13:03:01,728 - INFO - Saved Klaus-Dietrich Flade -> wikipedia_pages/Klaus-Dietrich Flade
+2025-09-20 13:03:02,112 - INFO - Saved C. Michael Foale -> wikipedia_pages/C. Michael Foale
+2025-09-20 13:03:02,235 - INFO - Saved C. Michael Foale -> wikipedia_pages/C. Michael Foale
+2025-09-20 13:03:02,357 - INFO - Saved C. Michael Foale -> wikipedia_pages/C. Michael Foale
+2025-09-20 13:03:02,478 - INFO - Saved C. Michael Foale -> wikipedia_pages/C. Michael Foale
+2025-09-20 13:03:02,566 - INFO - Saved Brian Duffy -> wikipedia_pages/Brian Duffy
+2025-09-20 13:03:02,628 - INFO - Saved Brian Duffy -> wikipedia_pages/Brian Duffy
+2025-09-20 13:03:02,689 - INFO - Saved Brian Duffy -> wikipedia_pages/Brian Duffy
+2025-09-20 13:03:02,751 - INFO - Saved Brian Duffy -> wikipedia_pages/Brian Duffy
+2025-09-20 13:03:02,936 - INFO - Saved C. Michael Foale -> wikipedia_pages/C. Michael Foale
+2025-09-20 13:03:03,058 - INFO - Saved C. Michael Foale -> wikipedia_pages/C. Michael Foale
+2025-09-20 13:03:03,230 - INFO - Saved Kevin P. Chilton -> wikipedia_pages/Kevin P. Chilton
+2025-09-20 13:03:03,402 - INFO - Saved Kevin P. Chilton -> wikipedia_pages/Kevin P. Chilton
+2025-09-20 13:03:03,596 - INFO - Saved Kevin P. Chilton -> wikipedia_pages/Kevin P. Chilton
+2025-09-20 13:03:03,743 - INFO - Saved Kenneth D. Bowersox -> wikipedia_pages/Kenneth D. Bowersox
+2025-09-20 13:03:03,909 - INFO - Saved Kenneth D. Bowersox -> wikipedia_pages/Kenneth D. Bowersox
+2025-09-20 13:03:04,038 - INFO - Saved Kenneth D. Bowersox -> wikipedia_pages/Kenneth D. Bowersox
+2025-09-20 13:03:04,170 - INFO - Saved Kenneth D. Bowersox -> wikipedia_pages/Kenneth D. Bowersox
+2025-09-20 13:03:04,300 - INFO - Saved Kenneth D. Bowersox -> wikipedia_pages/Kenneth D. Bowersox
+2025-09-20 13:03:04,344 - INFO - Saved David Frimout -> wikipedia_pages/David Frimout
+2025-09-20 13:03:04,394 - INFO - Saved Lawrence James DeLucas -> wikipedia_pages/Lawrence James DeLucas
+2025-09-20 13:03:04,627 - INFO - Saved Andrew M. Allen -> wikipedia_pages/Andrew M. Allen
+2025-09-20 13:03:04,685 - INFO - Saved Eugene Huu-Chau Trinh -> wikipedia_pages/Eugene Huu-Chau Trinh
+2025-09-20 13:03:04,748 - INFO - Saved Sergei Avdeyev -> wikipedia_pages/Sergei Avdeyev
+2025-09-20 13:03:04,808 - INFO - Saved Sergei Avdeyev -> wikipedia_pages/Sergei Avdeyev
+2025-09-20 13:03:04,900 - INFO - Saved Sergei Avdeyev -> wikipedia_pages/Sergei Avdeyev
+2025-09-20 13:03:04,980 - INFO - Saved Michel Tognini -> wikipedia_pages/Michel Tognini
+2025-09-20 13:03:05,059 - INFO - Saved Michel Tognini -> wikipedia_pages/Michel Tognini
+2025-09-20 13:03:05,176 - INFO - Saved Andrew M. Allen -> wikipedia_pages/Andrew M. Allen
+2025-09-20 13:03:05,272 - INFO - Saved Andrew M. Allen -> wikipedia_pages/Andrew M. Allen
+2025-09-20 13:03:05,392 - INFO - Saved Claude Nicollier -> wikipedia_pages/Claude Nicollier
+2025-09-20 13:03:05,497 - INFO - Saved Claude Nicollier -> wikipedia_pages/Claude Nicollier
+2025-09-20 13:03:05,601 - INFO - Saved Claude Nicollier -> wikipedia_pages/Claude Nicollier
+2025-09-20 13:03:05,704 - INFO - Saved Claude Nicollier -> wikipedia_pages/Claude Nicollier
+2025-09-20 13:03:05,764 - INFO - Saved Franco Malerba -> wikipedia_pages/Franco Malerba
+2025-09-20 13:03:06,276 - INFO - Saved Curtis L., Jr. Brown -> wikipedia_pages/Curtis L., Jr. Brown
+2025-09-20 13:03:06,408 - INFO - Saved Curtis L., Jr. Brown -> wikipedia_pages/Curtis L., Jr. Brown
+2025-09-20 13:03:06,522 - INFO - Saved Curtis L., Jr. Brown -> wikipedia_pages/Curtis L., Jr. Brown
+2025-09-20 13:03:06,615 - INFO - Saved Curtis L., Jr. Brown -> wikipedia_pages/Curtis L., Jr. Brown
+2025-09-20 13:03:06,710 - INFO - Saved Curtis L., Jr. Brown -> wikipedia_pages/Curtis L., Jr. Brown
+2025-09-20 13:03:07,121 - INFO - Saved Curtis L., Jr. Brown -> wikipedia_pages/Curtis L., Jr. Brown
+2025-09-20 13:03:07,186 - INFO - Saved Nancy Jan Davis -> wikipedia_pages/Nancy Jan Davis
+2025-09-20 13:03:07,251 - INFO - Saved Nancy Jan Davis -> wikipedia_pages/Nancy Jan Davis
+2025-09-20 13:03:07,335 - INFO - Saved Nancy Jan Davis -> wikipedia_pages/Nancy Jan Davis
+2025-09-20 13:03:07,408 - INFO - Saved Mamoru Mohri -> wikipedia_pages/Mamoru Mohri
+2025-09-20 13:03:07,481 - INFO - Saved Mamoru Mohri -> wikipedia_pages/Mamoru Mohri
+2025-09-20 13:03:07,944 - INFO - Saved Mae C. Jemison -> wikipedia_pages/Mae C. Jemison
+2025-09-20 13:03:08,005 - INFO - Saved Steven MacLean -> wikipedia_pages/Steven MacLean
+2025-09-20 13:03:08,147 - INFO - Saved Michael R. Clifford -> wikipedia_pages/Michael R. Clifford
+2025-09-20 13:03:08,273 - INFO - Saved Michael R. Clifford -> wikipedia_pages/Michael R. Clifford
+2025-09-20 13:03:08,398 - INFO - Saved Michael R. Clifford -> wikipedia_pages/Michael R. Clifford
+2025-09-20 13:03:08,620 - INFO - Saved Susan J. Helms -> wikipedia_pages/Susan J. Helms
+2025-09-20 13:03:08,878 - INFO - Saved Susan J. Helms -> wikipedia_pages/Susan J. Helms
+2025-09-20 13:03:09,105 - INFO - Saved Susan J. Helms -> wikipedia_pages/Susan J. Helms
+2025-09-20 13:03:09,132 - INFO - Saved Steven MacLean -> wikipedia_pages/Steven MacLean
+2025-09-20 13:03:09,350 - INFO - Saved Susan J. Helms -> wikipedia_pages/Susan J. Helms
+2025-09-20 13:03:09,565 - INFO - Saved Susan J. Helms -> wikipedia_pages/Susan J. Helms
+2025-09-20 13:03:09,621 - INFO - Saved Aleksandr Poleshchuk -> wikipedia_pages/Aleksandr Poleshchuk
+2025-09-20 13:03:09,711 - INFO - Saved Kenneth D. Cockrell -> wikipedia_pages/Kenneth D. Cockrell
+2025-09-20 13:03:09,804 - INFO - Saved Kenneth D. Cockrell -> wikipedia_pages/Kenneth D. Cockrell
+2025-09-20 13:03:09,931 - INFO - Saved Kenneth D. Cockrell -> wikipedia_pages/Kenneth D. Cockrell
+2025-09-20 13:03:10,025 - INFO - Saved Kenneth D. Cockrell -> wikipedia_pages/Kenneth D. Cockrell
+2025-09-20 13:03:10,119 - INFO - Saved Kenneth D. Cockrell -> wikipedia_pages/Kenneth D. Cockrell
+2025-09-20 13:03:10,253 - INFO - Saved Ellen Ochoa -> wikipedia_pages/Ellen Ochoa
+2025-09-20 13:03:10,418 - INFO - Saved Ellen Ochoa -> wikipedia_pages/Ellen Ochoa
+2025-09-20 13:03:10,560 - INFO - Saved Ellen Ochoa -> wikipedia_pages/Ellen Ochoa
+2025-09-20 13:03:10,694 - INFO - Saved Ellen Ochoa -> wikipedia_pages/Ellen Ochoa
+2025-09-20 13:03:11,068 - INFO - Saved Ulrich Walter -> wikipedia_pages/Ulrich Walter
+2025-09-20 13:03:11,177 - INFO - Saved Hans Schlegel -> wikipedia_pages/Hans Schlegel
+2025-09-20 13:03:11,316 - INFO - Saved Bernard A., Jr. Harris -> wikipedia_pages/Bernard A., Jr. Harris
+2025-09-20 13:03:11,411 - INFO - Saved Hans Schlegel -> wikipedia_pages/Hans Schlegel
+2025-09-20 13:03:11,510 - INFO - Saved Nancy J. Currie -> wikipedia_pages/Nancy J. Currie
+2025-09-20 13:03:11,630 - INFO - Saved Nancy J. Currie -> wikipedia_pages/Nancy J. Currie
+2025-09-20 13:03:11,712 - INFO - Saved Bernard A., Jr. Harris -> wikipedia_pages/Bernard A., Jr. Harris
+2025-09-20 13:03:11,836 - INFO - Saved Nancy J. Currie -> wikipedia_pages/Nancy J. Currie
+2025-09-20 13:03:11,934 - INFO - Saved Nancy J. Currie -> wikipedia_pages/Nancy J. Currie
+2025-09-20 13:03:12,101 - INFO - Saved Charles J., Jr. Precourt -> wikipedia_pages/Charles J., Jr. Precourt
+2025-09-20 13:03:12,238 - INFO - Saved Charles J., Jr. Precourt -> wikipedia_pages/Charles J., Jr. Precourt
+2025-09-20 13:03:12,336 - INFO - Saved Charles J., Jr. Precourt -> wikipedia_pages/Charles J., Jr. Precourt
+2025-09-20 13:03:12,436 - INFO - Saved Charles J., Jr. Precourt -> wikipedia_pages/Charles J., Jr. Precourt
+2025-09-20 13:03:12,508 - INFO - Saved Peter J. K. Wisoff -> wikipedia_pages/Peter J. K. Wisoff
+2025-09-20 13:03:12,598 - INFO - Saved Peter J. K. Wisoff -> wikipedia_pages/Peter J. K. Wisoff
+2025-09-20 13:03:12,668 - INFO - Saved Peter J. K. Wisoff -> wikipedia_pages/Peter J. K. Wisoff
+2025-09-20 13:03:12,739 - INFO - Saved Peter J. K. Wisoff -> wikipedia_pages/Peter J. K. Wisoff
+2025-09-20 13:03:12,928 - INFO - Saved Janice E. Voss -> wikipedia_pages/Janice E. Voss
+2025-09-20 13:03:13,025 - INFO - Saved Janice E. Voss -> wikipedia_pages/Janice E. Voss
+2025-09-20 13:03:13,118 - INFO - Saved Janice E. Voss -> wikipedia_pages/Janice E. Voss
+2025-09-20 13:03:13,214 - INFO - Saved Janice E. Voss -> wikipedia_pages/Janice E. Voss
+2025-09-20 13:03:13,309 - INFO - Saved Janice E. Voss -> wikipedia_pages/Janice E. Voss
+2025-09-20 13:03:13,357 - INFO - Saved Vasili Tsibliyev -> wikipedia_pages/Vasili Tsibliyev
+2025-09-20 13:03:13,434 - INFO - Saved Vasili Tsibliyev -> wikipedia_pages/Vasili Tsibliyev
+2025-09-20 13:03:13,499 - INFO - Saved James H. Newman -> wikipedia_pages/James H. Newman
+2025-09-20 13:03:13,564 - INFO - Saved James H. Newman -> wikipedia_pages/James H. Newman
+2025-09-20 13:03:13,629 - INFO - Saved James H. Newman -> wikipedia_pages/James H. Newman
+2025-09-20 13:03:13,734 - INFO - Saved James H. Newman -> wikipedia_pages/James H. Newman
+2025-09-20 13:03:13,735 - WARNING - No search result for: Jean-Pierre Haigner
+2025-09-20 13:03:13,909 - INFO - Saved Daniel W. Bursch -> wikipedia_pages/Daniel W. Bursch
+2025-09-20 13:03:13,989 - INFO - Saved Daniel W. Bursch -> wikipedia_pages/Daniel W. Bursch
+2025-09-20 13:03:14,070 - INFO - Saved Daniel W. Bursch -> wikipedia_pages/Daniel W. Bursch
+2025-09-20 13:03:14,150 - INFO - Saved Daniel W. Bursch -> wikipedia_pages/Daniel W. Bursch
+2025-09-20 13:03:14,150 - WARNING - No search result for: Jean-Pierre Haigner
+2025-09-20 13:03:14,229 - INFO - Saved Carl E. Walz -> wikipedia_pages/Carl E. Walz
+2025-09-20 13:03:14,332 - INFO - Saved Carl E. Walz -> wikipedia_pages/Carl E. Walz
+2025-09-20 13:03:14,410 - INFO - Saved Carl E. Walz -> wikipedia_pages/Carl E. Walz
+2025-09-20 13:03:14,490 - INFO - Saved Carl E. Walz -> wikipedia_pages/Carl E. Walz
+2025-09-20 13:03:14,585 - INFO - Saved Richard A. Searfoss -> wikipedia_pages/Richard A. Searfoss
+2025-09-20 13:03:14,677 - INFO - Saved Richard A. Searfoss -> wikipedia_pages/Richard A. Searfoss
+2025-09-20 13:03:14,767 - INFO - Saved Richard A. Searfoss -> wikipedia_pages/Richard A. Searfoss
+2025-09-20 13:03:14,962 - INFO - Saved David A. Wolf -> wikipedia_pages/David A. Wolf
+2025-09-20 13:03:15,052 - INFO - Saved David A. Wolf -> wikipedia_pages/David A. Wolf
+2025-09-20 13:03:15,159 - INFO - Saved David A. Wolf -> wikipedia_pages/David A. Wolf
+2025-09-20 13:03:15,251 - INFO - Saved David A. Wolf -> wikipedia_pages/David A. Wolf
+2025-09-20 13:03:15,459 - INFO - Saved William S., Jr. McArthur -> wikipedia_pages/William S., Jr. McArthur
+2025-09-20 13:03:15,522 - INFO - Saved Martin Joseph Fettman -> wikipedia_pages/Martin Joseph Fettman
+2025-09-20 13:03:15,710 - INFO - Saved William S., Jr. McArthur -> wikipedia_pages/William S., Jr. McArthur
+2025-09-20 13:03:15,799 - INFO - Saved Ronald M. Sega -> wikipedia_pages/Ronald M. Sega
+2025-09-20 13:03:15,852 - INFO - Saved William S., Jr. McArthur -> wikipedia_pages/William S., Jr. McArthur
+2025-09-20 13:03:15,924 - INFO - Saved William S., Jr. McArthur -> wikipedia_pages/William S., Jr. McArthur
+2025-09-20 13:03:16,018 - INFO - Saved Ronald M. Sega -> wikipedia_pages/Ronald M. Sega
+2025-09-20 13:03:16,110 - INFO - Saved Yuri Vladimirovich Usachyov -> wikipedia_pages/Yuri Vladimirovich Usachyov
+2025-09-20 13:03:16,164 - INFO - Saved Yuri Vladimirovich Usachyov -> wikipedia_pages/Yuri Vladimirovich Usachyov
+2025-09-20 13:03:16,219 - INFO - Saved Yuri Vladimirovich Usachyov -> wikipedia_pages/Yuri Vladimirovich Usachyov
+2025-09-20 13:03:16,318 - INFO - Saved Yuri Vladimirovich Usachyov -> wikipedia_pages/Yuri Vladimirovich Usachyov
+2025-09-20 13:03:16,509 - INFO - Saved Thomas D. Jones -> wikipedia_pages/Thomas D. Jones
+2025-09-20 13:03:16,607 - INFO - Saved Thomas D. Jones -> wikipedia_pages/Thomas D. Jones
+2025-09-20 13:03:16,705 - INFO - Saved Thomas D. Jones -> wikipedia_pages/Thomas D. Jones
+2025-09-20 13:03:16,804 - INFO - Saved Thomas D. Jones -> wikipedia_pages/Thomas D. Jones
+2025-09-20 13:03:16,904 - INFO - Saved Yuri Malenchenko -> wikipedia_pages/Yuri Malenchenko
+2025-09-20 13:03:16,999 - INFO - Saved Yuri Malenchenko -> wikipedia_pages/Yuri Malenchenko
+2025-09-20 13:03:17,134 - INFO - Saved Yuri Malenchenko -> wikipedia_pages/Yuri Malenchenko
+2025-09-20 13:03:17,229 - INFO - Saved Yuri Malenchenko -> wikipedia_pages/Yuri Malenchenko
+2025-09-20 13:03:17,327 - INFO - Saved Yuri Malenchenko -> wikipedia_pages/Yuri Malenchenko
+2025-09-20 13:03:17,422 - INFO - Saved Yuri Malenchenko -> wikipedia_pages/Yuri Malenchenko
+2025-09-20 13:03:17,494 - INFO - Saved Talgat Musabayev -> wikipedia_pages/Talgat Musabayev
+2025-09-20 13:03:17,571 - INFO - Saved Talgat Musabayev -> wikipedia_pages/Talgat Musabayev
+2025-09-20 13:03:17,648 - INFO - Saved Talgat Musabayev -> wikipedia_pages/Talgat Musabayev
+2025-09-20 13:03:17,984 - INFO - Saved Leroy Chiao -> wikipedia_pages/Leroy Chiao
+2025-09-20 13:03:18,106 - INFO - Saved Leroy Chiao -> wikipedia_pages/Leroy Chiao
+2025-09-20 13:03:18,261 - INFO - Saved Leroy Chiao -> wikipedia_pages/Leroy Chiao
+2025-09-20 13:03:18,344 - INFO - Saved James D., Jr. Halsell -> wikipedia_pages/James D., Jr. Halsell
+2025-09-20 13:03:18,402 - INFO - Saved James D., Jr. Halsell -> wikipedia_pages/James D., Jr. Halsell
+2025-09-20 13:03:18,459 - INFO - Saved James D., Jr. Halsell -> wikipedia_pages/James D., Jr. Halsell
+2025-09-20 13:03:18,515 - INFO - Saved James D., Jr. Halsell -> wikipedia_pages/James D., Jr. Halsell
+2025-09-20 13:03:18,571 - INFO - Saved James D., Jr. Halsell -> wikipedia_pages/James D., Jr. Halsell
+2025-09-20 13:03:18,692 - INFO - Saved Leroy Chiao -> wikipedia_pages/Leroy Chiao
+2025-09-20 13:03:18,768 - INFO - Saved Donald A. Thomas -> wikipedia_pages/Donald A. Thomas
+2025-09-20 13:03:18,861 - INFO - Saved Donald A. Thomas -> wikipedia_pages/Donald A. Thomas
+2025-09-20 13:03:18,974 - INFO - Saved Donald A. Thomas -> wikipedia_pages/Donald A. Thomas
+2025-09-20 13:03:19,050 - INFO - Saved Donald A. Thomas -> wikipedia_pages/Donald A. Thomas
+2025-09-20 13:03:19,139 - INFO - Saved Jerry M. Linenger -> wikipedia_pages/Jerry M. Linenger
+2025-09-20 13:03:19,235 - INFO - Saved Chiaki Mukai -> wikipedia_pages/Chiaki Mukai
+2025-09-20 13:03:19,332 - INFO - Saved Chiaki Mukai -> wikipedia_pages/Chiaki Mukai
+2025-09-20 13:03:19,444 - INFO - Saved Jerry M. Linenger -> wikipedia_pages/Jerry M. Linenger
+2025-09-20 13:03:19,594 - INFO - Saved Terrence W. Wilcutt -> wikipedia_pages/Terrence W. Wilcutt
+2025-09-20 13:03:19,663 - INFO - Saved Terrence W. Wilcutt -> wikipedia_pages/Terrence W. Wilcutt
+2025-09-20 13:03:19,788 - INFO - Saved Terrence W. Wilcutt -> wikipedia_pages/Terrence W. Wilcutt
+2025-09-20 13:03:19,858 - INFO - Saved Terrence W. Wilcutt -> wikipedia_pages/Terrence W. Wilcutt
+2025-09-20 13:03:19,944 - INFO - Saved Steven L. Smith -> wikipedia_pages/Steven L. Smith
+2025-09-20 13:03:20,030 - INFO - Saved Steven L. Smith -> wikipedia_pages/Steven L. Smith
+2025-09-20 13:03:20,170 - INFO - Saved Steven L. Smith -> wikipedia_pages/Steven L. Smith
+2025-09-20 13:03:20,257 - INFO - Saved Steven L. Smith -> wikipedia_pages/Steven L. Smith
+2025-09-20 13:03:20,328 - INFO - Saved Yelena V. Kondakova -> wikipedia_pages/Yelena V. Kondakova
+2025-09-20 13:03:20,396 - INFO - Saved Yelena V. Kondakova -> wikipedia_pages/Yelena V. Kondakova
+2025-09-20 13:03:20,771 - INFO - Saved Joseph R. Tanner -> wikipedia_pages/Joseph R. Tanner
+2025-09-20 13:03:20,935 - INFO - Saved Scott E. Parazynski -> wikipedia_pages/Scott E. Parazynski
+2025-09-20 13:03:21,029 - INFO - Saved Joseph R. Tanner -> wikipedia_pages/Joseph R. Tanner
+2025-09-20 13:03:21,162 - INFO - Saved Scott E. Parazynski -> wikipedia_pages/Scott E. Parazynski
+2025-09-20 13:03:21,234 - INFO - Saved Joseph R. Tanner -> wikipedia_pages/Joseph R. Tanner
+2025-09-20 13:03:21,304 - INFO - Saved Joseph R. Tanner -> wikipedia_pages/Joseph R. Tanner
+2025-09-20 13:03:21,304 - WARNING - No search result for: Jean-Franois Clervoy
+2025-09-20 13:03:21,304 - WARNING - No search result for: Jean-Franois Clervoy
+2025-09-20 13:03:21,308 - WARNING - No search result for: Jean-Franois Clervoy
+2025-09-20 13:03:21,463 - INFO - Saved Scott E. Parazynski -> wikipedia_pages/Scott E. Parazynski
+2025-09-20 13:03:21,593 - INFO - Saved Scott E. Parazynski -> wikipedia_pages/Scott E. Parazynski
+2025-09-20 13:03:21,680 - INFO - Saved William G. Gregory -> wikipedia_pages/William G. Gregory
+2025-09-20 13:03:21,861 - INFO - Saved Scott E. Parazynski -> wikipedia_pages/Scott E. Parazynski
+2025-09-20 13:03:22,219 - INFO - Saved Eileen M. Collins -> wikipedia_pages/Eileen M. Collins
+2025-09-20 13:03:22,570 - INFO - Saved Eileen M. Collins -> wikipedia_pages/Eileen M. Collins
+2025-09-20 13:03:22,953 - INFO - Saved Eileen M. Collins -> wikipedia_pages/Eileen M. Collins
+2025-09-20 13:03:23,303 - INFO - Saved Eileen M. Collins -> wikipedia_pages/Eileen M. Collins
+2025-09-20 13:03:23,435 - INFO - Saved John M. Grunsfeld -> wikipedia_pages/John M. Grunsfeld
+2025-09-20 13:03:23,564 - INFO - Saved John M. Grunsfeld -> wikipedia_pages/John M. Grunsfeld
+2025-09-20 13:03:23,690 - INFO - Saved John M. Grunsfeld -> wikipedia_pages/John M. Grunsfeld
+2025-09-20 13:03:23,858 - INFO - Saved John M. Grunsfeld -> wikipedia_pages/John M. Grunsfeld
+2025-09-20 13:03:23,989 - INFO - Saved John M. Grunsfeld -> wikipedia_pages/John M. Grunsfeld
+2025-09-20 13:03:24,094 - INFO - Saved Wendy B. Lawrence -> wikipedia_pages/Wendy B. Lawrence
+2025-09-20 13:03:24,200 - INFO - Saved Wendy B. Lawrence -> wikipedia_pages/Wendy B. Lawrence
+2025-09-20 13:03:24,308 - INFO - Saved Wendy B. Lawrence -> wikipedia_pages/Wendy B. Lawrence
+2025-09-20 13:03:24,412 - INFO - Saved Wendy B. Lawrence -> wikipedia_pages/Wendy B. Lawrence
+2025-09-20 13:03:24,479 - INFO - Saved Vladimir N. Dezhurov -> wikipedia_pages/Vladimir N. Dezhurov
+2025-09-20 13:03:24,547 - INFO - Saved Vladimir N. Dezhurov -> wikipedia_pages/Vladimir N. Dezhurov
+2025-09-20 13:03:24,667 - INFO - Saved Nikolai Budarin -> wikipedia_pages/Nikolai Budarin
+2025-09-20 13:03:24,774 - INFO - Saved Nikolai Budarin -> wikipedia_pages/Nikolai Budarin
+2025-09-20 13:03:24,845 - INFO - Saved Nikolai Budarin -> wikipedia_pages/Nikolai Budarin
+2025-09-20 13:03:25,000 - INFO - Saved Mary E. Weber -> wikipedia_pages/Mary E. Weber
+2025-09-20 13:03:25,094 - INFO - Saved Mary E. Weber -> wikipedia_pages/Mary E. Weber
+2025-09-20 13:03:25,163 - INFO - Saved Yuri Gidzenko -> wikipedia_pages/Yuri Gidzenko
+2025-09-20 13:03:25,252 - INFO - Saved Yuri Gidzenko -> wikipedia_pages/Yuri Gidzenko
+2025-09-20 13:03:25,322 - INFO - Saved Yuri Gidzenko -> wikipedia_pages/Yuri Gidzenko
+2025-09-20 13:03:25,377 - INFO - Saved Kregel Kevin R. -> wikipedia_pages/Kregel Kevin R.
+2025-09-20 13:03:25,425 - INFO - Saved Kregel Kevin R. -> wikipedia_pages/Kregel Kevin R.
+2025-09-20 13:03:25,470 - INFO - Saved Kregel Kevin R. -> wikipedia_pages/Kregel Kevin R.
+2025-09-20 13:03:25,516 - INFO - Saved Kregel Kevin R. -> wikipedia_pages/Kregel Kevin R.
+2025-09-20 13:03:25,592 - INFO - Saved Thomas Reiter -> wikipedia_pages/Thomas Reiter
+2025-09-20 13:03:25,702 - INFO - Saved Thomas Reiter -> wikipedia_pages/Thomas Reiter
+2025-09-20 13:03:25,998 - INFO - Saved Kent V. Rominger -> wikipedia_pages/Kent V. Rominger
+2025-09-20 13:03:26,092 - INFO - Saved Kent V. Rominger -> wikipedia_pages/Kent V. Rominger
+2025-09-20 13:03:26,190 - INFO - Saved Kent V. Rominger -> wikipedia_pages/Kent V. Rominger
+2025-09-20 13:03:26,283 - INFO - Saved Kent V. Rominger -> wikipedia_pages/Kent V. Rominger
+2025-09-20 13:03:26,794 - INFO - Saved Michael L. Gernhardt -> wikipedia_pages/Michael L. Gernhardt
+2025-09-20 13:03:27,325 - INFO - Saved Michael L. Gernhardt -> wikipedia_pages/Michael L. Gernhardt
+2025-09-20 13:03:27,828 - INFO - Saved Michael L. Gernhardt -> wikipedia_pages/Michael L. Gernhardt
+2025-09-20 13:03:28,331 - INFO - Saved Michael L. Gernhardt -> wikipedia_pages/Michael L. Gernhardt
+2025-09-20 13:03:28,501 - INFO - Saved Kent V. Rominger -> wikipedia_pages/Kent V. Rominger
+2025-09-20 13:03:28,602 - INFO - Saved Catherine G. Coleman -> wikipedia_pages/Catherine G. Coleman
+2025-09-20 13:03:28,721 - INFO - Saved Catherine G. Coleman -> wikipedia_pages/Catherine G. Coleman
+2025-09-20 13:03:28,822 - INFO - Saved Catherine G. Coleman -> wikipedia_pages/Catherine G. Coleman
+2025-09-20 13:03:29,538 - INFO - Saved Fred Weldon Leslie -> wikipedia_pages/Fred Weldon Leslie
+2025-09-20 13:03:30,236 - INFO - Saved Chris Hadfield -> wikipedia_pages/Chris Hadfield
+2025-09-20 13:03:30,931 - INFO - Saved Chris Hadfield -> wikipedia_pages/Chris Hadfield
+2025-09-20 13:03:31,156 - INFO - Saved Michael E. Lopez-Alegria -> wikipedia_pages/Michael E. Lopez-Alegria
+2025-09-20 13:03:31,382 - INFO - Saved Michael E. Lopez-Alegria -> wikipedia_pages/Michael E. Lopez-Alegria
+2025-09-20 13:03:31,705 - INFO - Saved Michael E. Lopez-Alegria -> wikipedia_pages/Michael E. Lopez-Alegria
+2025-09-20 13:03:31,932 - INFO - Saved Michael E. Lopez-Alegria -> wikipedia_pages/Michael E. Lopez-Alegria
+2025-09-20 13:03:32,642 - INFO - Saved Chris Hadfield -> wikipedia_pages/Chris Hadfield
+2025-09-20 13:03:32,906 - INFO - Saved Brent W. Jett -> wikipedia_pages/Brent W. Jett
+2025-09-20 13:03:33,070 - INFO - Saved Brent W. Jett -> wikipedia_pages/Brent W. Jett
+2025-09-20 13:03:33,216 - INFO - Saved Brent W. Jett -> wikipedia_pages/Brent W. Jett
+2025-09-20 13:03:33,361 - INFO - Saved Brent W. Jett -> wikipedia_pages/Brent W. Jett
+2025-09-20 13:03:33,394 - INFO - Saved Albert Jr. Sacco -> wikipedia_pages/Albert Jr. Sacco
+2025-09-20 13:03:33,475 - INFO - Saved Winston E. Scott -> wikipedia_pages/Winston E. Scott
+2025-09-20 13:03:33,559 - INFO - Saved Winston E. Scott -> wikipedia_pages/Winston E. Scott
+2025-09-20 13:03:34,129 - INFO - Saved Koichi Wakata -> wikipedia_pages/Koichi Wakata
+2025-09-20 13:03:34,643 - INFO - Saved Koichi Wakata -> wikipedia_pages/Koichi Wakata
+2025-09-20 13:03:35,653 - INFO - Saved Koichi Wakata -> wikipedia_pages/Koichi Wakata
+2025-09-20 13:03:37,122 - INFO - Saved Koichi Wakata -> wikipedia_pages/Koichi Wakata
+2025-09-20 13:03:37,264 - INFO - Saved Daniel T. Barry -> wikipedia_pages/Daniel T. Barry
+2025-09-20 13:03:37,390 - INFO - Saved Daniel T. Barry -> wikipedia_pages/Daniel T. Barry
+2025-09-20 13:03:37,517 - INFO - Saved Daniel T. Barry -> wikipedia_pages/Daniel T. Barry
+2025-09-20 13:03:37,589 - INFO - Saved Yuri Onufrienko -> wikipedia_pages/Yuri Onufrienko
+2025-09-20 13:03:37,717 - INFO - Saved Yuri Onufrienko -> wikipedia_pages/Yuri Onufrienko
+2025-09-20 13:03:37,812 - INFO - Saved Scott J. Horowitz -> wikipedia_pages/Scott J. Horowitz
+2025-09-20 13:03:37,890 - INFO - Saved Scott J. Horowitz -> wikipedia_pages/Scott J. Horowitz
+2025-09-20 13:03:37,961 - INFO - Saved Scott J. Horowitz -> wikipedia_pages/Scott J. Horowitz
+2025-09-20 13:03:38,034 - INFO - Saved Maurizio Cheli -> wikipedia_pages/Maurizio Cheli
+2025-09-20 13:03:38,107 - INFO - Saved Scott J. Horowitz -> wikipedia_pages/Scott J. Horowitz
+2025-09-20 13:03:38,305 - INFO - Saved Umberto Guidoni -> wikipedia_pages/Umberto Guidoni
+2025-09-20 13:03:38,483 - INFO - Saved Umberto Guidoni -> wikipedia_pages/Umberto Guidoni
+2025-09-20 13:03:40,260 - INFO - Saved Andrew S. W. Thomas -> wikipedia_pages/Andrew S. W. Thomas
+2025-09-20 13:03:40,841 - INFO - Saved Andrew S. W. Thomas -> wikipedia_pages/Andrew S. W. Thomas
+2025-09-20 13:03:40,983 - INFO - Saved Andrew S. W. Thomas -> wikipedia_pages/Andrew S. W. Thomas
+2025-09-20 13:03:41,087 - INFO - Saved Richard M. Linnehan -> wikipedia_pages/Richard M. Linnehan
+2025-09-20 13:03:41,179 - INFO - Saved Richard M. Linnehan -> wikipedia_pages/Richard M. Linnehan
+2025-09-20 13:03:41,266 - INFO - Saved Richard M. Linnehan -> wikipedia_pages/Richard M. Linnehan
+2025-09-20 13:03:41,347 - INFO - Saved Richard M. Linnehan -> wikipedia_pages/Richard M. Linnehan
+2025-09-20 13:03:41,445 - INFO - Saved Andrew S. W. Thomas -> wikipedia_pages/Andrew S. W. Thomas
+2025-09-20 13:03:42,156 - INFO - Saved Robert Thirsk -> wikipedia_pages/Robert Thirsk
+2025-09-20 13:03:42,215 - INFO - Saved Jean-Jacques Favier -> wikipedia_pages/Jean-Jacques Favier
+2025-09-20 13:03:42,733 - INFO - Saved Robert Thirsk -> wikipedia_pages/Robert Thirsk
+2025-09-20 13:03:42,820 - INFO - Saved Valery Korzun -> wikipedia_pages/Valery Korzun
+2025-09-20 13:03:42,912 - INFO - Saved Valery Korzun -> wikipedia_pages/Valery Korzun
+2025-09-20 13:03:42,997 - INFO - Saved Aleksandr Lazutkin -> wikipedia_pages/Aleksandr Lazutkin
+2025-09-20 13:03:43,035 - WARNING - No search result for: Claudie (Haigner) Andr-Deshays
+2025-09-20 13:03:43,144 - INFO - Saved Reinhold Ewald -> wikipedia_pages/Reinhold Ewald
+2025-09-20 13:03:43,154 - WARNING - No search result for: Claudie (Haigner) Andr-Deshays
+2025-09-20 13:03:43,456 - INFO - Saved Roger Keith Crouch -> wikipedia_pages/Roger Keith Crouch
+2025-09-20 13:03:43,509 - INFO - Saved Roger Keith Crouch -> wikipedia_pages/Roger Keith Crouch
+2025-09-20 13:03:43,604 - INFO - Saved Gregory Thomas Linteris -> wikipedia_pages/Gregory Thomas Linteris
+2025-09-20 13:03:43,674 - INFO - Saved Gregory Thomas Linteris -> wikipedia_pages/Gregory Thomas Linteris
+2025-09-20 13:03:45,032 - INFO - Saved Carlos I. Noriega -> wikipedia_pages/Carlos I. Noriega
+2025-09-20 13:03:46,577 - INFO - Saved Charles E., Jr. Brady -> wikipedia_pages/Charles E., Jr. Brady
+2025-09-20 13:03:47,013 - INFO - Saved Susan L. Kilrain-Still -> wikipedia_pages/Susan L. Kilrain-Still
+2025-09-20 13:03:47,148 - INFO - Saved Susan L. Kilrain-Still -> wikipedia_pages/Susan L. Kilrain-Still
+2025-09-20 13:03:47,276 - INFO - Saved Carlos I. Noriega -> wikipedia_pages/Carlos I. Noriega
+2025-09-20 13:03:47,418 - INFO - Saved Edward T. Lu -> wikipedia_pages/Edward T. Lu
+2025-09-20 13:03:47,536 - INFO - Saved Edward T. Lu -> wikipedia_pages/Edward T. Lu
+2025-09-20 13:03:47,635 - INFO - Saved Edward T. Lu -> wikipedia_pages/Edward T. Lu
+2025-09-20 13:03:47,787 - INFO - Saved Pavel Vinogradov -> wikipedia_pages/Pavel Vinogradov
+2025-09-20 13:03:47,861 - INFO - Saved Pavel Vinogradov -> wikipedia_pages/Pavel Vinogradov
+2025-09-20 13:03:47,931 - INFO - Saved Pavel Vinogradov -> wikipedia_pages/Pavel Vinogradov
+2025-09-20 13:03:48,191 - INFO - Saved Stephen K. Robinson -> wikipedia_pages/Stephen K. Robinson
+2025-09-20 13:03:48,270 - INFO - Saved Stephen K. Robinson -> wikipedia_pages/Stephen K. Robinson
+2025-09-20 13:03:48,350 - INFO - Saved Stephen K. Robinson -> wikipedia_pages/Stephen K. Robinson
+2025-09-20 13:03:48,454 - INFO - Saved Bjarni Tryggvason -> wikipedia_pages/Bjarni Tryggvason
+2025-09-20 13:03:48,567 - INFO - Saved Stephen K. Robinson -> wikipedia_pages/Stephen K. Robinson
+2025-09-20 13:03:48,616 - INFO - Saved Robert L., Jr. Curbeam -> wikipedia_pages/Robert L., Jr. Curbeam
+2025-09-20 13:03:48,664 - INFO - Saved Robert L., Jr. Curbeam -> wikipedia_pages/Robert L., Jr. Curbeam
+2025-09-20 13:03:48,712 - INFO - Saved Robert L., Jr. Curbeam -> wikipedia_pages/Robert L., Jr. Curbeam
+2025-09-20 13:03:48,840 - INFO - Saved Michael J. Bloomfield -> wikipedia_pages/Michael J. Bloomfield
+2025-09-20 13:03:48,922 - INFO - Saved Michael J. Bloomfield -> wikipedia_pages/Michael J. Bloomfield
+2025-09-20 13:03:48,992 - INFO - Saved Michael J. Bloomfield -> wikipedia_pages/Michael J. Bloomfield
+2025-09-20 13:03:49,107 - INFO - Saved Steven W. Lindsey -> wikipedia_pages/Steven W. Lindsey
+2025-09-20 13:03:49,217 - INFO - Saved Steven W. Lindsey -> wikipedia_pages/Steven W. Lindsey
+2025-09-20 13:03:49,325 - INFO - Saved Steven W. Lindsey -> wikipedia_pages/Steven W. Lindsey
+2025-09-20 13:03:49,432 - INFO - Saved Steven W. Lindsey -> wikipedia_pages/Steven W. Lindsey
+2025-09-20 13:03:49,541 - INFO - Saved Steven W. Lindsey -> wikipedia_pages/Steven W. Lindsey
+2025-09-20 13:03:49,745 - INFO - Saved Kalpana Chawla -> wikipedia_pages/Kalpana Chawla
+2025-09-20 13:03:49,951 - INFO - Saved Kalpana Chawla -> wikipedia_pages/Kalpana Chawla
+2025-09-20 13:03:50,024 - INFO - Saved Takao Doi -> wikipedia_pages/Takao Doi
+2025-09-20 13:03:50,116 - INFO - Saved Takao Doi -> wikipedia_pages/Takao Doi
+2025-09-20 13:03:50,294 - INFO - Saved Michael P. Anderson -> wikipedia_pages/Michael P. Anderson
+2025-09-20 13:03:50,511 - INFO - Saved Leonid Kadenyuk -> wikipedia_pages/Leonid Kadenyuk
+2025-09-20 13:03:50,637 - INFO - Saved Michael P. Anderson -> wikipedia_pages/Michael P. Anderson
+2025-09-20 13:03:50,740 - INFO - Saved Salizhan Sharipov -> wikipedia_pages/Salizhan Sharipov
+2025-09-20 13:03:50,820 - INFO - Saved James F. Reilly -> wikipedia_pages/James F. Reilly
+2025-09-20 13:03:50,891 - INFO - Saved Salizhan Sharipov -> wikipedia_pages/Salizhan Sharipov
+2025-09-20 13:03:50,965 - INFO - Saved James F. Reilly -> wikipedia_pages/James F. Reilly
+2025-09-20 13:03:51,023 - INFO - Saved James F. Reilly -> wikipedia_pages/James F. Reilly
+2025-09-20 13:03:51,193 - INFO - Saved Scott D. Altman -> wikipedia_pages/Scott D. Altman
+2025-09-20 13:03:51,299 - INFO - Saved Scott D. Altman -> wikipedia_pages/Scott D. Altman
+2025-09-20 13:03:51,404 - INFO - Saved Scott D. Altman -> wikipedia_pages/Scott D. Altman
+2025-09-20 13:03:51,480 - INFO - Saved Joe F., Jr. Edwards -> wikipedia_pages/Joe F., Jr. Edwards
+2025-09-20 13:03:51,629 - INFO - Saved Scott D. Altman -> wikipedia_pages/Scott D. Altman
+2025-09-20 13:03:51,706 - INFO - Saved Kathryn P. Hire -> wikipedia_pages/Kathryn P. Hire
+2025-09-20 13:03:51,786 - INFO - Saved Kathryn P. Hire -> wikipedia_pages/Kathryn P. Hire
+2025-09-20 13:03:51,787 - WARNING - No search result for: Lopold Eyharts
+2025-09-20 13:03:51,787 - WARNING - No search result for: Lopold Eyharts
+2025-09-20 13:03:52,589 - INFO - Saved Dafydd Rhys Williams -> wikipedia_pages/Dafydd Rhys Williams
+2025-09-20 13:03:53,164 - INFO - Saved Dafydd Rhys Williams -> wikipedia_pages/Dafydd Rhys Williams
+2025-09-20 13:03:53,238 - INFO - Saved Dominic L. Gorie -> wikipedia_pages/Dominic L. Gorie
+2025-09-20 13:03:53,311 - INFO - Saved Dominic L. Gorie -> wikipedia_pages/Dominic L. Gorie
+2025-09-20 13:03:53,385 - INFO - Saved Dominic L. Gorie -> wikipedia_pages/Dominic L. Gorie
+2025-09-20 13:03:53,457 - INFO - Saved Dominic L. Gorie -> wikipedia_pages/Dominic L. Gorie
+2025-09-20 13:03:53,509 - INFO - Saved James Anthony Pawelczyk -> wikipedia_pages/James Anthony Pawelczyk
+2025-09-20 13:03:53,621 - INFO - Saved Janet L. Kavandi -> wikipedia_pages/Janet L. Kavandi
+2025-09-20 13:03:53,733 - INFO - Saved Janet L. Kavandi -> wikipedia_pages/Janet L. Kavandi
+2025-09-20 13:03:53,826 - INFO - Saved Janet L. Kavandi -> wikipedia_pages/Janet L. Kavandi
+2025-09-20 13:03:53,945 - INFO - Saved Gennady Padalka -> wikipedia_pages/Gennady Padalka
+2025-09-20 13:03:54,132 - INFO - Saved Gennady Padalka -> wikipedia_pages/Gennady Padalka
+2025-09-20 13:03:54,321 - INFO - Saved Gennady Padalka -> wikipedia_pages/Gennady Padalka
+2025-09-20 13:03:54,452 - INFO - Saved Gennady Padalka -> wikipedia_pages/Gennady Padalka
+2025-09-20 13:03:54,572 - INFO - Saved Gennady Padalka -> wikipedia_pages/Gennady Padalka
+2025-09-20 13:03:54,609 - INFO - Saved Jay Clark Jr. Buckey -> wikipedia_pages/Jay Clark Jr. Buckey
+2025-09-20 13:03:54,665 - INFO - Saved Yuri Baturin -> wikipedia_pages/Yuri Baturin
+2025-09-20 13:03:55,220 - INFO - Saved Pedro Duque -> wikipedia_pages/Pedro Duque
+2025-09-20 13:03:55,788 - INFO - Saved Pedro Duque -> wikipedia_pages/Pedro Duque
+2025-09-20 13:03:55,843 - INFO - Saved Yuri Baturin -> wikipedia_pages/Yuri Baturin
+2025-09-20 13:03:55,943 - INFO - Saved Frederick W. Sturckow -> wikipedia_pages/Frederick W. Sturckow
+2025-09-20 13:03:56,062 - INFO - Saved Frederick W. Sturckow -> wikipedia_pages/Frederick W. Sturckow
+2025-09-20 13:03:56,161 - INFO - Saved Frederick W. Sturckow -> wikipedia_pages/Frederick W. Sturckow
+2025-09-20 13:03:56,260 - INFO - Saved Frederick W. Sturckow -> wikipedia_pages/Frederick W. Sturckow
+2025-09-20 13:03:56,399 - INFO - Saved Rick D. Husband -> wikipedia_pages/Rick D. Husband
+2025-09-20 13:03:56,491 - INFO - Saved Ivan Bella -> wikipedia_pages/Ivan Bella
+2025-09-20 13:03:56,629 - INFO - Saved Rick D. Husband -> wikipedia_pages/Rick D. Husband
+2025-09-20 13:03:56,886 - INFO - Saved Julie Payette -> wikipedia_pages/Julie Payette
+2025-09-20 13:03:57,144 - INFO - Saved Julie Payette -> wikipedia_pages/Julie Payette
+2025-09-20 13:03:57,215 - INFO - Saved Valeri Tokarev -> wikipedia_pages/Valeri Tokarev
+2025-09-20 13:03:57,285 - INFO - Saved Valeri Tokarev -> wikipedia_pages/Valeri Tokarev
+2025-09-20 13:03:57,455 - INFO - Saved Jeffrey S. Ashby -> wikipedia_pages/Jeffrey S. Ashby
+2025-09-20 13:03:57,590 - INFO - Saved Jeffrey S. Ashby -> wikipedia_pages/Jeffrey S. Ashby
+2025-09-20 13:03:57,722 - INFO - Saved Jeffrey S. Ashby -> wikipedia_pages/Jeffrey S. Ashby
+2025-09-20 13:03:58,419 - INFO - Saved Scott J. Kelly -> wikipedia_pages/Scott J. Kelly
+2025-09-20 13:03:59,141 - INFO - Saved Scott J. Kelly -> wikipedia_pages/Scott J. Kelly
+2025-09-20 13:03:59,819 - INFO - Saved Scott J. Kelly -> wikipedia_pages/Scott J. Kelly
+2025-09-20 13:04:00,550 - INFO - Saved Scott J. Kelly -> wikipedia_pages/Scott J. Kelly
+2025-09-20 13:04:00,623 - INFO - Saved Gerhard Thiele -> wikipedia_pages/Gerhard Thiele
+2025-09-20 13:04:00,677 - INFO - Saved Sergei Zalyotin -> wikipedia_pages/Sergei Zalyotin
+2025-09-20 13:04:00,734 - INFO - Saved Sergei Zalyotin -> wikipedia_pages/Sergei Zalyotin
+2025-09-20 13:04:01,271 - INFO - Saved Jeffrey N. Williams -> wikipedia_pages/Jeffrey N. Williams
+2025-09-20 13:04:02,340 - INFO - Saved Jeffrey N. Williams -> wikipedia_pages/Jeffrey N. Williams
+2025-09-20 13:04:03,030 - INFO - Saved Jeffrey N. Williams -> wikipedia_pages/Jeffrey N. Williams
+2025-09-20 13:04:03,608 - INFO - Saved Jeffrey N. Williams -> wikipedia_pages/Jeffrey N. Williams
+2025-09-20 13:04:03,731 - INFO - Saved Daniel C. Burbank -> wikipedia_pages/Daniel C. Burbank
+2025-09-20 13:04:03,823 - INFO - Saved Daniel C. Burbank -> wikipedia_pages/Daniel C. Burbank
+2025-09-20 13:04:03,905 - INFO - Saved Richard A. Mastracchio -> wikipedia_pages/Richard A. Mastracchio
+2025-09-20 13:04:03,982 - INFO - Saved Richard A. Mastracchio -> wikipedia_pages/Richard A. Mastracchio
+2025-09-20 13:04:04,060 - INFO - Saved Richard A. Mastracchio -> wikipedia_pages/Richard A. Mastracchio
+2025-09-20 13:04:04,141 - INFO - Saved Richard A. Mastracchio -> wikipedia_pages/Richard A. Mastracchio
+2025-09-20 13:04:04,199 - INFO - Saved Boris Morukov -> wikipedia_pages/Boris Morukov
+2025-09-20 13:04:04,294 - INFO - Saved Daniel C. Burbank -> wikipedia_pages/Daniel C. Burbank
+2025-09-20 13:04:04,478 - INFO - Saved Mark L. Polansky -> wikipedia_pages/Mark L. Polansky
+2025-09-20 13:04:04,567 - INFO - Saved Mark L. Polansky -> wikipedia_pages/Mark L. Polansky
+2025-09-20 13:04:04,656 - INFO - Saved Mark L. Polansky -> wikipedia_pages/Mark L. Polansky
+2025-09-20 13:04:04,781 - INFO - Saved Pamela A. Melroy -> wikipedia_pages/Pamela A. Melroy
+2025-09-20 13:04:04,904 - INFO - Saved Pamela A. Melroy -> wikipedia_pages/Pamela A. Melroy
+2025-09-20 13:04:05,031 - INFO - Saved Pamela A. Melroy -> wikipedia_pages/Pamela A. Melroy
+2025-09-20 13:04:05,359 - INFO - Saved Yuri Lonchakov -> wikipedia_pages/Yuri Lonchakov
+2025-09-20 13:04:05,438 - INFO - Saved Yuri Lonchakov -> wikipedia_pages/Yuri Lonchakov
+2025-09-20 13:04:05,539 - INFO - Saved Paul W. Richards -> wikipedia_pages/Paul W. Richards
+2025-09-20 13:04:05,622 - INFO - Saved John L. Phillips -> wikipedia_pages/John L. Phillips
+2025-09-20 13:04:05,702 - INFO - Saved John L. Phillips -> wikipedia_pages/John L. Phillips
+2025-09-20 13:04:05,790 - INFO - Saved John L. Phillips -> wikipedia_pages/John L. Phillips
+2025-09-20 13:04:05,837 - INFO - Saved James M. Kelly -> wikipedia_pages/James M. Kelly
+2025-09-20 13:04:05,899 - INFO - Saved James M. Kelly -> wikipedia_pages/James M. Kelly
+2025-09-20 13:04:05,977 - INFO - Saved Yuri Lonchakov -> wikipedia_pages/Yuri Lonchakov
+2025-09-20 13:04:06,062 - INFO - Saved Charles O. Hobaugh -> wikipedia_pages/Charles O. Hobaugh
+2025-09-20 13:04:06,171 - INFO - Saved Charles O. Hobaugh -> wikipedia_pages/Charles O. Hobaugh
+2025-09-20 13:04:06,255 - INFO - Saved Charles O. Hobaugh -> wikipedia_pages/Charles O. Hobaugh
+2025-09-20 13:04:06,343 - INFO - Saved Patrick G. Forrester -> wikipedia_pages/Patrick G. Forrester
+2025-09-20 13:04:06,463 - INFO - Saved Patrick G. Forrester -> wikipedia_pages/Patrick G. Forrester
+2025-09-20 13:04:06,553 - INFO - Saved Patrick G. Forrester -> wikipedia_pages/Patrick G. Forrester
+2025-09-20 13:04:06,694 - INFO - Saved Dennis Anthony Tito -> wikipedia_pages/Dennis Anthony Tito
+2025-09-20 13:04:06,976 - INFO - Saved Mikhail Tyurin -> wikipedia_pages/Mikhail Tyurin
+2025-09-20 13:04:07,082 - INFO - Saved Mikhail Tyurin -> wikipedia_pages/Mikhail Tyurin
+2025-09-20 13:04:07,164 - INFO - Saved Mikhail Tyurin -> wikipedia_pages/Mikhail Tyurin
+2025-09-20 13:04:07,223 - INFO - Saved Konstantin Kozeyev -> wikipedia_pages/Konstantin Kozeyev
+2025-09-20 13:04:08,157 - INFO - Saved Duane G. Carey -> wikipedia_pages/Duane G. Carey
+2025-09-20 13:04:08,665 - INFO - Saved Daniel M. Tani -> wikipedia_pages/Daniel M. Tani
+2025-09-20 13:04:10,046 - INFO - Saved Daniel M. Tani -> wikipedia_pages/Daniel M. Tani
+2025-09-20 13:04:10,421 - INFO - Saved Michael J. Massimino -> wikipedia_pages/Michael J. Massimino
+2025-09-20 13:04:10,759 - INFO - Saved Mark E. Kelly -> wikipedia_pages/Mark E. Kelly
+2025-09-20 13:04:11,260 - INFO - Saved Mark E. Kelly -> wikipedia_pages/Mark E. Kelly
+2025-09-20 13:04:11,564 - INFO - Saved Mark E. Kelly -> wikipedia_pages/Mark E. Kelly
+2025-09-20 13:04:11,705 - INFO - Saved Michael J. Massimino -> wikipedia_pages/Michael J. Massimino
+2025-09-20 13:04:11,847 - INFO - Saved Stephen N. Frick -> wikipedia_pages/Stephen N. Frick
+2025-09-20 13:04:11,917 - INFO - Saved Stephen N. Frick -> wikipedia_pages/Stephen N. Frick
+2025-09-20 13:04:12,182 - INFO - Saved Mark E. Kelly -> wikipedia_pages/Mark E. Kelly
+2025-09-20 13:04:12,679 - INFO - Saved Rex J. Walheim -> wikipedia_pages/Rex J. Walheim
+2025-09-20 13:04:13,302 - INFO - Saved Rex J. Walheim -> wikipedia_pages/Rex J. Walheim
+2025-09-20 13:04:13,805 - INFO - Saved Rex J. Walheim -> wikipedia_pages/Rex J. Walheim
+2025-09-20 13:04:14,068 - INFO - Saved Paul S. Lockhart -> wikipedia_pages/Paul S. Lockhart
+2025-09-20 13:04:14,227 - INFO - Saved Roverto Vittori -> wikipedia_pages/Roverto Vittori
+2025-09-20 13:04:14,330 - INFO - Saved Paul S. Lockhart -> wikipedia_pages/Paul S. Lockhart
+2025-09-20 13:04:14,417 - INFO - Saved Philippe Perrin -> wikipedia_pages/Philippe Perrin
+2025-09-20 13:04:14,595 - INFO - Saved Roverto Vittori -> wikipedia_pages/Roverto Vittori
+2025-09-20 13:04:14,751 - INFO - Saved Roverto Vittori -> wikipedia_pages/Roverto Vittori
+2025-09-20 13:04:14,803 - INFO - Saved Lee M. Morin -> wikipedia_pages/Lee M. Morin
+2025-09-20 13:04:15,541 - INFO - Saved Peggy A. Whitson -> wikipedia_pages/Peggy A. Whitson
+2025-09-20 13:04:16,237 - INFO - Saved Peggy A. Whitson -> wikipedia_pages/Peggy A. Whitson
+2025-09-20 13:04:16,962 - INFO - Saved Peggy A. Whitson -> wikipedia_pages/Peggy A. Whitson
+2025-09-20 13:04:17,055 - INFO - Saved M. Richard Shuttleworth -> wikipedia_pages/M. Richard Shuttleworth
+2025-09-20 13:04:17,116 - INFO - Saved Sergei Treshchov -> wikipedia_pages/Sergei Treshchov
+2025-09-20 13:04:17,628 - INFO - Saved Sandra H. Magnus -> wikipedia_pages/Sandra H. Magnus
+2025-09-20 13:04:18,193 - INFO - Saved Sandra H. Magnus -> wikipedia_pages/Sandra H. Magnus
+2025-09-20 13:04:18,715 - INFO - Saved Sandra H. Magnus -> wikipedia_pages/Sandra H. Magnus
+2025-09-20 13:04:18,826 - INFO - Saved Piers J. Sellers -> wikipedia_pages/Piers J. Sellers
+2025-09-20 13:04:18,966 - INFO - Saved Piers J. Sellers -> wikipedia_pages/Piers J. Sellers
+2025-09-20 13:04:19,078 - INFO - Saved Piers J. Sellers -> wikipedia_pages/Piers J. Sellers
+2025-09-20 13:04:19,195 - INFO - Saved Fyodor Yurchikhin -> wikipedia_pages/Fyodor Yurchikhin
+2025-09-20 13:04:19,318 - INFO - Saved Fyodor Yurchikhin -> wikipedia_pages/Fyodor Yurchikhin
+2025-09-20 13:04:19,437 - INFO - Saved Fyodor Yurchikhin -> wikipedia_pages/Fyodor Yurchikhin
+2025-09-20 13:04:19,557 - INFO - Saved Fyodor Yurchikhin -> wikipedia_pages/Fyodor Yurchikhin
+2025-09-20 13:04:19,674 - INFO - Saved Fyodor Yurchikhin -> wikipedia_pages/Fyodor Yurchikhin
+2025-09-20 13:04:19,765 - INFO - Saved Frank De Winne -> wikipedia_pages/Frank De Winne
+2025-09-20 13:04:19,892 - INFO - Saved Frank De Winne -> wikipedia_pages/Frank De Winne
+2025-09-20 13:04:20,021 - INFO - Saved Donald R. Pettit -> wikipedia_pages/Donald R. Pettit
+2025-09-20 13:04:20,286 - INFO - Saved Donald R. Pettit -> wikipedia_pages/Donald R. Pettit
+2025-09-20 13:04:20,410 - INFO - Saved Donald R. Pettit -> wikipedia_pages/Donald R. Pettit
+2025-09-20 13:04:20,620 - INFO - Saved William C. McCool -> wikipedia_pages/William C. McCool
+2025-09-20 13:04:20,840 - INFO - Saved Ilan Ramon -> wikipedia_pages/Ilan Ramon
+2025-09-20 13:04:21,052 - INFO - Saved John B. Herrington -> wikipedia_pages/John B. Herrington
+2025-09-20 13:04:21,173 - INFO - Saved Laurel B. Clark -> wikipedia_pages/Laurel B. Clark
+2025-09-20 13:04:21,327 - INFO - Saved Liwei Yang -> wikipedia_pages/Liwei Yang
+2025-09-20 13:04:21,444 - INFO - Saved David M. Brown -> wikipedia_pages/David M. Brown
+2025-09-20 13:04:21,687 - INFO - Saved Soichi Noguchi -> wikipedia_pages/Soichi Noguchi
+2025-09-20 13:04:21,781 - INFO - Saved Andre Kuipers -> wikipedia_pages/Andre Kuipers
+2025-09-20 13:04:21,870 - INFO - Saved Andre Kuipers -> wikipedia_pages/Andre Kuipers
+2025-09-20 13:04:21,926 - INFO - Saved Yuri Shargin -> wikipedia_pages/Yuri Shargin
+2025-09-20 13:04:22,158 - INFO - Saved E. Michael Fincke -> wikipedia_pages/E. Michael Fincke
+2025-09-20 13:04:22,297 - INFO - Saved Soichi Noguchi -> wikipedia_pages/Soichi Noguchi
+2025-09-20 13:04:22,567 - INFO - Saved E. Michael Fincke -> wikipedia_pages/E. Michael Fincke
+2025-09-20 13:04:22,800 - INFO - Saved E. Michael Fincke -> wikipedia_pages/E. Michael Fincke
+2025-09-20 13:04:22,873 - INFO - Saved Charles J. Camarda -> wikipedia_pages/Charles J. Camarda
+2025-09-20 13:04:23,075 - INFO - Saved Nie Haisheng -> wikipedia_pages/Nie Haisheng
+2025-09-20 13:04:23,250 - INFO - Saved Nie Haisheng -> wikipedia_pages/Nie Haisheng
+2025-09-20 13:04:23,466 - INFO - Saved Marcos Cesar Pontes -> wikipedia_pages/Marcos Cesar Pontes
+2025-09-20 13:04:23,560 - INFO - Saved Michael E. Fossum -> wikipedia_pages/Michael E. Fossum
+2025-09-20 13:04:23,654 - INFO - Saved Michael E. Fossum -> wikipedia_pages/Michael E. Fossum
+2025-09-20 13:04:23,743 - INFO - Saved Michael E. Fossum -> wikipedia_pages/Michael E. Fossum
+2025-09-20 13:04:24,044 - INFO - Saved Lisa M. Nowak -> wikipedia_pages/Lisa M. Nowak
+2025-09-20 13:04:24,135 - INFO - Saved Junlong Fei -> wikipedia_pages/Junlong Fei
+2025-09-20 13:04:24,257 - INFO - Saved Stephanie D. Wilson -> wikipedia_pages/Stephanie D. Wilson
+2025-09-20 13:04:24,377 - INFO - Saved Stephanie D. Wilson -> wikipedia_pages/Stephanie D. Wilson
+2025-09-20 13:04:24,493 - INFO - Saved Stephanie D. Wilson -> wikipedia_pages/Stephanie D. Wilson
+2025-09-20 13:04:24,599 - INFO - Saved Christopher J. Ferguson -> wikipedia_pages/Christopher J. Ferguson
+2025-09-20 13:04:24,702 - INFO - Saved Christopher J. Ferguson -> wikipedia_pages/Christopher J. Ferguson
+2025-09-20 13:04:24,811 - INFO - Saved Christopher J. Ferguson -> wikipedia_pages/Christopher J. Ferguson
+2025-09-20 13:04:25,396 - INFO - Saved Heidemarie M. Stefanyshyn-Piper -> wikipedia_pages/Heidemarie M. Stefanyshyn-Piper
+2025-09-20 13:04:25,935 - INFO - Saved Heidemarie M. Stefanyshyn-Piper -> wikipedia_pages/Heidemarie M. Stefanyshyn-Piper
+2025-09-20 13:04:26,103 - INFO - Saved Christer Fuglesang -> wikipedia_pages/Christer Fuglesang
+2025-09-20 13:04:26,248 - INFO - Saved Christer Fuglesang -> wikipedia_pages/Christer Fuglesang
+2025-09-20 13:04:26,880 - INFO - Saved Sunita L. Williams -> wikipedia_pages/Sunita L. Williams
+2025-09-20 13:04:26,980 - INFO - Saved Joan E. Higginbotham -> wikipedia_pages/Joan E. Higginbotham
+2025-09-20 13:04:27,050 - INFO - Saved William A. Oefelein -> wikipedia_pages/William A. Oefelein
+2025-09-20 13:04:27,715 - INFO - Saved Sunita L. Williams -> wikipedia_pages/Sunita L. Williams
+2025-09-20 13:04:27,925 - INFO - Saved Nicholas J. M. Patrick -> wikipedia_pages/Nicholas J. M. Patrick
+2025-09-20 13:04:28,167 - INFO - Saved Nicholas J. M. Patrick -> wikipedia_pages/Nicholas J. M. Patrick
+2025-09-20 13:04:28,242 - INFO - Saved Oleg Kotov -> wikipedia_pages/Oleg Kotov
+2025-09-20 13:04:28,316 - INFO - Saved Oleg Kotov -> wikipedia_pages/Oleg Kotov
+2025-09-20 13:04:28,395 - INFO - Saved Oleg Kotov -> wikipedia_pages/Oleg Kotov
+2025-09-20 13:04:28,646 - INFO - Saved Lee J. Archambault -> wikipedia_pages/Lee J. Archambault
+2025-09-20 13:04:28,728 - INFO - Saved Lee J. Archambault -> wikipedia_pages/Lee J. Archambault
+2025-09-20 13:04:29,209 - INFO - Saved John D. Olivas -> wikipedia_pages/John D. Olivas
+2025-09-20 13:04:29,718 - INFO - Saved John D. Olivas -> wikipedia_pages/John D. Olivas
+2025-09-20 13:04:29,795 - INFO - Saved Steven R. Swanson -> wikipedia_pages/Steven R. Swanson
+2025-09-20 13:04:29,872 - INFO - Saved Steven R. Swanson -> wikipedia_pages/Steven R. Swanson
+2025-09-20 13:04:29,949 - INFO - Saved Steven R. Swanson -> wikipedia_pages/Steven R. Swanson
+2025-09-20 13:04:30,325 - INFO - Saved Tracy E. Caldwell -> wikipedia_pages/Tracy E. Caldwell
+2025-09-20 13:04:30,446 - INFO - Saved Sheikh Muszaphar Shukor -> wikipedia_pages/Sheikh Muszaphar Shukor
+2025-09-20 13:04:30,671 - INFO - Saved Tracy E. Caldwell -> wikipedia_pages/Tracy E. Caldwell
+2025-09-20 13:04:30,759 - INFO - Saved Clayton C. Anderson -> wikipedia_pages/Clayton C. Anderson
+2025-09-20 13:04:30,808 - INFO - Saved Clayton C. Anderson -> wikipedia_pages/Clayton C. Anderson
+2025-09-20 13:04:30,891 - INFO - Saved George D. Zamka -> wikipedia_pages/George D. Zamka
+2025-09-20 13:04:30,975 - INFO - Saved George D. Zamka -> wikipedia_pages/George D. Zamka
+2025-09-20 13:04:31,118 - INFO - Saved Barbara R. Morgan -> wikipedia_pages/Barbara R. Morgan
+2025-09-20 13:04:31,178 - INFO - Saved Alvin Benjamin Drew -> wikipedia_pages/Alvin Benjamin Drew
+2025-09-20 13:04:31,240 - INFO - Saved Alvin Benjamin Drew -> wikipedia_pages/Alvin Benjamin Drew
+2025-09-20 13:04:31,790 - INFO - Saved Douglas H. Wheelock -> wikipedia_pages/Douglas H. Wheelock
+2025-09-20 13:04:31,900 - INFO - Saved Paolo A. Nespoli -> wikipedia_pages/Paolo A. Nespoli
+2025-09-20 13:04:32,008 - INFO - Saved Paolo A. Nespoli -> wikipedia_pages/Paolo A. Nespoli
+2025-09-20 13:04:32,523 - INFO - Saved Douglas H. Wheelock -> wikipedia_pages/Douglas H. Wheelock
+2025-09-20 13:04:32,636 - INFO - Saved Paolo A. Nespoli -> wikipedia_pages/Paolo A. Nespoli
+2025-09-20 13:04:32,758 - INFO - Saved Leland D. Melvin -> wikipedia_pages/Leland D. Melvin
+2025-09-20 13:04:32,894 - INFO - Saved Alan G. Poindexter -> wikipedia_pages/Alan G. Poindexter
+2025-09-20 13:04:32,988 - INFO - Saved Alan G. Poindexter -> wikipedia_pages/Alan G. Poindexter
+2025-09-20 13:04:33,105 - INFO - Saved Leland D. Melvin -> wikipedia_pages/Leland D. Melvin
+2025-09-20 13:04:33,181 - INFO - Saved Gregory H. Johnson -> wikipedia_pages/Gregory H. Johnson
+2025-09-20 13:04:33,260 - INFO - Saved Stanley G. Love -> wikipedia_pages/Stanley G. Love
+2025-09-20 13:04:33,353 - INFO - Saved Gregory H. Johnson -> wikipedia_pages/Gregory H. Johnson
+2025-09-20 13:04:33,536 - INFO - Saved Michael J. Foreman -> wikipedia_pages/Michael J. Foreman
+2025-09-20 13:04:33,624 - INFO - Saved Michael J. Foreman -> wikipedia_pages/Michael J. Foreman
+2025-09-20 13:04:34,199 - INFO - Saved Robert L. Behnken -> wikipedia_pages/Robert L. Behnken
+2025-09-20 13:04:34,745 - INFO - Saved Robert L. Behnken -> wikipedia_pages/Robert L. Behnken
+2025-09-20 13:04:35,237 - INFO - Saved Garrett E. Reisman -> wikipedia_pages/Garrett E. Reisman
+2025-09-20 13:04:35,265 - INFO - Saved Sergei Volkov -> wikipedia_pages/Sergei Volkov
+2025-09-20 13:04:35,314 - INFO - Saved Sergei Volkov -> wikipedia_pages/Sergei Volkov
+2025-09-20 13:04:35,535 - INFO - Saved Garrett E. Reisman -> wikipedia_pages/Garrett E. Reisman
+2025-09-20 13:04:35,562 - INFO - Saved Sergei Volkov -> wikipedia_pages/Sergei Volkov
+2025-09-20 13:04:35,708 - INFO - Saved Oleg D. Kononenko -> wikipedia_pages/Oleg D. Kononenko
+2025-09-20 13:04:35,813 - INFO - Saved Oleg D. Kononenko -> wikipedia_pages/Oleg D. Kononenko
+2025-09-20 13:04:35,893 - INFO - Saved Oleg D. Kononenko -> wikipedia_pages/Oleg D. Kononenko
+2025-09-20 13:04:36,437 - INFO - Saved Karen L. Nyberg -> wikipedia_pages/Karen L. Nyberg
+2025-09-20 13:04:36,519 - INFO - Saved Oleg D. Kononenko -> wikipedia_pages/Oleg D. Kononenko
+2025-09-20 13:04:37,015 - INFO - Saved Karen L. Nyberg -> wikipedia_pages/Karen L. Nyberg
+2025-09-20 13:04:37,556 - INFO - Saved Akihiko Hoshide -> wikipedia_pages/Akihiko Hoshide
+2025-09-20 13:04:37,818 - INFO - Saved Soyeon (Lee So-hyun) Yi -> wikipedia_pages/Soyeon (Lee So-hyun) Yi
+2025-09-20 13:04:37,873 - INFO - Saved Kenneth T. Ham -> wikipedia_pages/Kenneth T. Ham
+2025-09-20 13:04:37,925 - INFO - Saved Kenneth T. Ham -> wikipedia_pages/Kenneth T. Ham
+2025-09-20 13:04:38,490 - INFO - Saved Akihiko Hoshide -> wikipedia_pages/Akihiko Hoshide
+2025-09-20 13:04:38,994 - INFO - Saved Gregory Chamitoff -> wikipedia_pages/Gregory Chamitoff
+2025-09-20 13:04:39,488 - INFO - Saved Gregory Chamitoff -> wikipedia_pages/Gregory Chamitoff
+2025-09-20 13:04:39,843 - INFO - Saved Ronald J., Jr. Garan -> wikipedia_pages/Ronald J., Jr. Garan
+2025-09-20 13:04:40,065 - INFO - Saved Ronald J., Jr. Garan -> wikipedia_pages/Ronald J., Jr. Garan
+2025-09-20 13:04:40,307 - INFO - Saved Eric A. Boe -> wikipedia_pages/Eric A. Boe
+2025-09-20 13:04:40,378 - INFO - Saved Eric A. Boe -> wikipedia_pages/Eric A. Boe
+2025-09-20 13:04:40,528 - INFO - Saved Zhigang Zhai -> wikipedia_pages/Zhigang Zhai
+2025-09-20 13:04:40,624 - INFO - Saved Boming Liu -> wikipedia_pages/Boming Liu
+2025-09-20 13:04:40,774 - INFO - Saved Haipeng Jing -> wikipedia_pages/Haipeng Jing
+2025-09-20 13:04:40,848 - INFO - Saved Haipeng Jing -> wikipedia_pages/Haipeng Jing
+2025-09-20 13:04:40,919 - INFO - Saved Haipeng Jing -> wikipedia_pages/Haipeng Jing
+2025-09-20 13:04:41,177 - INFO - Saved Stephen G. Bowen -> wikipedia_pages/Stephen G. Bowen
+2025-09-20 13:04:41,230 - INFO - Saved Stephen G. Bowen -> wikipedia_pages/Stephen G. Bowen
+2025-09-20 13:04:41,317 - INFO - Saved Stephen G. Bowen -> wikipedia_pages/Stephen G. Bowen
+2025-09-20 13:04:41,407 - INFO - Saved Robert S. Kimbrough -> wikipedia_pages/Robert S. Kimbrough
+2025-09-20 13:04:41,498 - INFO - Saved Robert S. Kimbrough -> wikipedia_pages/Robert S. Kimbrough
+2025-09-20 13:04:42,046 - INFO - Saved Joseph M. Acaba -> wikipedia_pages/Joseph M. Acaba
+2025-09-20 13:04:42,112 - INFO - Saved Dominic A. Antonelli -> wikipedia_pages/Dominic A. Antonelli
+2025-09-20 13:04:42,179 - INFO - Saved Dominic A. Antonelli -> wikipedia_pages/Dominic A. Antonelli
+2025-09-20 13:04:42,805 - INFO - Saved Joseph M. Acaba -> wikipedia_pages/Joseph M. Acaba
+2025-09-20 13:04:43,488 - INFO - Saved Joseph M. Acaba -> wikipedia_pages/Joseph M. Acaba
+2025-09-20 13:04:44,097 - INFO - Saved Michael R. Barratt -> wikipedia_pages/Michael R. Barratt
+2025-09-20 13:04:44,742 - INFO - Saved Michael R. Barratt -> wikipedia_pages/Michael R. Barratt
+2025-09-20 13:04:44,869 - INFO - Saved Gregory C. Johnson -> wikipedia_pages/Gregory C. Johnson
+2025-09-20 13:04:45,496 - INFO - Saved Andrew J. Feustel -> wikipedia_pages/Andrew J. Feustel
+2025-09-20 13:04:46,007 - INFO - Saved Andrew J. Feustel -> wikipedia_pages/Andrew J. Feustel
+2025-09-20 13:04:46,500 - INFO - Saved K. Megan McArthur -> wikipedia_pages/K. Megan McArthur
+2025-09-20 13:04:46,781 - INFO - Saved Richard R., II Arnold -> wikipedia_pages/Richard R., II Arnold
+2025-09-20 13:04:47,251 - INFO - Saved Richard R., II Arnold -> wikipedia_pages/Richard R., II Arnold
+2025-09-20 13:04:47,364 - INFO - Saved Michael T. Good -> wikipedia_pages/Michael T. Good
+2025-09-20 13:04:48,401 - INFO - Saved Andrew J. Feustel -> wikipedia_pages/Andrew J. Feustel
+2025-09-20 13:04:48,613 - INFO - Saved Michael T. Good -> wikipedia_pages/Michael T. Good
+2025-09-20 13:04:48,789 - INFO - Saved Roman Romanenko -> wikipedia_pages/Roman Romanenko
+2025-09-20 13:04:48,946 - INFO - Saved Roman Romanenko -> wikipedia_pages/Roman Romanenko
+2025-09-20 13:04:49,076 - INFO - Saved Douglas G. Hurley -> wikipedia_pages/Douglas G. Hurley
+2025-09-20 13:04:49,205 - INFO - Saved Douglas G. Hurley -> wikipedia_pages/Douglas G. Hurley
+2025-09-20 13:04:49,741 - INFO - Saved Thomas H. Marshburn -> wikipedia_pages/Thomas H. Marshburn
+2025-09-20 13:04:50,235 - INFO - Saved Thomas H. Marshburn -> wikipedia_pages/Thomas H. Marshburn
+2025-09-20 13:04:50,340 - INFO - Saved Christopher J. Cassidy -> wikipedia_pages/Christopher J. Cassidy
+2025-09-20 13:04:50,448 - INFO - Saved Christopher J. Cassidy -> wikipedia_pages/Christopher J. Cassidy
+2025-09-20 13:04:51,012 - INFO - Saved Timothy L. Kopra -> wikipedia_pages/Timothy L. Kopra
+2025-09-20 13:04:51,513 - INFO - Saved Timothy L. Kopra -> wikipedia_pages/Timothy L. Kopra
+2025-09-20 13:04:51,597 - INFO - Saved Kevin A. Ford -> wikipedia_pages/Kevin A. Ford
+2025-09-20 13:04:51,675 - INFO - Saved Kevin A. Ford -> wikipedia_pages/Kevin A. Ford
+2025-09-20 13:04:52,165 - INFO - Saved Nicole P. Stott -> wikipedia_pages/Nicole P. Stott
+2025-09-20 13:04:52,692 - INFO - Saved Nicole P. Stott -> wikipedia_pages/Nicole P. Stott
+2025-09-20 13:04:52,772 - INFO - Saved Maksim Surayev -> wikipedia_pages/Maksim Surayev
+2025-09-20 13:04:52,846 - INFO - Saved Maksim Surayev -> wikipedia_pages/Maksim Surayev
+2025-09-20 13:04:53,363 - INFO - Saved Jose M. Hernandez -> wikipedia_pages/Jose M. Hernandez
+2025-09-20 13:04:53,513 - INFO - Saved Guy Laliberte -> wikipedia_pages/Guy Laliberte
+2025-09-20 13:04:53,681 - INFO - Saved Barry E. Wilmore -> wikipedia_pages/Barry E. Wilmore
+2025-09-20 13:04:53,798 - INFO - Saved Barry E. Wilmore -> wikipedia_pages/Barry E. Wilmore
+2025-09-20 13:04:53,892 - INFO - Saved Robert L. Satcher -> wikipedia_pages/Robert L. Satcher
+2025-09-20 13:04:54,389 - INFO - Saved Randolph J. Bresnik -> wikipedia_pages/Randolph J. Bresnik
+2025-09-20 13:04:54,928 - INFO - Saved Randolph J. Bresnik -> wikipedia_pages/Randolph J. Bresnik
+2025-09-20 13:04:55,295 - INFO - Saved Terry W., Jr. Virts -> wikipedia_pages/Terry W., Jr. Virts
+2025-09-20 13:04:55,395 - INFO - Saved Mikhail Korniyenko -> wikipedia_pages/Mikhail Korniyenko
+2025-09-20 13:04:55,472 - INFO - Saved Mikhail Korniyenko -> wikipedia_pages/Mikhail Korniyenko
+2025-09-20 13:04:55,684 - INFO - Saved Timothy J. Creamer -> wikipedia_pages/Timothy J. Creamer
+2025-09-20 13:04:55,796 - INFO - Saved Aleksandr Jr. Skvortsov -> wikipedia_pages/Aleksandr Jr. Skvortsov
+2025-09-20 13:04:55,904 - INFO - Saved Terry W., Jr. Virts -> wikipedia_pages/Terry W., Jr. Virts
+2025-09-20 13:04:57,172 - INFO - Saved Dorothy M. Metcalf-Lindenburger -> wikipedia_pages/Dorothy M. Metcalf-Lindenburger
+2025-09-20 13:04:57,310 - INFO - Saved Naoko Yamazaki -> wikipedia_pages/Naoko Yamazaki
+2025-09-20 13:04:57,815 - INFO - Saved Aleksandr Jr. Skvortsov -> wikipedia_pages/Aleksandr Jr. Skvortsov
+2025-09-20 13:04:58,343 - INFO - Saved Shannon Walker -> wikipedia_pages/Shannon Walker
+2025-09-20 13:04:58,683 - INFO - Saved Aleksandr Jr. Skvortsov -> wikipedia_pages/Aleksandr Jr. Skvortsov
+2025-09-20 13:04:58,806 - INFO - Saved Oleg Skripochka -> wikipedia_pages/Oleg Skripochka
+2025-09-20 13:04:58,882 - INFO - Saved Oleg Skripochka -> wikipedia_pages/Oleg Skripochka
+2025-09-20 13:04:58,962 - INFO - Saved Oleg Skripochka -> wikipedia_pages/Oleg Skripochka
+2025-09-20 13:04:59,035 - INFO - Saved James P. Dutton -> wikipedia_pages/James P. Dutton
+2025-09-20 13:04:59,563 - INFO - Saved Satoshi Furukawa -> wikipedia_pages/Satoshi Furukawa
+2025-09-20 13:04:59,624 - INFO - Saved Dmitri Kondratyev -> wikipedia_pages/Dmitri Kondratyev
+2025-09-20 13:04:59,786 - INFO - Saved Aleksandr Samokutyayev -> wikipedia_pages/Aleksandr Samokutyayev
+2025-09-20 13:05:00,001 - INFO - Saved Aleksandr Samokutyayev -> wikipedia_pages/Aleksandr Samokutyayev
+2025-09-20 13:05:00,155 - INFO - Saved Andrei Borisenko -> wikipedia_pages/Andrei Borisenko
+2025-09-20 13:05:00,235 - INFO - Saved Andrei Borisenko -> wikipedia_pages/Andrei Borisenko
+2025-09-20 13:05:00,498 - INFO - Saved Anton Shkaplerov -> wikipedia_pages/Anton Shkaplerov
+2025-09-20 13:05:00,580 - INFO - Saved Anton Shkaplerov -> wikipedia_pages/Anton Shkaplerov
+2025-09-20 13:05:00,668 - INFO - Saved Anton Shkaplerov -> wikipedia_pages/Anton Shkaplerov
+2025-09-20 13:05:00,746 - INFO - Saved Sergei Revin -> wikipedia_pages/Sergei Revin
+2025-09-20 13:05:00,830 - INFO - Saved Anatoli Ivanishin -> wikipedia_pages/Anatoli Ivanishin
+2025-09-20 13:05:00,913 - INFO - Saved Anatoli Ivanishin -> wikipedia_pages/Anatoli Ivanishin
+2025-09-20 13:05:01,235 - INFO - Saved Aleksandr Misurkin -> wikipedia_pages/Aleksandr Misurkin
+2025-09-20 13:05:01,352 - INFO - Saved Aleksandr Misurkin -> wikipedia_pages/Aleksandr Misurkin
+2025-09-20 13:05:01,858 - INFO - Saved Luca Parmitano -> wikipedia_pages/Luca Parmitano
+2025-09-20 13:05:01,888 - INFO - Saved Yang Liu -> wikipedia_pages/Yang Liu
+2025-09-20 13:05:02,120 - INFO - Saved Wang Liu -> wikipedia_pages/Wang Liu
+2025-09-20 13:05:02,220 - INFO - Saved Xiaoguang Zhang -> wikipedia_pages/Xiaoguang Zhang
+2025-09-20 13:05:02,286 - INFO - Saved Sergei Ryazanski -> wikipedia_pages/Sergei Ryazanski
+2025-09-20 13:05:02,353 - INFO - Saved Sergei Ryazanski -> wikipedia_pages/Sergei Ryazanski
+2025-09-20 13:05:02,390 - INFO - Saved Yevgeni Tarelkin -> wikipedia_pages/Yevgeni Tarelkin
+2025-09-20 13:05:02,793 - INFO - Saved Oleg Novitski -> wikipedia_pages/Oleg Novitski
+2025-09-20 13:05:03,220 - INFO - Saved Oleg Novitski -> wikipedia_pages/Oleg Novitski
+2025-09-20 13:05:03,295 - INFO - Saved Oleg Artemyev -> wikipedia_pages/Oleg Artemyev
+2025-09-20 13:05:03,366 - INFO - Saved Oleg Artemyev -> wikipedia_pages/Oleg Artemyev
+2025-09-20 13:05:03,876 - INFO - Saved Gregory Reid Wiseman -> wikipedia_pages/Gregory Reid Wiseman
+2025-09-20 13:05:03,914 - INFO - Saved Yapi Wang -> wikipedia_pages/Yapi Wang
+2025-09-20 13:05:04,063 - INFO - Saved Alexander Gerst -> wikipedia_pages/Alexander Gerst
+2025-09-20 13:05:04,172 - INFO - Saved Alexander Gerst -> wikipedia_pages/Alexander Gerst
+2025-09-20 13:05:04,288 - INFO - Saved Yelena Serova -> wikipedia_pages/Yelena Serova
+2025-09-20 13:05:04,782 - INFO - Saved Kimiya Yui -> wikipedia_pages/Kimiya Yui
+2025-09-20 13:05:04,857 - INFO - Saved Michael Scott Hopkins -> wikipedia_pages/Michael Scott Hopkins
+2025-09-20 13:05:05,355 - INFO - Saved Andreas Mogensen -> wikipedia_pages/Andreas Mogensen
+2025-09-20 13:05:05,941 - INFO - Saved Timothy Nigel Peake -> wikipedia_pages/Timothy Nigel Peake
+2025-09-20 13:05:05,946 - WARNING - No search result for: Aidyn (Aydyn) Akanovich Aimbetov
+2025-09-20 13:05:05,946 - WARNING - No search result for: Samantha Cristofretti
+2025-09-20 13:05:06,099 - INFO - Saved Aleksey Ovchinin -> wikipedia_pages/Aleksey Ovchinin
+2025-09-20 13:05:06,186 - INFO - Saved Aleksey Ovchinin -> wikipedia_pages/Aleksey Ovchinin
+2025-09-20 13:05:06,273 - INFO - Saved Aleksey Ovchinin -> wikipedia_pages/Aleksey Ovchinin
+2025-09-20 13:05:06,559 - INFO - Saved Kjell Norwood Lindgren -> wikipedia_pages/Kjell Norwood Lindgren
+2025-09-20 13:05:07,371 - INFO - Saved Takuya Onishi -> wikipedia_pages/Takuya Onishi
+2025-09-20 13:05:07,930 - INFO - Saved Kathleen Rubins -> wikipedia_pages/Kathleen Rubins
+2025-09-20 13:05:08,527 - INFO - Saved Thomas Pesquet -> wikipedia_pages/Thomas Pesquet
+2025-09-20 13:05:08,621 - INFO - Saved Dong Chen -> wikipedia_pages/Dong Chen
+2025-09-20 13:05:08,761 - INFO - Saved Jack Fischer -> wikipedia_pages/Jack Fischer
+2025-09-20 13:05:09,303 - INFO - Saved Mark Vande Hei -> wikipedia_pages/Mark Vande Hei
+2025-09-20 13:05:09,389 - INFO - Saved Scott Tingle -> wikipedia_pages/Scott Tingle
+2025-09-20 13:05:09,897 - INFO - Saved Norishige Kanai -> wikipedia_pages/Norishige Kanai
+2025-09-20 13:05:09,956 - INFO - Saved Sergey Ryzhikov -> wikipedia_pages/Sergey Ryzhikov
+2025-09-20 13:05:10,136 - INFO - Saved Christina Koch -> wikipedia_pages/Christina Koch
+2025-09-20 13:05:10,279 - INFO - Saved Tyler Hague -> wikipedia_pages/Tyler Hague
+2025-09-20 13:05:10,422 - INFO - Saved Tyler Hague -> wikipedia_pages/Tyler Hague
+2025-09-20 13:05:11,132 - INFO - Saved Jessica Meir -> wikipedia_pages/Jessica Meir
+2025-09-20 13:05:11,205 - INFO - Saved Sergei Prokopyev -> wikipedia_pages/Sergei Prokopyev
+2025-09-20 13:05:11,389 - INFO - Saved David Saint-Jaques -> wikipedia_pages/David Saint-Jaques
+2025-09-20 13:05:11,439 - INFO - Saved Andrew Morgan -> wikipedia_pages/Andrew Morgan
+2025-09-20 13:05:11,997 - INFO - Saved Serena Aun-Chancellor -> wikipedia_pages/Serena Aun-Chancellor
+2025-09-20 13:05:12,321 - INFO - Saved Anne Charlotte McClain -> wikipedia_pages/Anne Charlotte McClain
+2025-09-20 13:05:12,379 - INFO - Saved Hazzaa Al Mansoori -> wikipedia_pages/Hazzaa Al Mansoori

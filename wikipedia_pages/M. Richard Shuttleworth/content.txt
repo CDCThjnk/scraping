@@ -1,0 +1,380 @@
+ - Main page
+ - Contents
+ - Current events
+ - Random article
+ - About Wikipedia
+ - Contact us
+ - Help
+ - Learn to edit
+ - Community portal
+ - Recent changes
+ - Upload file
+ - Special pages
+ - Donate
+ - Create account
+ - Log in
+ - Donate
+ - Create account
+ - Log in
+ - Contributions
+ - Talk
+
+Contents
+ - (Top)
+ - 1Early life
+ - 2Work
+ - 3Linux and FOSS
+ - 4Spaceflight
+ - 5Transport
+ - 6Legal clash with the South African Reserve Bank
+ - 7Notes
+ - 8References
+ - 9External links
+
+Mark Shuttleworth
+ - Afrikaans
+ - العربية
+ - Asturianu
+ - Azərbaycanca
+ - বাংলা
+ - Беларуская
+ - Български
+ - Bosanski
+ - Català
+ - Čeština
+ - Dansk
+ - Deutsch
+ - Eesti
+ - Ελληνικά
+ - Español
+ - Esperanto
+ - Euskara
+ - فارسی
+ - Français
+ - Galego
+ - 한국어
+ - Հայերեն
+ - Hrvatski
+ - Bahasa Indonesia
+ - Interlingua
+ - Italiano
+ - עברית
+ - Қазақша
+ - Kiswahili
+ - Latviešu
+ - Lietuvių
+ - Lombard
+ - Magyar
+ - Malagasy
+ - മലയാളം
+ - मराठी
+ - مصرى
+ - Bahasa Melayu
+ - Монгол
+ - Nederlands
+ - 日本語
+ - Norsk bokmål
+ - Norsk nynorsk
+ - Polski
+ - Português
+ - Română
+ - Русский
+ - Simple English
+ - Slovenčina
+ - Српски / srpski
+ - Srpskohrvatski / српскохрватски
+ - Suomi
+ - Svenska
+ - Татарча / tatarça
+ - ไทย
+ - Türkçe
+ - Українська
+ - Tiếng Việt
+ - 吴语
+ - 中文
+ - Article
+ - Talk
+ - Read
+ - Edit
+ - View history
+ - Read
+ - Edit
+ - View history
+ - What links here
+ - Related changes
+ - Upload file
+ - Permanent link
+ - Page information
+ - Cite this page
+ - Get shortened URL
+ - Download QR code
+ - Download as PDF
+ - Printable version
+ - Wikimedia Commons
+ - Wikiquote
+ - Wikidata item
+
+Mark Richard Shuttleworth(born 18 September 1973) is a South African and British entrepreneur, founder and CEO ofCanonical, the company behind theUbuntuLinux operating system.[1]In 2002, Shuttleworth became the first African to travel to space, doing so as aspace tourist.[2][3][4]He holdsdual citizenshipfrom South Africa and theUnited Kingdom.[5][6]As of 2020, theSunday Times Rich Listestimated Shuttleworth's worth at £500 million.[7]
+
+Early life
+Shuttleworth was born inWelkom,Free State, South Africa, to a surgeon and a nursery-school teacher.[8]He attended Western Province Preparatory School (where he became Head Boy in 1986), followed by one term atRondebosch Boys' High School, and then Bishops/Diocesan Collegewhere he was Head Boy in 1991.[9][10]Shuttleworth obtained aBachelor of Business Sciencedegree inFinanceandInformation Systemsat theUniversity of Cape Town. As a student, he was involved in the installation of the university's first residential Internet connections.[11]
+
+Work
+In 1995, Shuttleworth foundedThawte Consulting, a company specializing indigital certificatesandInternet security. According to The Official Ubuntu Book, Thawte became the second-largestcertificate authorityafterVeriSign. Shuttleworth sold Thawte to VeriSign in December 1999,[12]earning himR3.5 billion (US$575million, equivalent to$989 million in 2023).[13]
+In September 2000, Shuttleworth formed HBD Venture Capital (Here be Dragons), abusiness incubatorandventure capitalprovider, now managed by Knife Capital.[14]In March 2004 he formed Canonical Ltd., for the promotion and commercial support offree softwareprojects, particularly theUbuntuoperating system. In December 2009, Shuttleworth stepped down as CEO of Canonical Ltd. to focus on "product design, partnerships, and customers", with COOJane Silbersucceeding him.[15]Shuttleworth returned to the position of CEO of Canonical in July 2017, with Silber moving to Canonical'sboard of directors.[16]
+
+Linux and FOSS
+In the 1990s, Shuttleworth participated as a developer of theDebianoperating system.[17]According to the Official Ubuntu Book, he was the first to upload theApache HTTP Server"into the Debian project's archives".[12]
+In 2001, he formed theShuttleworth Foundation, a nonprofit organisation dedicated to social innovation and funding educational, free, andopen source softwareprojects in South Africa, such as theFreedom Toaster.[18]
+In 2004, he returned to the free-software world by funding the development ofUbuntu, aLinux distributionbased on Debian, through his company, Canonical Ltd.[18]
+In 2005, he founded the Ubuntu Foundation and made an initial investment of US$10 million. In the Ubuntu project, Shuttleworth is often referred to with thetongue-in-cheektitle "Self-AppointedBenevolent Dictator for Life" (SABDFL).[19]While travelling toAntarcticaaboard theicebreakerKapitan Khlebnikovin early 2004, Shuttleworth took six months of Debianmailing listarchives with him to compile a list of potential hires for the project.[20]In September 2005, he purchased a 65% stake of Impi Linux.[21]
+On 15 October 2006, Mark Shuttleworth became the first patron ofKDE, the highest level of commercial sponsorship available.[22]This relationship and financial support forKubuntu(the Ubuntu variant usingKDEas the main desktop) ended in 2012.
+On 17 December 2009, Shuttleworth announced that, effective March 2010, he would step down as CEO of Canonical to focus on product design, partnerships, and customers.Jane Silber, COO since 2004, succeeded him as CEO.[23]
+In September 2010, he received an honorary degree from theOpen Universityfor this work.[24]
+On 9 November 2012, Shuttleworth andKenneth RogoffdebatedGarry KasparovandPeter Thielat theOxford Unionin adebateentitled "The Innovation Enigma".[25]
+On 25 October 2013, Shuttleworth and Ubuntu received the Austrian anti-privacyBig Brother Awardfor sending local UbuntuUnity Dashsearches to Canonical servers by default.[26][27][28][29]In 2012, Shuttleworth had defended the anonymisation method used.[30]He later reversed the decision; this feature is not present in current Ubuntu versions.
+
+Spaceflight
+Shuttleworth gained international attention on 25 April 2002, becoming the second self-funded space tourist (afterDennis Titoin 2001) and the first South African in space.[a]Flying throughSpace Adventures, he launched aboard the RussianSoyuz TM-34mission as aspaceflight participant,[31]paying approximately US$20 million[32]for the voyage (equivalent to $32.39 million in 2023). Two days later, theSoyuz spacecraftarrived at theInternational Space Station, where he spent eight days participating in experiments related toAIDSandgenomeresearch. On 5 May 2002, he returned to Earth onSoyuz TM-33. To participate in the flight, Shuttleworth underwent one year of training and preparation, including seven months inStar City, Russia.[33]
+From space, he spoke via video link toThabo Mbeki, then president of South Africa, as part of theFreedom Daycelebrations marking the end ofapartheid.[34]
+He also had a radio conversation withNelson Mandelaand a 14-year-old South African girl, Michelle Foster, who asked him to marry her. He dodged the question, stating that he was "very honoured at the question" before changing the subject.[32]The terminally ill Foster was provided the opportunity to have a conversation with Mark Shuttleworth and Nelson Mandela by the Reach for a Dream foundation.[35][36]
+
+Transport
+He owns a private jet, aBombardier Global Express, often referred to asCanonical Onebut owned through his HBD Venture Capital company.[37][38][39]The dragon depicted on the side of the plane is Norman, the HBD Venture Capital mascot.[40]
+
+Legal clash with the South African Reserve Bank
+When moving R2.5 billion in capital from South Africa to theIsle of Man, theSouth African Reserve Bankimposed a R250 million levy to release his assets.[41]Shuttleworth successfully sued the Reserve Bank in the Supreme Court of Appeal to have the levy returned. However, on 18 June 2015, theConstitutional Court of South Africareversed the lower courts' ruling, finding that the primary purpose of an exit charge was to regulate conduct rather than raise revenue.[42]The court held "...that the exit charge was not inconsistent with the Constitution. The dominant purpose of the exit charge was not to raise revenue but rather to regulate conduct by discouraging the export of capital to protect the domestic economy."[43]
+
+Notes
+ - ^Shuttleworth is the first citizen of an independent African country to go into space.Patrick Baudry, an earlier astronaut, was also born in Africa; however, since Baudry's native Cameroon was a Frenchcolonyat the time of his birth, he is considered a French citizen. Shuttleworth also had British citizenship at the time of his flight.
+
+References
+ - ^"Canonical". Canonical Ltd. Archived fromthe originalon 8 April 2017. Retrieved10 August2017.
+ - ^"Nasa makes space tourism U-turn".BBC News Online. 12 December 2001. Retrieved2 September2012.approval to plans to make the South African internet millionaire Mark Shuttleworth
+ - ^"Space tourist lifts off".BBC News Online. 25 April 2002. Retrieved2 September2012.South African internet millionaire Mark Shuttleworth is heading for a short stay
+ - ^"International Space Station: Soyuz 3 Taxi Flight Crew: Mark Richard Shuttleworth". 4 April 2004. Archived fromthe originalon 4 February 2002. Retrieved2 September2012.Mark was born on 18 September 1973 in mining town Welkom, in South Africa's Free State province
+ - ^Leake, Jonathan; Swinford, Steven (19 July 2009)."It's blast-off Britain as ban on space flight ends".The Sunday Times. London.Archivedfrom the original on 4 November 2013. Retrieved28 February2025.Mark Shuttleworth, a South African entrepreneur with dual British nationality...
+ - ^"Mark Shuttleworth – Contact Details". Mark Shuttleworth. Archived fromthe originalon 5 October 2023. Retrieved24 September2010.
+ - ^Times, The Sunday."Rich List 2020: Profiles 201‑300=".The Times.ISSN0140-0460. Retrieved23 September2020.
+ - ^Vance, Ashlee(10 January 2009)."A Software Populist Who Doesn't Do Windows".New York Times. Retrieved12 January2009.charismatic 35-year-old billionaire from South Africa ... son of a surgeon and a kindergarten teacher
+ - ^Western Province Preparatory School(18 February 2011)."WPPS embraces every aspect of today's educational requirements"(A Commercial Feature).Cape Times. p. 12. Retrieved29 September2012.and 1986 head boy Mark Shuttleworth, who, as the first South African in space, flew with the Soyuz mission to the International Space Station[dead link]
+ - ^"Interesting Facts".Invitation to Bishops. BishopsDiocesan College. Archived fromthe originalon 17 October 2013. Retrieved29 September2012.Mark Shuttleworth was Head boy in 1991 and was the first Afronaut in Space on 2 April 2002
+ - ^"Quick facts about UCT".news.uct.ac.za. Retrieved15 November2017.
+ - ^ab"A Brief History of Ubuntu",The Official Ubuntu Book: Introducing Ubuntu, 23 April 2008, retrieved25 April2025– viainformIT
+ - ^"VeriSign Buys South Africa's Thawte for $575 Million".InternetNews.com. 23 December 1999. Retrieved15 November2010.
+ - ^"An Exec Who Invests Mark Shuttleworth's Money Keeps Every Rejection Letter He Has Ever Received – Here's Why".BusinessInsider.
+ - ^Shuttleworth, Mark (17 December 2009)."My New Focus at Canonical". Retrieved21 December2009.
+ - ^Jane Silber (12 April 2017)."A new vantage point".Ubuntu Insights. Canonical Ltd. Retrieved10 August2017.
+ - ^"Developers LDAP Search". TheDebianProject. Retrieved20 April2010.User Mark Shuttleworth (login "marks", PGP/GPG key id 0xD54F0847)
+ - ^abKhamlichi, M. el."Mark Shuttleworth - The Man Behind Ubuntu Operating System". Retrieved21 April2020.
+ - ^"Ubuntu carves niche in Linux landscape".CNET. Archived fromthe originalon 6 November 2015.
+ - ^Linux Format,Jeff Waugh (LXF 87).Archived16 May 2008 at theWayback Machine
+ - ^"Shuttleworth bets on ImpiLinux". MyADSL. 29 September 2005. Retrieved28 August2006.
+ - ^"Mark Shuttleworth Becomes the First Patron of KDE".KDE.news. KDE. 15 October 2006. Retrieved16 October2006.
+ - ^"Mark Shuttleworth steps down as CEO of Canonical". Mark Shuttleworth. 17 December 2009. Retrieved17 December2009.
+ - ^"Honorary Awards 2010"(PDF).Conferment of Honorary Degrees and Presentation of Graduates. TheOpen University. 25 February 2010. pp. 8, 13. Archived fromthe original(PDF)on 8 October 2010. Retrieved21 September2010.Mr Mark Shuttleworth, DUniv, Versailles, 11 September
+ - ^"Innovation or stagnation – a great debate".The Oxford Martin School Blog. 13 November 2012. Retrieved24 December2012.
+ - ^"BBA 2013 – quintessenz – Big Brother Awards 2013 – Yes We Scan!".Marketing(Press release) (in German). Big Brother Awards. Retrieved10 November2013.Körberlgeld mit lokaler Suche: Marc Shuttleworth, Ubuntu
+ - ^Sneddon, Joey-Elijah (28 October 2013)."Ubuntu's Amazon Shopping Feature Wins Anti-Privacy Award".OMG!Ubuntu. Retrieved10 November2013.
+ - ^"Ubuntu's Mark Shuttleworth wins Austria's Big Brother Award".Muktware. 28 October 2013. Retrieved10 November2013.
+ - ^Lee, Micah."Fix Ubuntu". Archived fromthe originalon 13 October 2014. Retrieved11 November2013.
+ - ^"Amazon search results in the Dash".Mark Shuttleworth Blog Archive. 23 September 2012. Retrieved10 November2013.
+ - ^"Soyuz ISS Missions"(PDF). NASA. Archived fromthe original(PDF)on 2 December 2011.
+ - ^abSpace.com,Nelson Mandela Chats with Shuttleworth, 2 May 2002.Archived6 April 2005 at theWayback Machine
+ - ^"Mark Shuttleworth".paulcolmer.co.za. Retrieved19 November2023.
+ - ^"A leap forward, Mbeki tells Mark".News24. Retrieved23 September2020.
+ - ^BBC News, "Afronaut mourns his 'bride'", 28 May 2002.
+ - ^Dispatch online,Mark's biggest fan dies of cancer, 28 May 2002.Archived29 August 2005 at theWayback Machine
+ - ^"UbuntuWeeklyNewsletter/Issue16 - Ubuntu Wiki".wiki.ubuntu.com.
+ - ^AskSlashdot:Mark Shuttleworth"Canonical One doesn't *actually* belong to Canonical"
+ - ^Airliners.net:Bombardier BD-700-1A10 Global Express
+ - ^"12 Things You Didn't Know About South African Millionaire Mark Shuttleworth".AFKInsider. 25 August 2016. Retrieved15 November2017.
+ - ^"Mark Shuttleworth wants his R250 million back from SARB". htxt Africa. 25 August 2014. Retrieved1 October2014.
+ - ^Mogoeng, CJ;DCJ Moseneke, DCJ;Cameron, J;Froneman, J;Jappie, AJ;Khampepe, J;Molemela, AJ;Nkabinde, J; Theron, AJ;Tshiqi, AJ(18 June 2015)."South African Reserve Bank and Another v Shuttleworth and Another".Constitutional Court of South Africa.
+ - ^"South African Reserve Bank and Another v Shuttleworth and Another (CCT194/14, CCT199/14) [2015] ZACC 17; 2015 (5) SA 146 (CC); 2015 (8) BCLR 959 (CC) (18 June 2015)".www.saflii.org. Retrieved11 November2020.
+
+External links
+ - Mark Shuttleworth's homepage
+ - Spacefacts biography of Mark Shuttleworth
+ - South Africa
+ - Linux
+ - Free and open-source software
+ - Spaceflight
+ - Biography
+ - v
+ - t
+ - e
+ - H. Peter Anvin
+ - Jens Axboe
+ - Andries Brouwer
+ - Rémy Card
+ - Alan Cox
+ - Matthew Garrett
+ - Michael Kerrisk
+ - Shuah Khan
+ - Con Kolivas
+ - Greg Kroah-Hartman
+ - Benson Leung
+ - Robert Love
+ - David S. Miller
+ - Ingo Molnár
+ - Andrew Morton
+ - Keith Packard
+ - Hans Reiser
+ - Rusty Russell
+ - Sage Sharp
+ - Linus Torvalds
+ - Theodore Ts'o
+ - Stephen Tweedie
+ - Sage Weil
+ - Harald Welte
+ - Chris Wright
+ - Richard Stallman
+ - Michael Tiemann
+ - Solar Designer
+ - Gaël Duval
+ - Marc Ewing
+ - Benjamin Mako Hill
+ - Peter MacDonald
+ - Ian Murdock
+ - Daniel Robbins
+ - Jane Silber
+ - Mark Shuttleworth
+ - Patrick Volkerding
+ - Bob Young
+ - Timothee Besset
+ - Matthias Ettrich
+ - Olivier Fourdan
+ - Mark Galassi
+ - Jim Gettys
+ - Ryan C. Gordon
+ - Harald Hoyer
+ - Miguel de Icaza
+ - Havoc Pennington
+ - Lennart Poettering
+ - Kay Sievers
+ - Dave Taylor
+ - Jeff Waugh
+ - Valerie Aurora
+ - Donna Benjamin
+ - Ken Coar
+ - Mary Gardiner
+ - Jon Hall
+ - Federico Heinz
+ - Bradley M. Kuhn
+ - Bruce Perens
+ - Eric S. Raymond
+ - Pia Andrews
+ - Jono Bacon
+ - Keith Bergelt
+ - Pamela Jones
+ - Allison Randal
+ - Karen Sandler
+ - Dave Sifry
+ - Luis Villa
+ - v
+ - t
+ - e
+ - Including orbital and supraorbital spaceflights
+ - Soviet Space Agency/TBSmission (1990:TM-11/TM-10toMir)Toyohiro Akiyama
+ - Toyohiro Akiyama
+ - Soviet Space Agency/Project Juno(1991:TM-12/TM-11to Mir)Helen Sharman
+ - Helen Sharman
+ - MirCorpISS EP-1(2001:TM-32/TM-31toISS)Dennis Tito
+ - Dennis Tito
+ - Space AdventuresISS EP-3(2002:TM-34/TM-33to ISS)Mark Shuttleworth
+ - Mark Shuttleworth
+ - Space Adventures Expedition11/12(2005:TMA-7/TMA-6to ISS)Gregory Olsen
+ - Gregory Olsen
+ - Space Adventures Expedition13/14(2006:TMA-9/TMA-8to ISS)Anousheh Ansari
+ - Anousheh Ansari
+ - Space Adventures Expedition14/15(2007:TMA-10/TMA-9to ISS)Charles Simonyi
+ - Charles Simonyi
+ - Space Adventures Expedition17/18(2008:TMA-13/TMA-12to ISS)Richard Garriott
+ - Richard Garriott
+ - Space Adventures Expedition18/19(2009:TMA-14/TMA-13to ISS)Charles Simonyi
+ - Charles Simonyi
+ - Space Adventures Expedition19/20/21(2009:TMA-16/TMA-14to ISS)Guy Laliberté
+ - Guy Laliberté
+ - SpaceX/Shift4Inspiration4(2021)Jared IsaacmanSian ProctorHayley ArceneauxChristopher Sembroski
+ - Jared Isaacman
+ - Sian Proctor
+ - Hayley Arceneaux
+ - Christopher Sembroski
+ - Space Adventures (2021:MS-20to ISS)Yusaku MaezawaYozo Hirano
+ - Yusaku Maezawa
+ - Yozo Hirano
+ - Axiom Space/SpaceX (2022:Ax-1to ISS)Larry ConnorMark PathyEytan Stibbe
+ - Larry Connor
+ - Mark Pathy
+ - Eytan Stibbe
+ - Axiom Space/SpaceX (2023:Ax-2to ISS)John Shoffner
+ - John Shoffner
+ - SpaceXFram2(2025)Chun WangJannicke MikkelsenEric PhilipsRabea Rogge
+ - Chun Wang
+ - Jannicke Mikkelsen
+ - Eric Philips
+ - Rabea Rogge
+ - Axiom Space/SpaceX untitled movie (2025+)Tom CruiseDoug Liman
+ - Tom Cruise
+ - Doug Liman
+ - MirCorpmissions to Mir (2000;Mirshut-down, then de-orbitted)
+ - Richard Garriott(2001: replaced byDennis Tito)
+ - Lance Bass(2002: Space AdventuresISS EP-4–TMA-1/TM-34)
+ - Daisuke Enomoto(2006: replaced byAnousheh Ansari)
+ - Inspiration Mars(2018, 2021; defunct by 2015)
+ - Space Adventures/SpaceXmission 1(2022; contract expired)
+ - SpaceXdearMoon(2024)
+ - List of billionaire spacetravellers
+ - Space tourists
+ - Space tourism
+ - ISNI
+ - VIAF
+ - France
+ - BnF data
+ - Poland
+ - 1973 births
+ - Alumni of Diocesan College, Cape Town
+ - British astronauts
+ - British bloggers
+ - British chief executives
+ - British software engineers
+ - Canonical (company)
+ - Cypherpunks
+ - Debian people
+ - Living people
+ - Open source people
+ - People from Welkom
+ - South African astronauts
+ - South African chief executives
+ - South African engineers
+ - South African inventors
+ - South African people of British descent
+ - Space tourists
+ - Ubuntu (operating system) people
+ - University of Cape Town alumni
+ - All articles with dead external links
+ - Articles with dead external links from April 2014
+ - Webarchive template wayback links
+ - CS1 German-language sources (de)
+ - Articles with short description
+ - Short description is different from Wikidata
+ - Use dmy dates from December 2016
+ - Use South African English from December 2012
+ - All Wikipedia articles written in South African English
+ - Articles with hCards
+ - Commons category link is on Wikidata
+ - This page was last edited on 9 September 2025, at 11:45(UTC).
+ - Text is available under theCreative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to theTerms of UseandPrivacy Policy. Wikipedia® is a registered trademark of theWikimedia Foundation, Inc., a non-profit organization.
+ - Privacy policy
+ - About Wikipedia
+ - Disclaimers
+ - Contact Wikipedia
+ - Code of Conduct
+ - Developers
+ - Statistics
+ - Cookie statement
+ - Mobile view
+ - 
+ - 

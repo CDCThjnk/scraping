@@ -1,0 +1,289 @@
+ - Main page
+ - Contents
+ - Current events
+ - Random article
+ - About Wikipedia
+ - Contact us
+ - Help
+ - Learn to edit
+ - Community portal
+ - Recent changes
+ - Upload file
+ - Special pages
+ - Donate
+ - Create account
+ - Log in
+ - Donate
+ - Create account
+ - Log in
+ - Contributions
+ - Talk
+
+Contents
+ - (Top)
+ - 1Early life and education
+ - 2Pre-spaceflight career
+ - 3Spaceflight experience
+ - 4Post-spaceflightToggle Post-spaceflight subsection4.1Apollo 11 commemoration activities
+ - 4.1Apollo 11 commemoration activities
+ - 5Personal life and beliefs
+ - 6Professional societies
+ - 7See also
+ - 8Photo gallery
+ - 9Notes
+ - 10References
+ - 11External links
+
+Robert J. Cenker
+ - العربية
+ - Български
+ - Čeština
+ - Deutsch
+ - فارسی
+ - Français
+ - Galego
+ - Italiano
+ - Magyar
+ - Malagasy
+ - Nederlands
+ - Português
+ - Русский
+ - Simple English
+ - Slovenčina
+ - Article
+ - Talk
+ - Read
+ - Edit
+ - View history
+ - Read
+ - Edit
+ - View history
+ - What links here
+ - Related changes
+ - Upload file
+ - Permanent link
+ - Page information
+ - Cite this page
+ - Get shortened URL
+ - Download QR code
+ - Download as PDF
+ - Printable version
+ - Wikimedia Commons
+ - Wikidata item
+Robert Joseph"Bob"Cenker(born November 5, 1948) is an Americanaerospaceandelectrical engineer, aerospace systems consultant, and former astronaut. Cenker worked for 18 years atRCA Astro-Electronics, and its successor companyGE Astro Space, on a variety ofspacecraftprojects. He spent most of his career working on commercial communications satellites, including the Satcom, Spacenet and GStar programs.
+In January 1986, Cenker was a crew member on the twenty-fourth mission ofNASA'sSpace Shuttle program, the seventh flight ofSpace ShuttleColumbia, designated as missionSTS-61-C. Cenker served as aPayload Specialist,[a]representing RCA Astro-Electronics. This mission was the final flight before theChallenger disaster, which caused the Space Shuttle program to be suspended until 1988, and impacted NASA's Payload Specialist program for even longer. As a result, Cenker's mission was called "The End of Innocence" for the Shuttle program. Following the completion of his Shuttle mission, Cenker returned to work in the commercial aerospace field. Since his flight,  he has made numerous public appearances representing NASA and the Shuttle program, in the United States, as well as internationally.
+
+Early life and education
+Cenker was born on November 5, 1948, and raised inMenallen Township, Pennsylvania.[1][2][3]He started his education at St. Fidelis College Seminary inHerman, Pennsylvania, leaving in 1962.[4]In 1970 Cenker enrolled atPenn State University[5]where he earned aBachelor of Sciencedegree inaerospace engineering. He continued his studies at Penn State and earned aMaster of Sciencedegree in 1973, also in aerospace engineering.[6][3]Cenker earned a second Master of Science degree inelectrical engineeringfromRutgers Universityin 1977.[6]
+
+Pre-spaceflight career
+Cenker worked for 18 years atRCA Astro-Electronicsand its successor companyGE Astro Space. Cenker worked onhardware designandsystems designconcerningsatelliteattitude control. He also worked onin-orbitoperations, as well as spacecraftassembly, test, and pre-launch operations. He spent two years on theNavynavigation satelliteprogram, but spent most of his career working on commercialcommunications satellites.[3]
+Cenker's positions included integration and test manager for theSatcom D and Espacecraft, where he was responsible for all launch site activities. He also served asspacecraft busmanager on theSpacenet/GStar programs. He was responsible for ensuring the spacecraft could interface with multiple rockets, including theDelta,Space Shuttle, andArianelaunch vehicles.[3]
+
+Spaceflight experience
+As an incentive for a spacecraft owner to contract with NASA to use a Shuttle launch instead of an unmanned, commercial launch system,NASApermitted contracting companies to apply for a payload specialist seat on the same mission. When RCA contracted with NASA to launch Satcom Ku-1,RCA Astro-Electronics'manager of systems engineering for the Satcom-K program[7]Bob Cenker, and his co-workerGerard Magilton, were selected to train aspayload specialistsso that one of the pair could accompany Satcom Ku-1 into space.[8][9][10]Cenker and Magilton trained with career astronauts as well as other payload and mission specialists, including those scheduled for the next scheduled flight, that of theChallengermission,STS-51-L.[9][11]
+This flight ofColumbiawas originally scheduled to occur in August 1985, but the timeline slipped. In July 1985 the payload was finalized to include the RCA satellite, and Cenker was assigned to the mission, now designated asSTS-61-C. Magilton was assigned as the back-up.[7]
+Prior to its successful launch,Columbiahad several aborted launch attempts, including one on January 6 which was "one of the most hazardous in the Shuttle’s operational history"[12]to that point. As documented in Crewmember Bill Nelson's book "Mission: An American Congressman's Voyage to Space", and as reported in Spaceflight Insider, "The launch attempt on Jan. 6, 1986 was halted at T-31 seconds. The weather was perfect for the scheduled launch at dawn, but a failure of a liquid oxygen drain valve prevented it to close properly. The valve was then closed manually, but not quickly enough to prevent a low temperature in one fuel line." However, Nelson says that what really happened was that "the valve did not close because it was not commanded to close",[13]and that it was later determined that theRogers Commission, investigating the series of mistakes that forced this second scrub, recognized that the problems were personnel-related, caused by fatigue from overwork: One potentially catastrophic human error occurred 4 minutes 55 seconds before the scheduled launch of mission 61-C on January 6, 1986. According to aLockheedSpace Operations Company incident report, 18,000 pounds ofliquid oxygenwere inadvertently drained from theShuttle external fuel tankdue to operator error. Fortunately, the liquid oxygen flow dropped the main engine inlet temperature below the acceptable limit causing a launch hold, but only 31 seconds before lift-off. As the report states, "Had the mission not been scrubbed, the ability of the orbiter to reach a defined orbit may have been significantly impacted.[13]
+There was another near-catastrophic launch abort three days later. Referring to the January 9 abort, pilot Charlie Bolden later stated that it "...would have been catastrophic, because the engine would have exploded had we launched.[12]In all, it took a record eight attempts to getColumbiaoff the ground.[13]Columbiafinally launched and achieved orbit on January 12, 1986, with a full crew of seven. Along with Cenker, the crew includedRobert L. "Hoot" Gibson, future NASA AdministratorCharles F. Bolden,George D. Nelson,Steven A. Hawley,Franklin R. Chang-Diaz, andUS RepresentativeBill Nelson.[14][15][16]Cenker and his crewmates traveled over 2.5 million miles in 98orbitsaboard Columbia and logged over 146 hours inspace.[17]
+During the six-day mission, January 12–18, Cenker performed a variety of physiological tests, operated a primary experiment – an infrared imaging camera – and assisted with the deployment ofRCA Americom'sSatcom Ku-1 satellite, the primary mission objective.[14][17][18]Satcom Ku-1 was deployed nearly 10 hours into the mission, and Satcom later reached its designatedgeostationary orbital positionat 85 degrees West longitude where it remained operational until April 1997, the last major commercial satellite deployed by the Space Shuttle program. In a 2014 video of the "Tell Me a Story" series titled "Close My Eyes & Drift Away", posted to theKennedy Space Center Visitor ComplexYouTubechannel, Cenker tells a humorous story regarding azero-gsleeping problem he faced on his mission.[19]
+The next Shuttle launch, ten days after the return ofColumbia, resulted in the destruction of theChallengerwith the loss of all aboard, including Cenker's counterpart fromHughes Aircraft, civilian crew member and Payload SpecialistGreg Jarvis.[20]Accordingly, commander Gibson later called the STS-61-C mission "The End of Innocence" for the Shuttle program.[7][12]
+Following the Challenger disaster, the Shuttle fleet was grounded until 1988.[21]Even after Shuttle missions resumed, civilian payload specialists like Cenker were excluded until the payload specialist program was reinstated on December 2, 1990, whenSamuel T. Durrance, anApplied Physics LaboratoryastrophysicistandRonald A. Parise, aComputer Sciences Corporationastronomer, flew aboardSTS-35.[22]By that time, RCA had been purchased byGeneral Electric, and RCA Astro-Electronics became part of GE. Following two additional ownership transitions, the facility was closed in 1998. As a result, Cenker was the only RCA Astro-Electronics employee, and only employee in the history of the facility under all of its subsequent names, to ever fly in space.[23]
+NASA's Payload Specialist program has been criticized for giving limited Shuttle flight positions to civilian aerospace engineers such as Cenker and Greg Jarvis (killed aboardChallenger), politicians such as Bill Nelson, and other civilians such asTeacher in SpaceChrista McAuliffe(also killed aboardChallenger). Even the flight of formerMercury astronautand US SenatorJohn Glennwas questioned.[24]The concern was that these people had replaced career astronauts in very limited flight opportunities, and some may have flown without fully understanding the level of danger involved in a Shuttle mission.[a][b]
+
+Post-spaceflight
+Following the completion of his Shuttle mission, Cenker returned to work in the civilian aerospace field. Cenker's last two years with RCA Astro-Electronics and its successor GE Astro Space were spent as Manager of Payload Accommodations on anEOS spacecraftprogram. After leaving GE, Cenker served as a consultant for various aerospace companies regarding micro-gravity research, andspacecraft design, assembly and flight operations. Cenker supportedsystems engineeringandsystems architecturestudies for various spacecraft projects, includingsmallsats, militarycommunications satellites, and large, assembled-in-orbit platforms. His contributions included launch vehicle evaluation and systems engineering support forMotorolaonIridium, and launch readiness for theGlobalstarconstellation. Other efforts include systems engineering and operations support forIntelsaton Intelsat K and Intelsat VIII, forAT&TonTelstar401 and 402, forFairchild-Matraon SPAS III, forMartin MariettaonAstra 1B,BS-3N,ACTS, and for theLockheed MartinSeries 7000 communications satellites.[3]
+In 2017, Cenker's STS-61C crewmate formerUS SenatorBill Nelsonspoke at a session of theUS House of Representatives. In an address, titled "Mission to Mars and Space Shuttle Flight 30th Anniversary", he read into theCongressional Recordthe details of the mission of STS-61C, as well as the names and function of each crew member including Cenker.[26]: page S45
+In June 2017, Cenker traveled toScotlandwhere he and astronautDoug Wheelockgave a series of talks to children inFifeschools as part of theScottish Space School.[27]
+Cenker continues to make periodic public appearances representing NASA and the astronaut program,[28][29][30][31]including at theKennedy Space CenterVisitor Complex in March 2017[6], January 2023,[32]and April 2024.[33]
+
+Apollo 11 commemoration activities
+Leading up to the 50th anniversary of theApollo 11mission, Cenker participated in several public events with other former NASA astronauts.
+During an interview to discuss his scheduled appearance at TheNew JerseyGovernor's School of Engineering & Technology atRutgers Universityin July 2019, Cenker talked about his education at Rutgers, his work at RCA, his shuttle mission, his connection to the Challenger crew, his thoughts on the importance of the Apollo 11 mission, and of space travel in general.[34]He concluded:
+I want students interested in a space career to find something that they love to study, and there may come a time when NASA needs that expertise. I love engineering and even if I didn’t make it into space, I would still be doing what I loved. You can’t push yourself to study something you don’t love and do it as well as someone who does. What I want students to ask themselves is “how can I do what I love and how can that benefit spaceflight?”[34]
+TheCradle of AviationinGarden City, New Yorkinvited Cenker to participate in its "Moon Fest" planned for July 20, 2019, exactly fifty years after the Apollo 11 landing. It was announced that Cenker would join two fellow shuttle astronauts from New York,Bill ShepherdandCharlie Camarda, at the celebration.[35]
+
+Personal life and beliefs
+Bob Cenker is married to Barbara Ann Cenker; they have two sons and a daughter.[3]
+In a July 2019 interview discussing the 50th anniversary of Apollo 11, Cenker commented that he believes that humans have an innate desire to explore, saying "It’s not learned... It’s in your genes". Discussing his religious beliefs, Cenker said "I'm a good, practicing Catholic. One of the guys I flew with was an agnostic. I think going into space reinforces what you believe when you went... [The agnostic astronaut] couldn’t grasp how one being could create all this. I came back thinking ‘God, you have to be there’".[1]
+
+Professional societies
+ - AssociateFellowin theAmerican Institute of Aeronautics and Astronautics(AIAA)[3]
+ - Life Member of thePenn StateAlumni Association[3]
+ - Life Member of theAssociation of Space Explorers[3]
+ - RegisteredProfessional Engineerin the state ofNew Jersey[3]
+ - Senior Member of theInstitute of Electrical and Electronics Engineers(IEEE)[3]
+ - Sigma Gamma Tau[3]
+ - Tau Beta Pi[3]
+
+See also
+ - 1986 in spaceflight
+ - List of human spaceflights
+ - List of Space Shuttle missions
+ - List of Space Shuttle crews
+ - List of Shuttle payload specialists
+
+Photo gallery
+ - Gag crew photo
+ - STS-61-Cinsignia
+
+Notes
+ - ^abThere was another Space Shuttle astronaut category sometimes confused with that of Payload Specialist: While Payload Specialists were non-NASA personnel selected for a single specific mission,Mission Specialistswere selected as astronauts first, and then subsequently assigned to flights as mission needs dictated.
+ - ^A 1986 post-Challengerarticle inThe Washington Postreviewed the issue, reporting that as far back as 1982, NASA was concerned with finding reasonable justifications for flying civilians on the Shuttle as was directed by theReaganadministration. The Post article says that "A review of records and interviews with past and present NASA and government officials shows the civilian program's controversial background, with different groups pushing for different approaches." The article continues: "AuthorTom Wolfe, who chronicled the early days of the space program inThe Right Stuff,wrote after theChallengerexplosion that support for the citizen program, and therefore McAuliffe's place aboard the shuttle, was part of an insiders' battle. NASA civilians, pitting themselves against the professional astronauts, used the program for the 'dismantling of Astropower,' which Wolfe described as 'the political grip the original breed offighter-pilottest-pilotastronauts had on NASA.' "[25]
+
+References
+ - ^abZajac, Frances Borsodi (18 July 2019)."Menallen Township native who flew into space reflects on 50th anniversary of Apollo landing".Heraldstandard.com. Herald-Standard.Archivedfrom the original on 19 July 2019. Retrieved19 July2019.
+ - ^Snyder, Susan (20 June 2017)."Astronaut Facts".Philly.com. The Inquirer. Archived fromthe originalon 6 October 2017. Retrieved6 October2017.
+ - ^abcdefghijklm"Biographical Data: Robert J. Ceneker"(PDF). NASA. May 1999. RetrievedJanuary 10,2021.
+ - ^Saint Fidelis Alumni Directory, 4th ed. Saint Fidelis. April 1980. p. 49.
+ - ^Shelly, Nora (13 June 2017)."Meet 22 astronauts with Pennsylvania roots".Pennlive.com. PENNSYLVANIA REAL-TIME NEWS.Archivedfrom the original on 14 April 2020. Retrieved6 October2017.
+ - ^abc"Meet Astronaut Bob Cenker".Kennedyspacecenter.com. NASA. Archived fromthe originalon 31 July 2017. Retrieved31 July2017.
+ - ^abcEvans, Ben (11 January 2014)."Mission 61C: The Original 'Mission Impossible' (Part 1)".Americaspace.com.Archivedfrom the original on 2 August 2017. Retrieved28 February2017.
+ - ^"Mission Archives: STS-61-C".NASA.gov. NASA.Archivedfrom the original on 2 August 2017. Retrieved3 March2017.
+ - ^ab"Training Photo: S85-44834 (20 Nov. 1985)".Spaceflight.nasa.gov. NASA. Archived fromthe originalon 2 August 2017. Retrieved20 May2017.
+ - ^Hitt, David; Smith, Heather R. (June 2014).Bold They Rise: The Space Shuttle Early Years, 1972–1986. Univ of Nebraska Press. p. 271.ISBN9780803255487.Archivedfrom the original on 2 August 2017. Retrieved28 February2017.
+ - ^Burgess, Colin (January 2000).Teacher In Space. Univ of Nebraska Press. p. 52.ISBN0803261829.Archivedfrom the original on 2 August 2017. Retrieved28 February2017.
+ - ^abcEvans, Ben (12 January 2014)."Mission 61C: The Original 'Mission Impossible' (Part 2)".Americaspace.com.Archivedfrom the original on 2 August 2017. Retrieved28 February2017.
+ - ^abcVan Oene, Jacques."Our SpaceFlight Heritage: STS-61C – Delays before disaster".Spaceflightinsider.com. Spaceflight Insider. Archived fromthe originalon 6 October 2017. Retrieved6 October2017.
+ - ^ab"STS-61C Press Kit: DECEMBER 1985"(PDF).jsc.nasa.gov. NASA. Archived from the original on 3 August 2017. Retrieved13 February2017.
+ - ^Evans, Ben (9 January 2016)."The Real Mission Impossible: 30 Years Since Mission 61C (Part 1)".Americaspace.com. AmericaSpace.Archivedfrom the original on 3 August 2017. Retrieved28 February2017.
+ - ^Evans, Ben (10 January 2016)."The Real Mission Impossible: 30 Years Since Mission 61C (Part 2)".Americaspace.com.Archivedfrom the original on 3 August 2017. Retrieved28 February2017.
+ - ^ab"61-C (24)".Science.ksc.nasa.gov. NASA.Archivedfrom the original on 3 August 2017. Retrieved20 February2017.
+ - ^"SATCOM KU-1".nssdc.gsfc.nasa.gov. Retrieved13 February2017.
+ - ^"Tell Me a Story: Close My Eyes & Drift Away".Kennedy Space Center Visitor Complex. NASA. 30 June 2014.Archivedfrom the original on 2 August 2017.
+ - ^"NASA – STS-51L Mission Profile".NASA.gov. NASA. 19 January 2016.Archivedfrom the original on 3 August 2017. Retrieved20 February2017.
+ - ^"Mission Archives: STS-26".NASA.gov. NASA.Archivedfrom the original on 3 August 2017. Retrieved19 February2017.
+ - ^"STS-35 (38)".Science.ksc.nasa.gov. NASA.Archivedfrom the original on 3 August 2017. Retrieved20 February2017.
+ - ^Michelson, Daniel; Cleary, Kenneth (7 April 2017)."RCA Astro-Electronics Division records"(PDF).dla.library.upenn.edu. Univ of Penn. p. 4 (Biography/History).Archived(PDF)from the original on 17 February 2018. Retrieved16 February2018.After GE acquired RCA in 1986, it combined AED with the Spacecraft Operations of its Space Systems Division to form the GE Astro Space Division. The entire division was sold to Martin Marietta in 1993, which in turn merged with Lockheed to form Lockheed Martin in 1995. Soon after the merger, Lockheed Martin announced that they would be closing the former AED facility. In 1998, forty years after its establishment, the RCA Space Center shut down for good.
+ - ^Oberg, James."NASA hypes "Glenn Mission" Science".www.jamesoberg.com.Archivedfrom the original on 2 August 2017. Retrieved4 March2017.
+ - ^Pincus, Walter."NASA's Push to Put Citizen in Space Overtook Fully 'Operational' Shuttle".The Washington Post.Archivedfrom the original on 2 August 2017. Retrieved4 March2017.
+ - ^"US Congressional Record: 1/12/2016"(PDF). US Congress.Archived(PDF)from the original on 3 August 2017. Retrieved3 March2017– via Wikimedia.
+ - ^"A STARS and stripes flag found in attic at Glamis Castle is to go into space".Scotsman.com. Archived fromthe originalon 6 October 2017. Retrieved6 October2017.
+ - ^Lennox, Joe (August 2004).Vision for Space. iUniverse. p. 241.ISBN9780595321131.Archivedfrom the original on 2 August 2017. Retrieved28 February2017.
+ - ^Gillett, Rachel (19 October 2012)."East Windsor Retired Astronaut Visits Peddie School".Patch.com.Archivedfrom the original on 2 August 2017. Retrieved20 May2017.
+ - ^"Astronaut Visits Flemington Woman's Club".NJ.com. 4 April 2009.Archivedfrom the original on 2 August 2017. Retrieved20 May2017.
+ - ^"Press Release: RETIRED NASA ASTRONAUT TO SPEAK ON OCC CAMPUS". Ocean County College. Archived from the original on 28 May 2010. Retrieved17 February2018.{{cite web}}:  CS1 maint: bot: original URL status unknown (link)
+ - ^"Events Happening for the New Year at the Kennedy Space Center Visitor Complex: January Astronaut Encounters".laughingplace.com. Laughing Place Disney Newsdesk. 5 January 2023.Archivedfrom the original on 7 January 2023. Retrieved7 January2023.
+ - ^"Meet Astronaut Bob Cenker".kennedyspacecenter.com. NASA.Archivedfrom the original on 18 January 2024. Retrieved18 January2024.
+ - ^abMedina, Cynthia (11 July 2019)."Astronaut Shares his Journey into Space, Ahead of Apollo 11 50th Anniversary".Newswise.com. Newswise.Archivedfrom the original on 12 July 2019. Retrieved12 July2019.
+ - ^Murray, Anthony (17 July 2019)."A Moon Landing To Remember".Longislandweekly.com. Long Island Weekly.Archivedfrom the original on 19 July 2019. Retrieved19 July2019.
+
+External links
+ - STS-61C Press Kit
+ - NASA: 61-C Mission Page
+ - Space Shuttle Flight 24 (STS-61C) Post Flight Presentation on YouTube
+ - v
+ - t
+ - e
+ - The human body
+ - Hygiene
+ - Locomotion
+ - Medicine
+ - Neuroscience
+ - PsychologyPsychological and sociological effects
+ - Psychological and sociological effects
+ - Sex
+ - Sleep
+ - AnimalsCatsCockroachesDogsFrogsFruit fliesMicePrimatesTardigradesTortoises
+ - Cats
+ - Cockroaches
+ - Dogs
+ - Frogs
+ - Fruit flies
+ - Mice
+ - Primates
+ - Tardigrades
+ - Tortoises
+ - Extraterrestrial life
+ - Microorganisms
+ - PlantsAstrobotany
+ - Astrobotany
+ - Climate
+ - Corrosion
+ - Debris
+ - Dust
+ - Magnetosphere
+ - WeatherWeathering
+ - Weathering
+ - Advertising
+ - Alcohol
+ - Archaeologyof Earthof items in space
+ - of Earth
+ - of items in space
+ - Art
+ - Burial
+ - Colonization
+ - EconomyMiningTrade
+ - Mining
+ - Trade
+ - Ethics
+ - Exploration
+ - Food
+ - Law
+ - Military
+ - Music
+ - ReligionChristmas
+ - Christmas
+ - Selfies
+ - Tourism
+ - Voting
+ - War
+ - Women
+ - Accidents
+ - Architecture
+ - Farming
+ - FoodCarbonated drinks
+ - Carbonated drinks
+ - Toilets
+ - Writing
+ - Logistics
+ - Manufacturing
+ - Mining
+ - PowerBatteriesNuclearSolarfor Earthfor spacecraft
+ - Batteries
+ - Nuclear
+ - Solarfor Earthfor spacecraft
+ - for Earth
+ - for spacecraft
+ - Radar
+ - Telescopes
+ - Weapons
+ - VIAF
+ - FAST
+ - WorldCat
+ - United States
+ - 1948 births
+ - Living people
+ - Aerospace engineers
+ - People from Uniontown, Pennsylvania
+ - Penn State College of Engineering alumni
+ - Rutgers University alumni
+ - NASA sponsored astronauts
+ - Space Shuttle program astronauts
+ - RCA people
+ - General Electric employees
+ - Lockheed Martin people
+ - Martin Marietta people
+ - Engineers from New Jersey
+ - Senior members of the IEEE
+ - Engineers from Pennsylvania
+ - CS1: unfit URL
+ - CS1 maint: bot: original URL status unknown
+ - Articles with short description
+ - Short description is different from Wikidata
+ - Good articles
+ - Articles with hCards
+ - Commons category link from Wikidata
+ - This page was last edited on 1 May 2025, at 04:39(UTC).
+ - Text is available under theCreative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to theTerms of UseandPrivacy Policy. Wikipedia® is a registered trademark of theWikimedia Foundation, Inc., a non-profit organization.
+ - Privacy policy
+ - About Wikipedia
+ - Disclaimers
+ - Contact Wikipedia
+ - Code of Conduct
+ - Developers
+ - Statistics
+ - Cookie statement
+ - Mobile view
+ - 
+ - 

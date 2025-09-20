@@ -1,0 +1,14 @@
+{
+  "raw_name": "Haise, Fred W., Jr.",
+  "normalized_name": "Fred W., Jr. Haise",
+  "attempted_titles": [
+    "Fred W., Jr. Haise",
+    "Fred Haise"
+  ],
+  "requested_url": "https://en.wikipedia.org/wiki/Fred_W.%2C_Jr._Haise",
+  "final_url": "https://en.wikipedia.org/wiki/Fred_Haise",
+  "status": "ok",
+  "notes": [
+    "Direct page 404; using search fallback."
+  ]
+}

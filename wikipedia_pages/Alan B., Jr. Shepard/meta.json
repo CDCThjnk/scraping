@@ -1,0 +1,14 @@
+{
+  "raw_name": "Shepard, Alan B., Jr.",
+  "normalized_name": "Alan B., Jr. Shepard",
+  "attempted_titles": [
+    "Alan B., Jr. Shepard",
+    "Alan Shepard"
+  ],
+  "requested_url": "https://en.wikipedia.org/wiki/Alan_B.%2C_Jr._Shepard",
+  "final_url": "https://en.wikipedia.org/wiki/Alan_Shepard",
+  "status": "ok",
+  "notes": [
+    "Direct page 404; using search fallback."
+  ]
+}

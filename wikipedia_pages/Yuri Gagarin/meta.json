@@ -1,0 +1,14 @@
+{
+  "raw_name": "Gagarin, Yuri",
+  "normalized_name": "Yuri Gagarin",
+  "attempted_titles": [
+    "Yuri Gagarin",
+    "Yuri Gagarin"
+  ],
+  "requested_url": "https://en.wikipedia.org/wiki/Yuri_Gagarin",
+  "final_url": "https://en.wikipedia.org/wiki/Yuri_Gagarin",
+  "status": "ok",
+  "notes": [
+    "Disambiguation detected; using search fallback."
+  ]
+}

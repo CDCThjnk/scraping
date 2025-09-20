@@ -1,0 +1,542 @@
+ - Main page
+ - Contents
+ - Current events
+ - Random article
+ - About Wikipedia
+ - Contact us
+ - Help
+ - Learn to edit
+ - Community portal
+ - Recent changes
+ - Upload file
+ - Special pages
+ - Donate
+ - Create account
+ - Log in
+ - Donate
+ - Create account
+ - Log in
+ - Contributions
+ - Talk
+
+Contents
+ - (Top)
+ - 1CrewToggle Crew subsection1.1Crew seat assignments
+ - 1.1Crew seat assignments
+ - 2Mission highlights
+ - 3External tank
+ - 4See also
+ - 5References
+ - 6External links
+
+STS-71
+ - العربية
+ - 閩南語 / Bân-lâm-gí
+ - Български
+ - Čeština
+ - Dansk
+ - Deutsch
+ - فارسی
+ - Français
+ - Galego
+ - Italiano
+ - עברית
+ - Magyar
+ - Nederlands
+ - 日本語
+ - Norsk nynorsk
+ - Polski
+ - Português
+ - Русский
+ - Slovenčina
+ - Svenska
+ - Українська
+ - Yorùbá
+ - 中文
+ - Article
+ - Talk
+ - Read
+ - Edit
+ - View history
+ - Read
+ - Edit
+ - View history
+ - What links here
+ - Related changes
+ - Upload file
+ - Permanent link
+ - Page information
+ - Cite this page
+ - Get shortened URL
+ - Download QR code
+ - Download as PDF
+ - Printable version
+ - Wikimedia Commons
+ - Wikidata item
+
+ - Robert L. Gibson
+ - Charles J. Precourt
+ - Ellen S. Baker
+ - Gregory J. Harbaugh
+ - Bonnie J. Dunbar
+ - Anatoly Solovyev
+ - Nikolai Budarin
+ - Gennady Strekalov
+ - Vladimir Dezhurov
+ - Norman E. Thagard
+As the third mission of the US/RussianShuttle-Mir Program,STS-71became the firstSpace Shuttleto dock with the Russianspace stationMir. STS-71 began on June 27, 1995, with the launch ofSpace ShuttleAtlantisfromlaunchpad 39Aat theKennedy Space Centerin Florida. The Shuttle delivered a relief crew of two cosmonautsAnatoly SolovyevandNikolai Budarinto the station and recoveredIncrementastronautNorman Thagard.Atlantisreturned to Earth on July 7 with a crew of eight. It was the first of seven straight missions toMirflown byAtlantis, and the second Shuttle mission to land with an eight-person crew afterSTS-61-Ain 1985.
+During the five days the Shuttle was docked toMir, the combined spacecraft became the largest in orbit at the time. STS-71 marked several key achievements: it was the first Shuttle docking with a space station, the first crew exchange between a Shuttle and a station, and the 100th crewed space launch by the United States. The mission carriedSpacelaband provided logistical resupply forMir. The joint US/Russian crews conducted various life science investigations using Spacelab and performed the Shuttle Amateur Radio Experiment-II (SAREX-II).
+
+Crew
+
+Crew seat assignments
+
+Mission highlights
+The primary objectives of this flight were to rendezvous and perform the first docking between theSpace Shuttleand the RussianSpace StationMiron June 29. In the first U.S.-Russian (Soviet) docking in twenty years,Atlantisdelivered a relief crew of twocosmonautsAnatoly Solovyev and Nikolai Budarin toMir.[6]
+Other prime objectives were on-orbit joint United States of America-Russianlife sciencesinvestigations aboardSPACELAB/Mir, logistical resupply of the Mir and recovery of USastronautNorman E. Thagard.[4]
+Secondary objectives included filming with theIMAXcamera and the Shuttle Amateur Radio Experiment-II (SAREX-II) experiment.[6]
+STS-71 was the 100th U.S. human space launch conducted from Cape Canaveral, the first U.S. Space Shuttle-Russian Space Station docking and joint on-orbit operations; largest spacecraft ever in orbit; and the first on-orbit changeout of Shuttle crew.
+The rendezvous sequence began at 15:32:19 EDT with a lift-off in-plane with Mir's orbit, at the opening of the 10 minute 19 second launch window. Ascent was nominal with no OMS 1 burn required.[6]The OMS 2 burn, initiated at 42 minutes 58 seconds Mission Elapsed Time, adjusted the orbit to 160 x 85.3 nautical miles. It was the lowest ever perigee altitude flown by an orbiter.[7]: 3This facilitated a very rapid initial catch up rate with Mir of about 880 nautical miles per orbit.[8]Almost three hours later the orbit was raised to more typical values of 210 x 159 nautical miles by the OMS 3 burn.
+Docking occurred at 9 am EDT, June 29, using R-Bar or Earth radius vector approach, withAtlantisclosing in on Mir from directly below. R-bar approach allows natural forces to brake the orbiter's approach more than would occur along standard approach directly in front of the space station; also, an R-bar approach minimizes the number of orbiter jet firings needed for approach. The manual phase of the docking began withAtlantisabout a half-mile (800 m) below Mir, with Gibson at the controls on aft flight deck. Stationkeeping was performed when the orbiter was about 75 meters (246 ft) fromMir, pending approval from Russian and U.S. flight directors to proceed. Gibson then maneuvered the orbiter to a point about 10 meters (33 ft) fromMirbefore beginning the final approach to station. Closing rate was close to the targeted 0.1 foot per second (30 mm/s), being approximately 0.107 foot per second (33 mm/s) at contact. Interface contact was nearly flawless: less than 25 millimeters (0.98 in) lateral misalignment and an angular misalignment of less than 0.5 degrees per axis. No braking jet firings had been required.[7]: 3Docking occurred about 216 nautical miles (400 kilometers (250 mi)) aboveLake Baikalregion of the Russian Federation. The Orbiter Docking System (ODS) with Androgynous Peripheral Docking System served as the actual connection point to a similar interface on the docking port on Mir'sKristallmodule. ODS, located in the forward payload bay ofAtlantis, performed flawlessly during the docking sequence.
+When linked,Atlantisand Mir formed the largest spacecraft ever in orbit, with a total mass of about 225metric tons(almost one-half million pounds), orbiting some 218 nautical miles (404 kilometers (251 mi)) above the Earth. After hatches on each side opened, STS-71 crew passed intoMirfor a welcoming ceremony. On the same day, the Mir 18 crew officially transferred responsibility for the station to the Mir 19 crew, and the two crews switched spacecraft.
+For the next five days, about 100 hours in total, joint U.S.-Russian operations were conducted, including biomedical investigations, and transfer of equipment to and fromMir. Fifteen separate biomedical and scientific investigations were conducted, using the Spacelab module installed in the aft portion ofAtlantis's payload bay, and covering seven different disciplines: cardiovascular and pulmonary functions; human metabolism; neuroscience; hygiene, sanitation and radiation; behavioral performance and biology; fundamental biology; and microgravity research. The Mir 18 crew served as test subjects for investigations. Three Mir 18 crew members also carried out an intensive programme of exercise and other measures to prepare for re-entry into gravity environment after more than three months in space.
+Numerous medical samples as well as disks and cassettes were transferred toAtlantisfromMir, including more than 100 urine and saliva samples, about 30 blood samples, 20 surface samples, 12 air samples, several water samples and numerous breath samples taken fromMir18 crew members. Also moved was a broken Salyut-5 computer. Transferred toMirwere more than 450 kilograms (990 lb) of water generated by the orbiter for waste system flushing and electrolysis; specially designed spacewalking tools for use by theMir19 crew during a spacewalk to repair a jammed solar array on the Spektr module; and transfer of oxygen and nitrogen from Shuttle's environmental control system to raise air pressure on the station, to improveMir's consumables margin.
+The spacecraft undocked on July 4, following a farewell ceremony, with the Mir hatch closing at 3:32 pm EDT. July 3 and hatch on Orbiter Docking System shut 16 minutes later. Gibson compared separation sequence to a "cosmic" ballet: Prior to theMir-Atlantisundocking, theMir19 crew temporarily abandoned station, flying away from it in their Soyuz spacecraft so they could record images ofAtlantisandMirseparating. Soyuz unlatched at 6:55 am EDT, and Gibson undockedAtlantisfromMirat 7:10 am EDT. Whilst both spacecraft were undocked fromMir, the station suffered a computer malfunction and started to drift in attitude. TheMir19 crew performed a hasty re-docking, monitored byAtlantis. They subsequently replaced computer hardware allowing them to regain attitude control.
+The returning crew of eight equaled the largest crew (STS-61-A, October 1985) in Shuttle history. To ease their re-entry into gravity environment after more than 100 days in space,Mir18 crew members Thagard, Dezhurov and Strekalov lay supine in custom-made recumbent seats installed prior to landing in the orbiter middeck.
+Inflight problems included a glitch with General Purpose Computer 4 (GPC 4), which was declared failed when it did not synchronize with GPC 1; subsequent troubleshooting indicated it was an isolated event, and GPC 4 operated satisfactorily for the remainder of mission.
+During the SAREX portion of the flight, the crew contacted several schools. One was Redlands High School in Redlands, California. Charlie Precourt was able to contact students, former students and technicians that built the communications package. A cross polarized, dual band yagi antenna array and automatic rotor was installed on the roof of the electronics classroom. A dual band radio was installed inside the radio room of the classroom. The contact window lasted about 10 minutes, during which time, about twelve people were able to ask questions. While most were basic or technical questions, one was peculiar. "What would happen of you sneezed inside your helmet?" Precourt answered that you'd probably, "spray your face shield a little bit.." and carry on.
+
+External tank
+Theexternal tankused on this mission (ET-70)[7]was involved in a historicmarine salvagecourt case.[9]The tank was being delivered by barge in November 1994, when the tow vehicle encountered issues inHurricane Gordon. Theirmaydaysignal was picked up by the oil tanker Cherry Valley, which responded and towed the tug and its cargo to safety.[10]Under the tradition of marine salvage, NASA offered $5 million to the crew of the tanker as a reward, but theUnited States Department of Justicereduced the offer to $1 million.[10]The tanker company and crew sued and were awarded $6.4 million, believed to be the largest such award in U.S. history.[10]This was reduced to $4.125 million on appeal.[9]The crew split the award with their employer. At least one crew member was able to use his cut of the proceeds to buy a house, which he calls "the house that NASA bought."[10]
+
+See also
+ - Spaceflight portal
+ - List of human spaceflights
+ - List of human spaceflights to Mir
+ - List of Space Shuttle missions
+ - Outline of space science
+ - United States Astronaut Hall of Fame#Exhibits
+
+References
+ - ^"STS-71". Spacefacts. RetrievedJuly 29,2024.
+ - ^"Storms threaten launch of shuttle".The Gainesville Sun. Associated Press. June 23, 1995. p. 5A. RetrievedJune 28,2025– via Google News.
+ - ^abBrown, Irene (June 23, 1995)."Weather scrubs shuttle launch".UPI. RetrievedNovember 28,2024.
+ - ^abLegler, Robert D.; Bennett, Floyd V. (September 1, 2011)."Space Shuttle Missions Summary"(PDF).Scientific and Technical Information (STI) Program Office. NASA. pp.83–84. NASA/TM–2011–216142.Archived(PDF)from the original on October 21, 2020.This article incorporates text from this source, which is in thepublic domain.
+ - ^Ballingrud, David (June 25, 1995)."Atlantis' launch off; will try again Tuesday".Tampa Bay Times. RetrievedNovember 28,2024.
+ - ^abcThis article incorporatespublic domain materialfromDumoulin, Jim.STS-71 (69).National Aeronautics and Space Administration.(June 29, 2001).
+ - ^abcFricke Jr., Robert W. (August 1, 1995).STS-71 Space Shuttle Mission Report(PDF)(Report). NASA. RetrievedNovember 28,2024.
+ - ^"STS-71 Day 1 Highlights". NASA. 1995.[permanent dead link]
+ - ^abMargate Shipping Co. v. M/V JA Orgeron,US 143 F.3d 976 (5th Cir. 1998)(July 1, 1998), archived fromthe originalon February 3, 2024.
+ - ^abcd"Rescues at sea, and how to make a fortune".Planet Money. NPR. January 26, 2024. RetrievedFebruary 3,2024.
+
+External links
+ - STS-71 Video HighlightsArchivedNovember 10, 2013, at theWayback Machine
+ - v
+ - t
+ - e
+ - Space Shuttle
+ - Mir
+ - Soyuz
+ - STS-60
+ - STS-63
+ - Soyuz TM-21
+ - STS-71
+ - STS-74
+ - STS-76
+ - STS-79
+ - STS-81
+ - STS-84
+ - STS-86
+ - STS-89
+ - STS-91
+ - Thagard
+ - Lucid
+ - Blaha
+ - Linenger
+ - Foale
+ - Wolf
+ - Thomas
+ - v
+ - t
+ - e
+ - STS-51-J
+ - STS-61-B
+ - STS-27
+ - STS-30
+ - STS-34
+ - STS-36
+ - STS-38
+ - STS-37
+ - STS-43
+ - STS-44
+ - STS-45
+ - STS-46
+ - STS-66
+ - STS-71
+ - STS-74
+ - STS-76
+ - STS-79
+ - STS-81
+ - STS-84
+ - STS-86
+ - STS-101
+ - STS-106
+ - STS-98
+ - STS-104
+ - STS-110
+ - STS-112
+ - STS-115
+ - STS-117
+ - STS-122
+ - STS-125
+ - STS-129
+ - STS-132
+ - STS-135
+ - Retired
+ - Kennedy Space Center Visitor Complex,Merritt Island, Florida
+ - v
+ - t
+ - e
+ - Soyuz T-15
+ - Soyuz TM-2
+ - Soyuz TM-3
+ - Soyuz TM-4
+ - Soyuz TM-5
+ - Soyuz TM-6
+ - Soyuz TM-7
+ - Soyuz TM-8
+ - Soyuz TM-9
+ - Soyuz TM-10
+ - Soyuz TM-11
+ - Soyuz TM-12
+ - Soyuz TM-13
+ - Soyuz TM-14
+ - Soyuz TM-15
+ - Soyuz TM-16
+ - Soyuz TM-17
+ - Soyuz TM-18
+ - Soyuz TM-19
+ - Soyuz TM-20
+ - STS-63
+ - Soyuz TM-21
+ - STS-71
+ - Soyuz TM-22
+ - STS-74
+ - Soyuz TM-23
+ - STS-76
+ - Soyuz TM-24
+ - STS-79
+ - STS-81
+ - Soyuz TM-25
+ - STS-84
+ - Soyuz TM-26
+ - STS-86
+ - STS-89
+ - Soyuz TM-27
+ - STS-91
+ - Soyuz TM-28
+ - Soyuz TM-29
+ - Soyuz TM-30
+ - v
+ - t
+ - e
+ - 1977Approach and Landing Tests
+ - Approach and Landing Tests
+ - 1981STS-1STS-2
+ - STS-1
+ - STS-2
+ - 1982STS-3STS-4STS-5
+ - STS-3
+ - STS-4
+ - STS-5
+ - 1983STS-6STS-7STS-8STS-9
+ - STS-6
+ - STS-7
+ - STS-8
+ - STS-9
+ - 1984STS-41-BSTS-41-CSTS-41-DSTS-41-GSTS-51-A
+ - STS-41-B
+ - STS-41-C
+ - STS-41-D
+ - STS-41-G
+ - STS-51-A
+ - 1985STS-51-CSTS-51-DSTS-51-BSTS-51-GSTS-51-FSTS-51-ISTS-51-JSTS-61-ASTS-61-B
+ - STS-51-C
+ - STS-51-D
+ - STS-51-B
+ - STS-51-G
+ - STS-51-F
+ - STS-51-I
+ - STS-51-J
+ - STS-61-A
+ - STS-61-B
+ - 1986STS-61-CSTS-51-L†
+ - STS-61-C
+ - STS-51-L†
+ - 1988STS-26STS-27
+ - STS-26
+ - STS-27
+ - 1989STS-29STS-30STS-28STS-34STS-33
+ - STS-29
+ - STS-30
+ - STS-28
+ - STS-34
+ - STS-33
+ - 1990STS-32STS-36STS-31STS-41STS-38STS-35
+ - STS-32
+ - STS-36
+ - STS-31
+ - STS-41
+ - STS-38
+ - STS-35
+ - 1991STS-37STS-39STS-40STS-43STS-48STS-44
+ - STS-37
+ - STS-39
+ - STS-40
+ - STS-43
+ - STS-48
+ - STS-44
+ - 1992STS-42STS-45STS-49STS-50STS-46STS-47STS-52STS-53
+ - STS-42
+ - STS-45
+ - STS-49
+ - STS-50
+ - STS-46
+ - STS-47
+ - STS-52
+ - STS-53
+ - 1993STS-54STS-56STS-55STS-57STS-51STS-58STS-61
+ - STS-54
+ - STS-56
+ - STS-55
+ - STS-57
+ - STS-51
+ - STS-58
+ - STS-61
+ - 1994STS-60STS-62STS-59STS-65STS-64STS-68STS-66
+ - STS-60
+ - STS-62
+ - STS-59
+ - STS-65
+ - STS-64
+ - STS-68
+ - STS-66
+ - 1995STS-63STS-67STS-71STS-70STS-69STS-73STS-74
+ - STS-63
+ - STS-67
+ - STS-71
+ - STS-70
+ - STS-69
+ - STS-73
+ - STS-74
+ - 1996STS-72STS-75STS-76STS-77STS-78STS-79STS-80
+ - STS-72
+ - STS-75
+ - STS-76
+ - STS-77
+ - STS-78
+ - STS-79
+ - STS-80
+ - 1997STS-81STS-82STS-83STS-84STS-94STS-85STS-86STS-87
+ - STS-81
+ - STS-82
+ - STS-83
+ - STS-84
+ - STS-94
+ - STS-85
+ - STS-86
+ - STS-87
+ - 1998STS-89STS-90STS-91STS-95STS-88
+ - STS-89
+ - STS-90
+ - STS-91
+ - STS-95
+ - STS-88
+ - 1999STS-96STS-93STS-103
+ - STS-96
+ - STS-93
+ - STS-103
+ - 2000STS-99STS-101STS-106STS-92STS-97
+ - STS-99
+ - STS-101
+ - STS-106
+ - STS-92
+ - STS-97
+ - 2001STS-98STS-102STS-100STS-104STS-105STS-108
+ - STS-98
+ - STS-102
+ - STS-100
+ - STS-104
+ - STS-105
+ - STS-108
+ - 2002STS-109STS-110STS-111STS-112STS-113
+ - STS-109
+ - STS-110
+ - STS-111
+ - STS-112
+ - STS-113
+ - 2003STS-107†
+ - STS-107†
+ - 2005STS-114
+ - STS-114
+ - 2006STS-121STS-115STS-116
+ - STS-121
+ - STS-115
+ - STS-116
+ - 2007STS-117STS-118STS-120
+ - STS-117
+ - STS-118
+ - STS-120
+ - 2008STS-122STS-123STS-124STS-126
+ - STS-122
+ - STS-123
+ - STS-124
+ - STS-126
+ - 2009STS-119STS-125STS-127STS-128STS-129
+ - STS-119
+ - STS-125
+ - STS-127
+ - STS-128
+ - STS-129
+ - 2010STS-130STS-131STS-132
+ - STS-130
+ - STS-131
+ - STS-132
+ - 2011STS-133STS-134STS-135
+ - STS-133
+ - STS-134
+ - STS-135
+ - STS-41-F
+ - STS-61-E
+ - STS-61-F
+ - STS-61-G
+ - STS-61-H
+ - STS-62-A
+ - STS-61-M
+ - STS-61-J
+ - STS-144
+ - STS-3xx
+ - STS-400
+ - Others
+ - Atlantis
+ - Challengerdisasterreport
+ - disaster
+ - report
+ - Columbiadisasterinvestigation
+ - disaster
+ - investigation
+ - Discovery
+ - Endeavour
+ - Enterprise
+ - †indicates failure missions.
+ - v
+ - t
+ - e
+ - Intelsat 704
+ - Express 1
+ - Tsikada 1,Faisat 1,Astrid 1
+ - Apstar 2
+ - USA-108
+ - STS-63(SPARTAN-204,ODERACS 2A,ODERACS 2B,ODERACS 2C,ODERACS 2D,ODERACS 2E,ODERACS 2F
+ - Progress M-26
+ - Foton #10
+ - STS-67
+ - Kosmos 2306
+ - Kosmos 2307,Kosmos 2308,Kosmos 2309
+ - Soyuz TM-21
+ - SFU,Himawari 5
+ - Kosmos 2310
+ - Intelsat 705
+ - Kosmos 2311
+ - USA-109
+ - Gurwin 1,EKA-2,UNAMSAT-A
+ - Brasilsat B2,Hot Bird 1
+ - Orbcomm FM1,Orbcomm FM2,OrbView-1
+ - Ofek-3
+ - AMSC-1
+ - Progress M-27
+ - ERS-2
+ - USA-110
+ - Intelsat 706
+ - Spektr
+ - GOES 9
+ - Kosmos 2312
+ - USA-111
+ - Kosmos 2313
+ - DirecTV-3
+ - STEP-3
+ - STS-71
+ - Kosmos 2314
+ - Kosmos 2315
+ - Helios 1A,Cerise,UPMSat
+ - USA-112
+ - STS-70(TDRS-7)
+ - Progress M-28
+ - Kosmos 2316,Kosmos 2317,Kosmos 2318
+ - USA-113
+ - Interbol 1,Maigon 4
+ - PAS-4
+ - Koreasat 1
+ - Molniya 3-59
+ - GEMStar 1
+ - JCSAT-3
+ - N-STAR a
+ - Kosmos 2319
+ - Sich-1,FASat-Alfa
+ - Soyuz TM-22
+ - STS-69(SPARTAN-201,WSF)
+ - Telstar 402R
+ - Resurs-F2 #10
+ - Kosmos 2320
+ - Kosmos 2321
+ - Progress M-29
+ - Luch-1
+ - Astra 1E
+ - STS-73
+ - USA-114
+ - METEOR
+ - Kosmos 2322
+ - Radarsat-1,SURFSAT
+ - USA-115
+ - STS-74(SO)
+ - ISO
+ - Gals 2
+ - AsiaSat 2
+ - SOHO
+ - USA-116
+ - Télécom 2C,INSAT-2C
+ - Kosmos 2323,Kosmos 2324,Kosmos 2325
+ - Galaxy 3R
+ - Progress M-30
+ - Kosmos 2326
+ - IRS-1C,Skipper
+ - EchoStar I
+ - RXTE
+
+ - Space Shuttle missions
+ - Spacecraft launched in 1995
+ - Source attribution
+ - Wikipedia articles incorporating text from NASA
+ - All articles with dead external links
+ - Articles with dead external links from July 2025
+ - Articles with permanently dead external links
+ - Articles with short description
+ - Short description is different from Wikidata
+ - Use mdy dates from October 2022
+ - Webarchive template wayback links
+ - Use American English from January 2014
+ - All Wikipedia articles written in American English
+ - This page was last edited on 27 August 2025, at 15:29(UTC).
+ - Text is available under theCreative Commons Attribution-ShareAlike 4.0 License;
+additional terms may apply. By using this site, you agree to theTerms of UseandPrivacy Policy. Wikipedia® is a registered trademark of theWikimedia Foundation, Inc., a non-profit organization.
+ - Privacy policy
+ - About Wikipedia
+ - Disclaimers
+ - Contact Wikipedia
+ - Code of Conduct
+ - Developers
+ - Statistics
+ - Cookie statement
+ - Mobile view
+ - 
+ - 

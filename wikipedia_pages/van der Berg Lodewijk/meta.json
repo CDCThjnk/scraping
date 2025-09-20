@@ -1,0 +1,14 @@
+{
+  "raw_name": "Lodewijk, van der Berg",
+  "normalized_name": "van der Berg Lodewijk",
+  "attempted_titles": [
+    "van der Berg Lodewijk",
+    "Van den Berg"
+  ],
+  "requested_url": "https://en.wikipedia.org/wiki/van_der_Berg_Lodewijk",
+  "final_url": "https://en.wikipedia.org/wiki/Van_den_Berg",
+  "status": "ok",
+  "notes": [
+    "Direct page 404; using search fallback."
+  ]
+}
